@@ -1,0 +1,156 @@
+# nv_zim Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.1.0\n"
+"POT-Creation-Date: 2025-03-19 22:26:39\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "All"
+msgstr ""
+
+msgid "Back up the existing wiki and create a new one containing all pages?"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Broken link fixed"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot define a project wiki without project path"
+msgstr ""
+
+msgid "Characters"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create project wiki"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Illegal value"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Locations"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "No Wiki link found."
+msgstr ""
+
+msgid "Not a floating point value."
+msgstr ""
+
+msgid "Not an integer."
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Open an existing page, or create a new one?"
+msgstr ""
+
+msgid "Open an existing wiki, or create a new one?"
+msgstr ""
+
+msgid "Open project wiki"
+msgstr ""
+
+msgid "Please try again"
+msgstr ""
+
+msgid "Project wiki not found"
+msgstr ""
+
+msgid "Remove all Zim wiki links?"
+msgstr ""
+
+msgid "Remove the Zim wiki links of the selected elements?"
+msgstr ""
+
+msgid "Remove wiki links"
+msgstr ""
+
+msgid "Selected pages"
+msgstr ""
+
+msgid "The allowed maximum value is"
+msgstr ""
+
+msgid "The allowed minimum value is"
+msgstr ""
+
+msgid "Too large"
+msgstr ""
+
+msgid "Too small"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Wiki created"
+msgstr ""
+
+msgid "Wiki link created"
+msgstr ""
+
+msgid "Wiki link(s) removed."
+msgstr ""
+
+msgid "Wiki page"
+msgstr ""
+
+msgid "Wiki page created"
+msgstr ""
+
+msgid "Wiki page not found"
+msgstr ""
+
+msgid "Zim Desktop Wiki"
+msgstr ""
+
+msgid "Zim connection Online help"
+msgstr ""
+
+msgid "Zim installation not found"
+msgstr ""
+
+msgid "Zim installation not found. Select now?"
+msgstr ""
+
+msgid "Zim notebook"
+msgstr ""
+
+msgid "Zim page"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""

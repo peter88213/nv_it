@@ -1,0 +1,159 @@
+# nv_aeon2 Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.2.3\n"
+"POT-Creation-Date: 2025-03-30 15:36:04\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "!No {} file available for this project."
+msgstr ""
+
+msgid "\"AD\" era is missing in the calendar."
+msgstr ""
+
+msgid "Add or update moon phase data"
+msgstr ""
+
+msgid "Aeon 2 plugin Online help"
+msgstr ""
+
+msgid "Aeon Timeline 2 project"
+msgstr ""
+
+msgid "Alt-Down"
+msgstr ""
+
+msgid "Alt-Left"
+msgstr ""
+
+msgid "Alt-Right"
+msgstr ""
+
+msgid "Alt-Up"
+msgstr ""
+
+msgid "Ambiguous Aeon arc \"{}\"."
+msgstr ""
+
+msgid "Ambiguous Aeon character \"{}\"."
+msgstr ""
+
+msgid "Ambiguous Aeon event title \"{}\"."
+msgstr ""
+
+msgid "Ambiguous Aeon item \"{}\"."
+msgstr ""
+
+msgid "Ambiguous Aeon location \"{}\"."
+msgstr ""
+
+msgid "Ambiguous novelibre character \"{}\"."
+msgstr ""
+
+msgid "Ambiguous novelibre item \"{}\"."
+msgstr ""
+
+msgid "Ambiguous novelibre location \"{}\"."
+msgstr ""
+
+msgid "Ambiguous novelibre plot line \"{}\"."
+msgstr ""
+
+msgid "Ambiguous novelibre section title \"{}\"."
+msgstr ""
+
+msgid "Cannot determine file date."
+msgstr ""
+
+msgid "Cannot overwrite file"
+msgstr ""
+
+msgid "Cannot read timeline data"
+msgstr ""
+
+msgid "Cannot write file"
+msgstr ""
+
+msgid "Create from Aeon Timeline 2..."
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Del"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File already exists"
+msgstr ""
+
+msgid "File written"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Invalid JSON data in timeline"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "New sections"
+msgstr ""
+
+msgid "No JSON part found in timeline data"
+msgstr ""
+
+msgid "No {} file available for this project."
+msgstr ""
+
+msgid "Open Aeon Timeline 2"
+msgstr ""
+
+msgid "Save the project and update it?"
+msgstr ""
+
+msgid "Save the project and update the timeline?"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "There are unsaved changes"
+msgstr ""
+
+msgid "Update the project"
+msgstr ""
+
+msgid "Update the timeline"
+msgstr ""
+
+msgid "Update the timeline?"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""
+
+msgid "newer"
+msgstr ""
+
+msgid "older"
+msgstr ""
+
+msgid "{0} file is {1} than the novelibre project.\n (last saved on {2})"
+msgstr ""

@@ -1,0 +1,6 @@
+.pydevproject
+.project
+*.pyc
+*.bak
+build/
+
