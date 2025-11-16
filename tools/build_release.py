@@ -43,13 +43,13 @@ def main():
 
     # Create the release package.
     copy2('../src/setuplib.py', '../build')
-    distPath = f'../novelibre_{languageCode}.pyz'
+    distPath = f'../nv_{languageCode}.pyz'
     print(f'Writing "{distPath}" ...')
     zipapp.create_archive('../build', target=distPath, main='setuplib:main', compressed=True)
 
     # Create the optional zip file.
     copy2('../src/setup.py', '../build')
-    zipPath = f'../novelibre_{languageCode}.zip'
+    zipPath = f'../nv_{languageCode}.zip'
     print(f'Writing "{zipPath}" ...')
     with zipfile.ZipFile(zipPath, 'w') as release:
         os.chdir('../build')
