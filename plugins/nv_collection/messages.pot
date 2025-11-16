@@ -1,0 +1,207 @@
+# nv_collection Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.5.1\n"
+"POT-Creation-Date: 2025-09-11 22:56:58\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add current project to the collection"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Book"
+msgstr ""
+
+msgid "Book added to the collection"
+msgstr ""
+
+msgid "Book already exists"
+msgstr ""
+
+msgid "Book removed from the collection"
+msgstr ""
+
+msgid "Cannot overwrite file"
+msgstr ""
+
+msgid "Cannot process file"
+msgstr ""
+
+msgid "Cannot remove book"
+msgstr ""
+
+msgid "Cannot remove series"
+msgstr ""
+
+msgid "Cannot save the collection"
+msgstr ""
+
+msgid "Cannot write file"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Collection"
+msgstr ""
+
+msgid "Collection plugin Online help"
+msgstr ""
+
+msgid "Collection saved"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New Series"
+msgstr ""
+
+msgid "No changes to save"
+msgstr ""
+
+msgid "No valid version found in file"
+msgstr ""
+
+msgid "No valid xml root element found in file"
+msgstr ""
+
+msgid "Online help"
+msgstr ""
+
+msgid "Open..."
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Remove selected book from the collection"
+msgstr ""
+
+msgid "Remove selected book from the collection?"
+msgstr ""
+
+msgid "Remove selected series and books"
+msgstr ""
+
+msgid "Remove selected series and books?"
+msgstr ""
+
+msgid "Remove selected series but keep the books"
+msgstr ""
+
+msgid "Remove selected series but keep the books?"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save changes?"
+msgstr ""
+
+msgid "Series"
+msgstr ""
+
+msgid "Series removed from the collection"
+msgstr ""
+
+msgid "The collection \"{}\" was created with a newer plugin version."
+msgstr ""
+
+msgid "The collection \"{}\" was created with an outdated plugin version."
+msgstr ""
+
+msgid "There are unsaved changes"
+msgstr ""
+
+msgid "There is no file for the current project. Please save first."
+msgstr ""
+
+msgid "This project has no title"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Untitled collection"
+msgstr ""
+
+msgid "Update book data from the current project"
+msgstr ""
+
+msgid "Update project data from the selected book"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""
+
+msgid "novelibre collection"
+msgstr ""

@@ -1,0 +1,87 @@
+# nv_templates Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.2.0\n"
+"POT-Creation-Date: 2025-08-16 15:21:14\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Cannot read file"
+msgstr ""
+
+msgid "Cannot save template"
+msgstr ""
+
+msgid "Cannot write file"
+msgstr ""
+
+msgid "Chapter"
+msgstr ""
+
+msgid "Create from template..."
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "Load"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "New Section"
+msgstr ""
+
+msgid "Open folder"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Stages"
+msgstr ""
+
+msgid "Story Template"
+msgstr ""
+
+msgid "Story Templates"
+msgstr ""
+
+msgid "Template loading aborted"
+msgstr ""
+
+msgid "Template saved."
+msgstr ""
+
+msgid "Templates plugin Online help"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""

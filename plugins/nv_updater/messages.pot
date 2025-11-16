@@ -1,0 +1,87 @@
+# nv_updater Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.3.2\n"
+"POT-Creation-Date: 2025-08-16 15:26:06\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "Alt-Down"
+msgstr ""
+
+msgid "Alt-Left"
+msgstr ""
+
+msgid "Alt-Right"
+msgstr ""
+
+msgid "Alt-Up"
+msgstr ""
+
+msgid "Check for updates"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Del"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Home page"
+msgstr ""
+
+msgid "Installed version"
+msgstr ""
+
+msgid "Latest version"
+msgstr ""
+
+msgid "Looking for updates"
+msgstr ""
+
+msgid "No updates available"
+msgstr ""
+
+msgid "Online help"
+msgstr ""
+
+msgid "Outdated components remain active until next start"
+msgstr ""
+
+msgid "Please restart novelibre after installing updates"
+msgstr ""
+
+msgid "Plugin"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update checker Online help"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "wait"
+msgstr ""

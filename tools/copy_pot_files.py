@@ -11,15 +11,18 @@ from settings import languageCode
 
 ROOT_DIR = '../..'
 
-os.chdir(ROOT_DIR)
-programs = ['novelibre']
-for plugin in glob.iglob('nv_*', recursive=False):
-    programs.append(plugin)
-for program in programs:
-    potFile = f'{program}/i18n/messages.pot'
+
+def copy_module_pot(module, targetPath):
+    potFile = f'{module}/i18n/messages.pot'
     if os.path.isfile(potFile):
-        targetPath = f'nv_{languageCode}/programs/{program}'
         os.makedirs(targetPath, exist_ok=True)
         copyfile(potFile, f'{targetPath}/messages.pot')
-        print(program)
+        print(module)
+
+
+os.chdir(ROOT_DIR)
+module = 'novelibre'
+copy_module_pot(module, f'nv_{languageCode}/modules/{module}')
+for plugin in glob.iglob('nv_*', recursive=False):
+    copy_module_pot(plugin, f'nv_{languageCode}/plugins/{plugin}')
 print('Done.')

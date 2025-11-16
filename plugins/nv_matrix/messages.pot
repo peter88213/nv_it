@@ -1,0 +1,93 @@
+# nv_matrix Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.5.1\n"
+"POT-Creation-Date: 2025-09-18 23:19:46\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Characters"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Locations"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Major characters only"
+msgstr ""
+
+msgid "Matrix"
+msgstr ""
+
+msgid "Matrix plugin Online help"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "Plot lines"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Sections"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""
