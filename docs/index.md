@@ -1,4 +1,4 @@
-[English](https://peter88213.github.io/nvhelp-en/chapter_view.html) > novelibre help
+[English](https://peter88213.github.io/nvhelp-en/) > novelibre help
 
 ---
 
