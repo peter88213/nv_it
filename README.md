@@ -1,10 +1,10 @@
 # nv_it
 
-Italian language pack for [novelibre](https://github.com/peter88213/novelibre/).
+Italian language package for [novelibre](https://github.com/peter88213/novelibre/).
 
 ---
 
-## How to install the language pack
+## How to install the language package
 
 ## Download and install
 
