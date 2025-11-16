@@ -1,15 +1,15 @@
 """Language pack settings"""
 
-languageName = 'Vulcanian'
+languageName = 'Italian'
 # the name of the language
 
-languageCode = 'xx'
+languageCode = 'it'
 # the language code according to ISO 639-1
 
-provider = "T'Pol t_pol@enterprise.starfleet"
+provider = "Sandro Mattei <sandro.mattei@proton.me>"
 # the name of the translation's provider
 
-lastTranslator = "T'Pol t_pol@enterprise.starfleet"
+lastTranslator = "Sandro Mattei <sandro.mattei@proton.me>"
 # the name of the last translator
 
 __all__ = ['languageName', 'languageCode', 'provider', 'lastTranslator']

@@ -3,7 +3,7 @@
 - Generate the language specific '*.po' dictionaries for novelibre and its plugins.
 
 Copyright (c) 2025 Peter Triesberger
-For further information see https://github.com/peter88213/nv_xx
+For further information see https://github.com/peter88213/nv_it
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 import os
@@ -15,9 +15,9 @@ def main():
     print(f'Set up novelibre translation files for {languageName}.')
 
     translationsComplete = True
-    for programName in os.listdir('../programs'):
-        poPath = f'../programs/{programName}'
-        if not translations.main(poPath, app=programName, json=True):
+    for moduleName in os.listdir('../modules'):
+        poPath = f'../modules/{moduleName}'
+        if not translations.main(poPath, app=moduleName, json=True):
             translationsComplete = False
     return translationsComplete
 

@@ -3,7 +3,7 @@
 Version @release
 
 Copyright (c) 2025 Peter Triesberger
-For further information see https://github.com/peter88213/nv_xx
+For further information see https://github.com/peter88213/nv_it
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 import os
@@ -12,7 +12,7 @@ from shutil import copytree
 import sys
 import zipfile
 
-PLUGIN = 'nv_xx'
+PLUGIN = 'nv_it'
 
 pyz = os.path.dirname(__file__)
 

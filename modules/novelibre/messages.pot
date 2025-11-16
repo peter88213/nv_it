@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.18.0\n"
-"POT-Creation-Date: 2025-04-02 20:57:34\n"
+"Project-Id-Version: 5.42.1\n"
+"POT-Creation-Date: 2025-11-14 18:55:34\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -71,7 +71,10 @@ msgstr ""
 msgid "Add child"
 msgstr ""
 
-msgid "Add multiple sections"
+msgid "Add multiple chapters..."
+msgstr ""
+
+msgid "Add multiple sections..."
 msgstr ""
 
 msgid "Add parent"
@@ -111,6 +114,9 @@ msgid "Ask before opening exported documents"
 msgstr ""
 
 msgid "Assign section"
+msgstr ""
+
+msgid "Assign viewpoint to the selected sections"
 msgstr ""
 
 msgid "Author"
@@ -239,7 +245,13 @@ msgstr ""
 msgid "Chapter number suffix"
 msgstr ""
 
+msgid "Chapter table"
+msgstr ""
+
 msgid "Chapter_20_beginning"
+msgstr ""
+
+msgid "Chapters"
 msgstr ""
 
 msgid "Chapters belonging to plot line"
@@ -257,7 +269,7 @@ msgstr ""
 msgid "Character descriptions"
 msgstr ""
 
-msgid "Character list"
+msgid "Character table"
 msgstr ""
 
 msgid "Characterization"
@@ -288,6 +300,9 @@ msgid "Clear duration from this section?"
 msgstr ""
 
 msgid "Clear section assignments"
+msgstr ""
+
+msgid "Clear viewpoints of the selected sections"
 msgstr ""
 
 msgid "Close"
@@ -470,6 +485,15 @@ msgstr ""
 msgid "Ending"
 msgstr ""
 
+msgid "Epigraph"
+msgstr ""
+
+msgid "Epigraph source"
+msgstr ""
+
+msgid "Epigraph_20_source"
+msgstr ""
+
 msgid "Exit"
 msgstr ""
 
@@ -491,10 +515,13 @@ msgstr ""
 msgid "Export chapter descriptions for editing"
 msgstr ""
 
+msgid "Export chapter table"
+msgstr ""
+
 msgid "Export character descriptions for editing"
 msgstr ""
 
-msgid "Export character list (spreadsheet)"
+msgid "Export character table"
 msgstr ""
 
 msgid "Export document"
@@ -503,13 +530,13 @@ msgstr ""
 msgid "Export item descriptions for editing"
 msgstr ""
 
-msgid "Export item list (spreadsheet)"
+msgid "Export item table"
 msgstr ""
 
 msgid "Export location descriptions for editing"
 msgstr ""
 
-msgid "Export location list (spreadsheet)"
+msgid "Export location table"
 msgstr ""
 
 msgid "Export manuscript filtered by plot line"
@@ -521,13 +548,13 @@ msgstr ""
 msgid "Export part descriptions for editing"
 msgstr ""
 
+msgid "Export part table"
+msgstr ""
+
 msgid "Export plot grid for editing"
 msgstr ""
 
 msgid "Export plot line descriptions for editing"
-msgstr ""
-
-msgid "Export plot list (spreadsheet)"
 msgstr ""
 
 msgid "Export section descriptions for editing"
@@ -549,6 +576,12 @@ msgid "Export type is not supported"
 msgstr ""
 
 msgid "Exported documents"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "Field names"
 msgstr ""
 
 msgid "File"
@@ -602,7 +635,7 @@ msgstr ""
 msgid "Goals"
 msgstr ""
 
-msgid "HTML Plot list"
+msgid "HTML Plot table"
 msgstr ""
 
 msgid "HTML Time table"
@@ -621,6 +654,9 @@ msgid "Home page"
 msgstr ""
 
 msgid "Hours"
+msgstr ""
+
+msgid "How many chapters to add?"
 msgstr ""
 
 msgid "How many sections to add?"
@@ -668,7 +704,7 @@ msgstr ""
 msgid "Item descriptions"
 msgstr ""
 
-msgid "Item list"
+msgid "Item table"
 msgstr ""
 
 msgid "Items"
@@ -683,7 +719,10 @@ msgstr ""
 msgid "Language code"
 msgstr ""
 
-msgid "Large toolbar icons"
+msgid "Large icons"
+msgstr ""
+
+msgid "Last saved on"
 msgstr ""
 
 msgid "Latest backup successfully restored."
@@ -698,7 +737,7 @@ msgstr ""
 msgid "Location descriptions"
 msgstr ""
 
-msgid "Location list"
+msgid "Location table"
 msgstr ""
 
 msgid "Locations"
@@ -714,6 +753,9 @@ msgid "Lock/unlock"
 msgstr ""
 
 msgid "Log writing progress"
+msgstr ""
+
+msgid "Logging is off"
 msgstr ""
 
 msgid "Major Character"
@@ -749,13 +791,7 @@ msgstr ""
 msgid "N"
 msgstr ""
 
-msgid "N/A"
-msgstr ""
-
 msgid "Name"
-msgstr ""
-
-msgid "Narrative time"
 msgstr ""
 
 msgid "Never"
@@ -794,7 +830,13 @@ msgstr ""
 msgid "Newer than the project file"
 msgstr ""
 
+msgid "News about novelibre"
+msgstr ""
+
 msgid "Next"
+msgstr ""
+
+msgid "Next section begins in"
 msgstr ""
 
 msgid "No backup available"
@@ -887,7 +929,7 @@ msgstr ""
 msgid "ODF document"
 msgstr ""
 
-msgid "ODS Plot list"
+msgid "ODS Plot table"
 msgstr ""
 
 msgid "OK"
@@ -899,10 +941,16 @@ msgstr ""
 msgid "Online help"
 msgstr ""
 
+msgid "Online user guide"
+msgstr ""
+
 msgid "Open"
 msgstr ""
 
 msgid "Open Project folder"
+msgstr ""
+
+msgid "Open anyway?"
 msgstr ""
 
 msgid "Open backup directory"
@@ -918,6 +966,9 @@ msgid "Open link"
 msgstr ""
 
 msgid "Open the created document?"
+msgstr ""
+
+msgid "Open this document instead of overwriting it?"
 msgstr ""
 
 msgid "Open..."
@@ -947,6 +998,12 @@ msgstr ""
 msgid "Overwrite"
 msgstr ""
 
+msgid "Overwrite date/time?"
+msgstr ""
+
+msgid "Overwrite duration?"
+msgstr ""
+
 msgid "Overwrite the last saved project file with the \".bak\" file?"
 msgstr ""
 
@@ -962,10 +1019,13 @@ msgstr ""
 msgid "Part number suffix"
 msgstr ""
 
-msgid "Paste"
+msgid "Part table"
 msgstr ""
 
-msgid "Peak em. moment"
+msgid "Parts"
+msgstr ""
+
+msgid "Paste"
 msgstr ""
 
 msgid "Peak emotional moment"
@@ -1019,6 +1079,9 @@ msgstr ""
 msgid "Plot progress"
 msgstr ""
 
+msgid "Plot table (export only)"
+msgstr ""
+
 msgid "Plugin"
 msgstr ""
 
@@ -1029,6 +1092,9 @@ msgid "Position"
 msgstr ""
 
 msgid "Previous"
+msgstr ""
+
+msgid "Previous section ends:"
 msgstr ""
 
 msgid "Project note"
@@ -1088,9 +1154,6 @@ msgstr ""
 msgid "Remove plot line from the list?"
 msgstr ""
 
-msgid "Renamings"
-msgstr ""
-
 msgid "Required"
 msgstr ""
 
@@ -1124,16 +1187,16 @@ msgstr ""
 msgid "Section descriptions"
 msgstr ""
 
-msgid "Section list"
-msgstr ""
-
-msgid "Section list (export only)"
-msgstr ""
-
 msgid "Section mark"
 msgstr ""
 
 msgid "Section notes"
+msgstr ""
+
+msgid "Section table"
+msgstr ""
+
+msgid "Section table (export only)"
 msgstr ""
 
 msgid "Section word count"
@@ -1172,6 +1235,9 @@ msgstr ""
 msgid "Set Type"
 msgstr ""
 
+msgid "Set Viewpoint..."
+msgstr ""
+
 msgid "Set actual wordcount as start"
 msgstr ""
 
@@ -1196,7 +1262,7 @@ msgstr ""
 msgid "Show Plot lines"
 msgstr ""
 
-msgid "Show Plot list"
+msgid "Show Plot table in browser"
 msgstr ""
 
 msgid "Show Project notes"
@@ -1208,13 +1274,13 @@ msgstr ""
 msgid "Show ages"
 msgstr ""
 
-msgid "Show list"
-msgstr ""
-
 msgid "Show markup"
 msgstr ""
 
 msgid "Show notes"
+msgstr ""
+
+msgid "Show table in Browser"
 msgstr ""
 
 msgid "Skip"
@@ -1241,6 +1307,9 @@ msgstr ""
 msgid "Story structure"
 msgstr ""
 
+msgid "Story time"
+msgstr ""
+
 msgid "Style sheet copied into the project folder."
 msgstr ""
 
@@ -1263,6 +1332,9 @@ msgid "The allowed minimum value is"
 msgstr ""
 
 msgid "The change takes effect after next startup"
+msgstr ""
+
+msgid "The first section is an epigraph"
 msgstr ""
 
 msgid "The next section has no time set"
@@ -1299,6 +1371,9 @@ msgid "There is no previous section"
 msgstr ""
 
 msgid "This document is not meant to be written back"
+msgstr ""
+
+msgid "This project may be already open in novelibre"
 msgstr ""
 
 msgid "This section has no time set"
@@ -1439,13 +1514,37 @@ msgstr ""
 msgid "YYYY-MM-DD"
 msgstr ""
 
+msgid "Zipped novelibre project"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "at age"
+msgstr ""
+
+msgid "backup-options"
+msgstr ""
+
 msgid "by"
+msgstr ""
+
+msgid "d"
+msgstr ""
+
+msgid "days after death"
+msgstr ""
+
+msgid "days old"
 msgstr ""
 
 msgid "deleted"
 msgstr ""
 
 msgid "elements imported"
+msgstr ""
+
+msgid "h"
 msgstr ""
 
 msgid "hh:mm"
@@ -1458,6 +1557,9 @@ msgid "last saved on"
 msgstr ""
 
 msgid "manuscript"
+msgstr ""
+
+msgid "min"
 msgstr ""
 
 msgid "no data"
@@ -1496,8 +1598,14 @@ msgstr ""
 msgid "{0} (last saved on {1})"
 msgstr ""
 
-msgid "{0} already exists.\n(last saved on {2})\n{1}.\n\nOpen this document instead of overwriting it?"
+msgid "{0} does not exist."
+msgstr ""
+
+msgid "{0} is not up to date."
 msgstr ""
 
 msgid "{0} parts, {1} chapters, {2} sections, {3} words"
+msgstr ""
+
+msgid "{} already exists."
 msgstr ""
