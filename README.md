@@ -10,7 +10,7 @@ Italian language pack for [novelibre](https://github.com/peter88213/novelibre/).
 
 ### Default: Executable Python zip archive
 
-Download the installation package [nv_it.pyz](https://github.com/peter88213/novelibre_it/raw/main/nv_it.pyz)
+Download the installation package [novelibre_it.pyz](https://github.com/peter88213/novelibre_it/raw/main/novelibre_it.pyz)
 
 - Launch *novelibre_it.pyz* by double-clicking (Windows desktop),
 - or execute `python novelibre_it.pyz` (Windows), resp. `python3 novelibre_it.pyz` (Linux) on the command line.
