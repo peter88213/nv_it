@@ -10,10 +10,10 @@ Italian language pack for [novelibre](https://github.com/peter88213/novelibre/).
 
 ### Default: Executable Python zip archive
 
-Download the installation package [nv_it.pyz](https://github.com/peter88213/nv_it/raw/main/nv_it.pyz)
+Download the installation package [nv_it.pyz](https://github.com/peter88213/novelibre_it/raw/main/nv_it.pyz)
 
-- Launch *nv_it.pyz* by double-clicking (Windows desktop),
-- or execute `python nv_it.pyz` (Windows), resp. `python3 nv_it.pyz` (Linux) on the command line.
+- Launch *novelibre_it.pyz* by double-clicking (Windows desktop),
+- or execute `python novelibre_it.pyz` (Windows), resp. `python3 novelibre_it.pyz` (Linux) on the command line.
 
 > [!IMPORTANT]
 > Many web browsers recognize the download as an executable file and offer to open it immediately. 
@@ -28,9 +28,9 @@ Download the installation package [nv_it.pyz](https://github.com/peter88213/nv_i
 
 ### Alternative: Zip file
 
-The package is also available in zip format: [nv_it.zip](https://github.com/peter88213/nv_it/raw/main/nv_it.zip)
+The package is also available in zip format: [novelibre_it.zip](https://github.com/peter88213/novelibre_it/raw/main/novelibre_it.zip)
 
-- Extract the content of the downloaded zipfile "nv_it.zip" into an empty folder.
+- Extract the content of the downloaded zipfile "novelibre_it.zip" into an empty folder.
 - Move into this folder and launch *setup.py* by double-clicking (Windows/Linux desktop), 
 - or execute `python setup.py` (Windows), resp. `python3 setup.py` (Linux) on the command line.
 
