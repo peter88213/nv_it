@@ -5,7 +5,11 @@ Reads the ../docs/index.md file entries, and creates the listed pages.
 import re
 from string import Template
 
-page_template = '''[Project home page_template](https://github.com/peter88213/novelibre) > $Heading
+translations = {
+    'Project home page': 'Project home page',
+}
+
+page_template = '''[$Home_translated]($Novelibre_home) > $Heading
 
 ---
 
@@ -13,7 +17,7 @@ page_template = '''[Project home page_template](https://github.com/peter88213/no
 
 ---
 
-[English manual](https://peter88213.github.io/nvhelp-en/)
+$Footer
 
 '''
 
@@ -27,7 +31,14 @@ for title, file_name in page_data:
     if 'https:' in file_name:
         continue
 
-    text = Template(page_template).safe_substitute({'Heading':title})
+    text = Template(page_template).safe_substitute(
+        {
+            'Home_translated': translations['Project home page'],
+            'Novelibre_home': 'https://github.com/peter88213/novelibre',
+            'Heading':title,
+            'Footer': '[English manual](https://peter88213.github.io/nvhelp-en/)'
+        }
+    )
     with open(f'{help_dir}/{file_name}', 'w', encoding='utf_8') as f:
         f.write(text)
 
