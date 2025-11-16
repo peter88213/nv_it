@@ -1,4 +1,4 @@
-[English](https://peter88213.github.io/nvhelp-en/) > novelibre help
+[Project home page](https://github.com/peter88213/novelibre) > novelibre help
 
 ---
 
@@ -35,3 +35,7 @@
 - [Plot line properties](plotline_view.md)
 - [Plot point properties](point_view.md)
 - [Project note properties](project_note_view.md)
+
+---
+
+[English manual](https://peter88213.github.io/nvhelp-en/)
