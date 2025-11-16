@@ -34,8 +34,12 @@ The package is also available in zip format: [nv_it.zip](https://github.com/pete
 - Move into this folder and launch *setup.py* by double-clicking (Windows/Linux desktop), 
 - or execute `python setup.py` (Windows), resp. `python3 setup.py` (Linux) on the command line.
 
----
 
+## Credits
+
+The Italian translations are provided by [Sandro Mattei](https://github.com/oldstonegryzzly).
+
+---
 
 ## License
 
