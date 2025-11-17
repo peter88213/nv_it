@@ -60,15 +60,13 @@ Expand or collapse this frame by clicking on the label.
 ### Numera automaticamente i capitoli, Numera automaticamente le parti
 
 If this checkbox is ticked, all chapters/parts are automatically
-numbered each time [the tree is
-refreshed](file_menu.html#refresh-tree). The chapter titles are
+numbered each time the tree is refreshed. The chapter titles are
 replaced with a `prefix-number-suffix` pattern (without the dashes).
 
 > **Hint**
 > 
 > You can optionally exclude individual chapters/parts from
-> auto-numbering in the [Chapter/part
-> properties](chapter_view.html#do-not-auto-number-this-chapter-part).
+> auto-numbering in the Chapter/part properties.
 
 Prefix and suffix entries can be completed by pressing the `Enter` key.
 
@@ -102,21 +100,21 @@ the categories can be completed by pressing the `Enter` key.
 
 ### Non è una scena
 
-When you set the [Scene frame](section_view.html#scene) to **Non è una scena**, 
+When you set the Scene frame to **Non è una scena**, 
 you see the three text boxes whose names you enter here.
 These categories then apply to all sections that don\'t represent
 scenes.
 
 ### Altra scena
 
-When you set the [Scene frame](section_view.html#scene) to
+When you set the Scene frame to
 **Altro**, you see the three text boxes whose names you enter here.
 These categories then apply to all sections that represent scenes
 other than \"Action\" and \"Reaction\".
 
 ### Personaggio
 
-Here you enter the names of the two [character fields](character_view.html#field-1), 
+Here you enter the names of the two character fields, 
 you can open in the character properties view.
 
 > **Hint**
@@ -131,7 +129,7 @@ Expand or collapse this frame by clicking on the label.
 ![novelibre screenshot](images/book_view05.png)
 
 To get an overview of the course of the story time, you can enter
-date/time information [for each section](section_view.html#date-time).
+date/time information for each section.
 The date can be specific *(YYYY-MM-DD)* or unspecific (number of days,
 e.g. from the beginning of the story).
 
@@ -148,9 +146,8 @@ Format: *YYYY-MM-DD*, according to ISO 8601.
 >
 > Even if you don\'t need specific dates for your story, specifying a
 > reference date might be helpful. Thus, a day of the week can be
-> displayed along with the [unspecific date](section_view.html#start),
-> and ages can be calculated for [related
-> characters](section_view.html#relationships).
+> displayed along with the unspecific date,
+> and ages can be calculated for related characters.
 
 ### Converto le date in giorni
 
@@ -171,8 +168,7 @@ the reference date.
 > **Hint**
 > 
 > The commands above convert all dated sections at once. If you want to do
-> the conversion for single sections, just go to the [Section properties
-> view](section_view.html#start).
+> the conversion for single sections, just go to the Section properties.
 
 ## Avanzamento della scrittura
 
@@ -223,8 +219,7 @@ count is displayed. The percentage refers to the words to write.
 
 ### Fase di lavorazione
 
-This setting is for the tree viewer 
-[\"Work phase\" coloring mode](view_menu.html#coloring-mode).
+This setting is for the tree viewer \"Fase di lavorazione\" coloring mode.
 
 -   Sections with the same completion status as the selected work
     phase are black.
@@ -260,7 +255,7 @@ The links are displayed in a list in the order they are entered.
 
 ### Aggiungi Link
 
-When clicking on ![Add](images/add.png), a file selection dialog
+When clicking on ![Aggiungi](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -272,13 +267,13 @@ opens. The selected file will be added to the link list.
 
 ### Rimuovi Link
 
-When clicking on ![Remove](images/remove.png) or pressing the `Del`
+When clicking on ![Rimuovi](images/remove.png) or pressing the `Del`
 key, the selected link is removed from the list.
 
 ### Aprire Link
 
 When double-clicking on a link, or clicking on
-![Goto](images/goto.png), the link is opened with the standard
+![Vai a](images/goto.png), the link is opened with the standard
 application for the link\'s file type.
 
 > **Hint**
@@ -298,8 +293,8 @@ application for the link\'s file type.
 > editor:
 
 ```INI
-     [SETTINGS]
-     .zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
+[SETTINGS]
+.zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
 ```
 
  ![Screenshot](images/launchers.png)
