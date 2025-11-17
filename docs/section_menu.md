@@ -66,7 +66,7 @@ of the selected section to
 > Status change for multiple sections:
 > 
 > -   Either select multiple sections, or
-> -   select a parent node (chapter or Book)
+> -   select a parent node (Capitolo or Libro)
 
 ## Imposta POV
 
