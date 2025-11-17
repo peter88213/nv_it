@@ -10,8 +10,7 @@
 
 **Add a new chapter**
 
-With **Capitolo > Aggiungi**, you can add a
-[chapter](basic_concepts.html#chapters) to the tree.
+With **Capitolo > Aggiungi**, you can add a chapter to the tree.
 
 -   The new chapter is placed at the next free position after the
     selection, if possible.

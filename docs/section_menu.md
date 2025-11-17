@@ -10,8 +10,7 @@
 
 **Add a new section**
 
-With **Sezione > Aggiungi**, you can add a
-[section](basic_concepts.html#sections) to the tree.
+With **Sezione > Aggiungi**, you can add a section to the tree.
 
 -   The new section is placed at the next free position after the
     selection, if possible.
