@@ -194,10 +194,10 @@ Registrare i progressi di scrittura
     each day on which you edit the project. You can prevent this by
     unticking the **Log writing progress** checkbox.
 
- > **Hint**
- > 
- > For viewing the daily progress log, you may want to install the
- > [nv_progress plugin](https://github.com/peter88213/nv_progress/).
+> **Hint**
+> 
+> For viewing the daily progress log, you may want to install the
+> [nv_progress plugin](https://github.com/peter88213/nv_progress/).
  
 Parole da scrivere
 
