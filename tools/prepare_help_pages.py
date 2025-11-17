@@ -40,7 +40,7 @@ def translate_special_terms():
             f.write(text)
 
 
-def create_missing_pages():
+def create_missing_pages(skip=True):
     print(f'Reading "{index_page}"...')
     with open(index_page, 'r', encoding='utf-8') as f:
         text = f.read()
@@ -51,7 +51,7 @@ def create_missing_pages():
         if 'https:' in file_name:
             continue
 
-        if os.path.isfile(file_path):
+        if skip and os.path.isfile(file_path):
             print(f'Skipping "{file_path}"')
             continue
 
