@@ -35,7 +35,7 @@ def translate_special_terms():
         print(f'Translating "{page_path}"...')
         with open(page_path, 'r', encoding='utf-8') as f:
             text = f.read()
-        text = MyTemplate(text).safe_substitute(dictionary)
+        text = MyTemplate(text).substitute(dictionary)
         with open(page_path, 'w', encoding='utf-8') as f:
             f.write(text)
 
@@ -66,7 +66,7 @@ def create_missing_pages(skip=True):
 
 
 def main():
-    create_missing_pages()
+    # create_missing_pages()
     translate_special_terms()
     print('Done.')
 
