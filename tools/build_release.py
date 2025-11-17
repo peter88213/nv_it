@@ -32,10 +32,13 @@ def main():
     moFiles = []
 
     # Create binary message catalogs.
-    for programName in os.listdir('../modules'):
-        print(programName)
-        poPath = f'../modules/{programName}/{languageCode}.po'
-        moName = f'{programName}.mo'
+    for moduleName in os.listdir('../modules'):
+        if not os.path.isdir(f'../modules/{moduleName}'):
+            continue
+
+        print(moduleName)
+        poPath = f'../modules/{moduleName}/{languageCode}.po'
+        moName = f'{moduleName}.mo'
         moPath = f'../build/{localePath}/{moName}'
         print(f'Writing "{moPath}" ...')
         msgfmt.make(poPath, moPath)

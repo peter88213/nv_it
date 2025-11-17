@@ -17,6 +17,9 @@ def main():
     translationsComplete = True
     for moduleName in os.listdir('../modules'):
         poPath = f'../modules/{moduleName}'
+        if not os.path.isdir(poPath):
+            continue
+
         if not translations.main(poPath, app=moduleName, json=True):
             translationsComplete = False
     return translationsComplete
