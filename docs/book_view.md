@@ -297,8 +297,6 @@ application for the link\'s file type.
 .zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
 ```
 
- ![Screenshot](images/launchers.png)
-
 ## Cover thumbnail
 
 A cover thumbnail is displayed with the book properties if you provide a
