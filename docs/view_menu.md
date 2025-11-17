@@ -43,7 +43,7 @@ main categories.
 
 **Go to the "Libro" branch and expand it**
 
-With **Vista > Mostra libro**, you can select and open the "Book" branch.
+With **Vista > Mostra libro**, you can select and open the "Libro" branch.
 
 ## Visualizza Personaggi
 

@@ -14,7 +14,7 @@ With **Capitolo > Aggiungi**, you can add a chapter to the tree.
 
 -   The new chapter is placed at the next free position after the
     selection, if possible.
--   Otherwise, the new chapter is placed at the end of the "Book"
+-   Otherwise, the new chapter is placed at the end of the "Libro"
     branch.
 -   The new chapter has an auto-generated title. You can change it in
     the right pane.
@@ -35,7 +35,7 @@ chapters to the tree.
 -   The number of chapters to be added at once is limited to 20.
 -   The new chapters are placed at the next free position after the
     selection, if possible.
--   Otherwise, the new chapters are placed at the end of the "Book"
+-   Otherwise, the new chapters are placed at the end of the "Libro"
     branch.
 
 > **Hint**
