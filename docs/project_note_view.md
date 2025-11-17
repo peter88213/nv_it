@@ -9,7 +9,7 @@ a project note in the tree.
 
 ## Title and content
 
-![Screenshot](_images/project_note_view01.png)
+![Screenshot](images/project_note_view01.png)
 
 Title and content are displayed in an editable \"index card\".
 

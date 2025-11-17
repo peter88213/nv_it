@@ -7,7 +7,7 @@
 The Plot point properties view opens in the right pane when you select a
 plot point in the tree.
 
-![Screenshot](_images/point_view01.png)
+![Screenshot](images/point_view01.png)
 
 ## Title and description
 
@@ -48,7 +48,7 @@ is opened and its properties are displayed.
 > **Hint**
 >
 > You can go back to the initially selected plot point with 
-> ![Indietro](_images/goBack.png).
+> ![Indietro](images/goBack.png).
 
 ## Collegamenti
 
