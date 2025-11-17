@@ -1,54 +1,45 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Snodo della trama properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Linea narrativa properties
 
 ---
 
-# Snodo della trama properties
+# Linea narrativa properties
 
-The Snodo della trama properties view opens in the right pane when you select a
-plot point in the tree.
+The Linea narrativa properties view opens in the right pane when you select a
+plot line in the tree.
 
-![Screenshot](images/point_view01.png)
+![novelibre screenshot](_images/plotline_view01.png)
 
 ## Title and description
 
 Title and description are displayed in an editable \"index card\".
 
-The editing of The editing of the title can be completed by pressing the
-`Enter` key. Changes to the description are applied when the mouse is
-clicked anywhere outside the text input field.
+The editing of the title can be completed by pressing the `Enter` key.
+Changes to the description are applied when the mouse is clicked
+anywhere outside the text input field.
 
-## Assigned section
+## Nome abbreviato
 
-You can connect the plot point to a section in the book. The label below
-\"Sezione\" displays the section title.
+Be sure to enter a short name to be displayed as a reference in the
+tree. A single character like \"A\", \"B\", \"C\" is recommended.
 
-### Assegna sezione
+The following example shows plot line short names as displayed in the
+tree:
 
-When clicking on the **Assegna sezione** button, the \"Pick mode\" is
-activated, and the cursor changes to a \"plus\" shape. By clicking
-on a section, this section will be assigned to the plot point.
+![novelibre screenshot](_images/plotline_view02.png)
 
-> **Hint**
->
-> You can exit the \"Pick mode\" without selecting a section by
-> clicking on the highlighted status bar, or by pressing the `Esc`
-> key.
+## Section assignments
 
+The number of sections that belong to the selected plot line is shown
+below the \"Nome abbreviato\" entry. The assignments can be made in the
+section properties view. You can unlink all
+sections from the selected plot line at once by clicking on the 
+**Rimuovi l'assegnazione della sezione** button.
 
-### Rimuovi l'assegnazione
-
-If a section is assigned to the plot point, you can disconnect it by
-clicking on the **Rimuovi l'assegnazione** button.
-
-### Vai alla sezione
-
-When clicking on the **Vai alla sezione** button, the selected section
-is opened and its properties are displayed.
-
-> **Hint**
->
-> You can go back to the initially selected plot point with 
-> ![Indietro](images/goBack.png).
+> Hint
+> 
+> A convenient way to manage and keep track of section assignments is
+> offered by the [nv_matrix
+> plugin](https://github.com/peter88213/nv_matrix/).
 
 ## Collegamenti
 

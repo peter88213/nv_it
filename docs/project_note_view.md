@@ -4,7 +4,7 @@
 
 # Nota di progetto properties
 
-The Project note properties view opens in the right pane when you select
+The Nota di progetto properties view opens in the right pane when you select
 a project note in the tree.
 
 ## Title and content
