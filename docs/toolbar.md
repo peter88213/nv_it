@@ -12,7 +12,7 @@ workflow.
 ![Indietro](images/goBack.png) Go back in the browsing history. Same as
 `Alt`-`Left`.
 
-![Indietro](images/goForward.png) Go forward in the browsing history.
+![Inoltrare](images/goForward.png) Go forward in the browsing history.
 Same as `Alt`-`Right`.
 
 ---
