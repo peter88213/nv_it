@@ -1,4 +1,4 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [${Online help}](index.md) > The toolbar
+[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > The toolbar
 
 ---
 
