@@ -1,4 +1,4 @@
-[Pagina principale]('https://github.com/peter88213/novelibre') > The toolbar
+[Pagina principale](https://github.com/peter88213/novelibre) > The toolbar
 
 ---
 
