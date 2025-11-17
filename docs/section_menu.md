@@ -130,8 +130,8 @@ File name suffix is `_sectionlist`.
 Clicking on a section number with `Ctrl` pressed, you can jump to the
 corresponding section in the manuscript. However, if you edit this
 spreadsheet, you cannot apply the changes with *novelibre* (in contrast
-to the [plot grid](plot_menu.html#export-plot-grid-for-editing)). The
-section table is more intended for extracting the metadata of the
+to the plot grid). 
+The section table is more intended for extracting the metadata of the
 writing project, for example, in the case of abandoning *novelibre*.
 
 ## Mostra la tabella temporale
