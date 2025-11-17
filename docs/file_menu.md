@@ -45,7 +45,7 @@ submenu.
 
 **Open a novel project**
 
-With **File > Aprire** or `Ctrl`-`O`, you can open an existing project
+With **File > Apri...** or `Ctrl`-`O`, you can open an existing project
 file.
 
 > **Note**

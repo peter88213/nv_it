@@ -2,7 +2,7 @@
 
 ---
 
-# novelibre help
+# novelibre Aiuto in linea
 
 ## Command reference
 
