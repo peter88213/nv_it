@@ -57,12 +57,12 @@ Expand or collapse this frame by clicking on the label.
 
 ![novelibre screenshot](images/book_view03.png)
 
-Numera automaticamente i capitoli, Numera automaticamente le parti
+### Numera automaticamente i capitoli, Numera automaticamente le parti
 
-:   If this checkbox is ticked, all chapters/parts are automatically
-    numbered each time [the tree is
-    refreshed](file_menu.html#refresh-tree). The chapter titles are
-    replaced with a `prefix-number-suffix` pattern (without the dashes).
+If this checkbox is ticked, all chapters/parts are automatically
+numbered each time [the tree is
+refreshed](file_menu.html#refresh-tree). The chapter titles are
+replaced with a `prefix-number-suffix` pattern (without the dashes).
 
 > **Hint**
 > 
@@ -77,17 +77,17 @@ Prefix and suffix entries can be completed by pressing the `Enter` key.
 > Make sure to add a space character to separate the prefix or suffix from
 > the chapter or part number.
 
-Usa numeri di capitolo romani
+### Usa numeri di capitolo romani
 
-:   By default, arabic numbers, like \"1\", \"2\", \"3\" \... are used
-    for auto-numbering. If this checkbox is ticked, Roman numbers, like
-    \"I\", \"II\", \"III\", \"IV\" \... are used instead.
+By default, arabic numbers, like \"1\", \"2\", \"3\" \... are used
+for auto-numbering. If this checkbox is ticked, Roman numbers, like
+\"I\", \"II\", \"III\", \"IV\" \... are used instead.
 
-Restart chapter numbering at part beginning
+### Restart chapter numbering at part beginning
 
-:   By default, the chapters are numbered consistently across the parts.
-    If this checkbox is ticked, the chapter numbering starts again with
-    \"1\" in each part.
+By default, the chapters are numbered consistently across the parts.
+If this checkbox is ticked, the chapter numbering starts again with
+\"1\" in each part.
 
 ## Nome del campo
 
@@ -100,24 +100,24 @@ to store information that should be at hand when writing. You can name
 these fields to fit into your individual story planning concept. Editing
 the categories can be completed by pressing the `Enter` key.
 
-Non è una scena
+### Non è una scena
 
-:   When you set the [Scene frame](section_view.html#scene) to **Non è una scena**, 
-    you see the three text boxes whose names you enter here.
-    These categories then apply to all sections that don\'t represent
-    scenes.
+When you set the [Scene frame](section_view.html#scene) to **Non è una scena**, 
+you see the three text boxes whose names you enter here.
+These categories then apply to all sections that don\'t represent
+scenes.
 
-Altra scena
+### Altra scena
 
-:   When you set the [Scene frame](section_view.html#scene) to
-    **Altro**, you see the three text boxes whose names you enter here.
-    These categories then apply to all sections that represent scenes
-    other than \"Action\" and \"Reaction\".
+When you set the [Scene frame](section_view.html#scene) to
+**Altro**, you see the three text boxes whose names you enter here.
+These categories then apply to all sections that represent scenes
+other than \"Action\" and \"Reaction\".
 
-Personaggio
+### Personaggio
 
-:   Here you enter the names of the two [character fields](character_view.html#field-1), 
-    you can open in the character properties view.
+Here you enter the names of the two [character fields](character_view.html#field-1), 
+you can open in the character properties view.
 
 > **Hint**
 > 
@@ -135,14 +135,14 @@ date/time information [for each section](section_view.html#date-time).
 The date can be specific *(YYYY-MM-DD)* or unspecific (number of days,
 e.g. from the beginning of the story).
 
-Data di riferimento
+### Data di riferimento
 
-:   The reference date is optional. It can be used to convert relative
-    dates into absolute dates, or vice versa. The timeline software
-    plugins may use the reference date for creating events from sections
-    that have no date or an unspecific one.
+The reference date is optional. It can be used to convert relative
+dates into absolute dates, or vice versa. The timeline software
+plugins may use the reference date for creating events from sections
+that have no date or an unspecific one.
 
-    Format: *YYYY-MM-DD*, according to ISO 8601.
+Format: *YYYY-MM-DD*, according to ISO 8601.
 
 > **Hint**
 >
@@ -152,15 +152,15 @@ Data di riferimento
 > and ages can be calculated for [related
 > characters](section_view.html#relationships).
 
-Converto le date in giorni
+### Converto le date in giorni
 
-:   This transforms specific section dates into days, related to the
-    reference date.
+This transforms specific section dates into days, related to the
+reference date.
 
-Converto i giorni in date
+### Converto i giorni in date
 
-:   This transforms unspecific section dates into specific ones, using
-    the reference date.
+This transforms unspecific section dates into specific ones, using
+the reference date.
 
 > **Note**
 > 
@@ -188,48 +188,48 @@ progress.
 > Regardless of the entries made here, you can see the word count in the
 > status bar at any time.
 
-Registrare i progressi di scrittura
+### Registrare i progressi di scrittura
 
-:   By default, *novelibre* stores a log entry with the word counts for
-    each day on which you edit the project. You can prevent this by
-    unticking the **Log writing progress** checkbox.
+By default, *novelibre* stores a log entry with the word counts for
+each day on which you edit the project. You can prevent this by
+unticking the **Log writing progress** checkbox.
 
 > **Hint**
 > 
 > For viewing the daily progress log, you may want to install the
 > [nv_progress plugin](https://github.com/peter88213/nv_progress/).
  
-Parole da scrivere
+### Parole da scrivere
 
-:   Here you can enter a number (without decimal points or separators)
-    indicating your writing goal in words. The entry can be completed by
-    pressing the `Enter` key.
+Here you can enter a number (without decimal points or separators)
+indicating your writing goal in words. The entry can be completed by
+pressing the `Enter` key.
 
-Inizia conteggio
+### Inizia conteggio
 
-:   Here you can enter a number (without decimal points or separators)
-    indicating the word count you want to start from. The entry can be
-    completed by pressing the `Enter` key.
+Here you can enter a number (without decimal points or separators)
+indicating the word count you want to start from. The entry can be
+completed by pressing the `Enter` key.
 
-Imposta l'attuale conteggio parole come inizio
+### Imposta l'attuale conteggio parole come inizio
 
-:   Click this button to enter your current word count in the **Starting
-    count** field.
+Click this button to enter your current word count in the **Starting
+count** field.
 
-Parole scritte
+### Parole scritte
 
-:   Here the difference between your actual word count and the starting
-    count is displayed. The percentage refers to the words to write.
+Here the difference between your actual word count and the starting
+count is displayed. The percentage refers to the words to write.
 
-Fase di lavorazione
+### Fase di lavorazione
 
-:   This setting is for the tree viewer [\"Work phase\" coloring
-    mode](view_menu.html#coloring-mode).
+This setting is for the tree viewer 
+[\"Work phase\" coloring mode](view_menu.html#coloring-mode).
 
-    -   Sections with the same completion status as the selected work
-        phase are black.
-    -   Sections that are ahead of the selected work phase are green.
-    -   Sections that are behind the selected work phase are magenta.
+-   Sections with the same completion status as the selected work
+    phase are black.
+-   Sections that are ahead of the selected work phase are green.
+-   Sections that are behind the selected work phase are magenta.
 
 ## Collegamenti
 
@@ -258,10 +258,10 @@ system\'s standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-Aggiungi Link
+### Aggiungi Link
 
-:   When clicking on ![Add](images/add.png), a file selection dialog
-    opens. The selected file will be added to the link list.
+When clicking on ![Add](images/add.png), a file selection dialog
+opens. The selected file will be added to the link list.
 
 > **Hint**
 >
@@ -270,16 +270,16 @@ Aggiungi Link
 >
 > ![Screenshot](images/filePicker01.png)
 
-Rimuovi Link
+### Rimuovi Link
 
-:   When clicking on ![Remove](images/remove.png) or pressing the `Del`
-    key, the selected link is removed from the list.
+When clicking on ![Remove](images/remove.png) or pressing the `Del`
+key, the selected link is removed from the list.
 
-Aprire Link
+### Aprire Link
 
-:   When double-clicking on a link, or clicking on
-    ![Goto](images/goto.png), the link is opened with the standard
-    application for the link\'s file type.
+When double-clicking on a link, or clicking on
+![Goto](images/goto.png), the link is opened with the standard
+application for the link\'s file type.
 
 > **Hint**
 >
@@ -296,7 +296,7 @@ Aprire Link
 > This example shows a setting that makes *novelibre* open text files
 > with the *Zim Desktop Wiki* application instead of the standard text
 > editor:
->
+
 ```INI
      [SETTINGS]
      .zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
