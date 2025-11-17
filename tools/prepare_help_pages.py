@@ -11,7 +11,7 @@ help_dir = '../docs'
 index_page = f'{help_dir}/index.md'
 json_dict = '../dictionary/msg_dict.json'
 page_link_pattern = re.compile(r'\[(.*?)\]\((.*?)\)')
-page_template = '''[${Home page}](https://github.com/peter88213/novelibre) > $Heading
+page_template = '''[${Home page}](https://github.com/peter88213/novelibre) > [Index](.) > $Heading
 
 ---
 
