@@ -81,7 +81,7 @@ By default, arabic numbers, like \"1\", \"2\", \"3\" \... are used
 for auto-numbering. If this checkbox is ticked, Roman numbers, like
 \"I\", \"II\", \"III\", \"IV\" \... are used instead.
 
-### Restart chapter numbering at part beginning
+### Ricomincia numerazione all'inizio della parte
 
 By default, the chapters are numbered consistently across the parts.
 If this checkbox is ticked, the chapter numbering starts again with
