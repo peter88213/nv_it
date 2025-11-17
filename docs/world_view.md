@@ -1,21 +1,44 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Nota di progetto properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Località/Oggetto properties
 
 ---
 
-# Nota di progetto properties
+# Località/Oggetto properties
 
-The Nota di progetto properties view opens in the right pane when you select
-a project note in the tree.
+The Location/item properties view opens in the right pane when you
+select a location or an item in the tree.
 
-## Title and content
+## Title and description
 
-![Screenshot](images/project_note_view01.png)
+![Screenshot](images/world_view01.png)
 
-Title and content are displayed in an editable "index card".
+Title and description are displayed in an editable "index card".
 
 The editing of the title can be completed by pressing the `Enter` key.
-Changes to the content are applied when the mouse is clicked anywhere
-outside the text input field.
+Changes to the description are applied when the mouse is clicked
+anywhere outside the text input field.
+
+## soprannome
+
+This entry field is for alias names. Editing can be completed by
+pressing the `Enter` key.
+
+## Annotazioni
+
+Tags are a very freely usable tool for labeling locations and items in
+the tree view. Tags do not have to be defined elsewhere, but simply
+entered in the input field separated by semicolons. Editing can be
+completed by pressing the `Enter` key.
+
+> **Caution**
+> 
+> If you want to use a tag more than once, make sure you use the same
+> spelling in the different places.
+
+> **Hint**
+> 
+> The [nv_zim plugin](https://github.com/peter88213/nv_zim/) can adopt
+> keywords when creating a new wiki page for the location or item. This
+> provides a powerful navigation aid.
 
 ## Collegamenti
 
@@ -88,13 +111,27 @@ application for the link's file type.
 > .zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
 > ```
 
+## "Sticky note"
+
+The yellow text area is for notes. Changes are applied when the mouse is
+clicked anywhere outside the text input field.
+
+When the "sticky note" of a plot point contains text, "N" is
+displayed in the tree view as a reminder. If the branch of a plot line
+with plot points containing notes is collapsed, the "N" is displayed
+in the plot line row.
 
 ## Navigation buttons
 
--   **Precedente** lets you navigate to the previous project note in the
-    tree.
--   **Prossimo** lets you navigate to the next project note in the tree.
+### Location view
 
+-   **Precedente** lets you navigate to the previous location in the tree.
+-   **Prossimo** lets you navigate to the next location in the tree.
+
+### Item view
+
+-   **Precedente** lets you navigate to the previous item in the tree.
+-   **Prossimo** lets you navigate to the next item in the tree.
 
 ---
 

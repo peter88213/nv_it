@@ -1,21 +1,50 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Nota di progetto properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Capitolo/Parte properties
 
 ---
 
-# Nota di progetto properties
+# Capitolo/Parte properties
 
-The Nota di progetto properties view opens in the right pane when you select
-a project note in the tree.
+The Chapter/part properties view opens in the right pane when you select
+a chapter or a part in the tree. You can edit the properties of the
+selected chapter or part.
 
-## Title and content
+> **Hint**
+> 
+> You can change any chapter into a part or vice versa via the 
+> **Modifica livello** entry in the context menu, 
+> the **Parte** menu, or the **Capitolo** menu.
 
-![Screenshot](images/project_note_view01.png)
+![Screenshot](images/chapter_view01.png)
 
-Title and content are displayed in an editable "index card".
+## Title and description
+
+Title and description are displayed in an editable "index card".
 
 The editing of the title can be completed by pressing the `Enter` key.
-Changes to the content are applied when the mouse is clicked anywhere
-outside the text input field.
+Changes to the description are applied when the mouse is clicked
+anywhere outside the text input field.
+
+> **Note**
+> 
+> Depending on your [Book settings](book_view.html#auto-numbering),
+> *novelibre* might overwrite the title the next time the tree is
+> refreshed. Thus, you don't need to edit the capter/part title, if auto
+> numbering is activated and the selected chapter or part is not excluded
+> from auto numbering (see below).
+
+## Non utilizzato
+
+With the **Non utilizzato** checkbox, you can change the chapter type.
+
+## Non numerare automaticamente questo capitolo/Non numerare automaticamente questa parte
+
+If this checkbox is ticked, the selected chapter or part will be
+excluded from auto numbering, and the title you enter manually will persist.
+
+## La prima sezione è un'epigrafe
+
+If this checkbox is ticked, the chapter's first section is formatted as
+an epigraph, if it is of the *Normale* type.
 
 ## Collegamenti
 
@@ -88,13 +117,28 @@ application for the link's file type.
 > .zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
 > ```
 
+## "Sticky note"
+
+The yellow text area is for notes. Changes are applied when the mouse is
+clicked anywhere outside the text input field.
+
+When the "sticky note" of a plot point contains text, "N" is
+displayed in the tree view as a reminder. If the branch of a plot line
+with plot points containing notes is collapsed, the "N" is displayed
+in the plot line row.
+
 
 ## Navigation buttons
 
--   **Precedente** lets you navigate to the previous project note in the
-    tree.
--   **Prossimo** lets you navigate to the next project note in the tree.
+### Capitolo view
 
+-   **Precedente** lets you navigate to the previous chapter in the tree.
+-   **Prossimo** lets you navigate to the next chapter in the tree.
+
+### Part view
+
+-   **Precedente** lets you navigate to the previous part in the tree.
+-   **Prossimo** lets you navigate to the next part in the tree.
 
 ---
 

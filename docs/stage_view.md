@@ -1,21 +1,21 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Nota di progetto properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Fase properties
 
 ---
 
-# Nota di progetto properties
+# Fase properties
 
-The Nota di progetto properties view opens in the right pane when you select
-a project note in the tree.
+The Fase properties view opens in the right pane when you select a
+stage in the tree.
 
-## Title and content
+![Screenshot](images/stage_view01.png)
 
-![Screenshot](images/project_note_view01.png)
+## Title and description
 
-Title and content are displayed in an editable "index card".
+Title and description are displayed in an editable "index card".
 
 The editing of the title can be completed by pressing the `Enter` key.
-Changes to the content are applied when the mouse is clicked anywhere
-outside the text input field.
+Changes to the description are applied when the mouse is clicked
+anywhere outside the text input field.
 
 ## Collegamenti
 
@@ -89,12 +89,21 @@ application for the link's file type.
 > ```
 
 
+## "Sticky note"
+
+The yellow text area is for notes. Changes are applied when the mouse is
+clicked anywhere outside the text input field.
+
+When the "sticky note" of a plot point contains text, "N" is
+displayed in the tree view as a reminder. If the branch of a plot line
+with plot points containing notes is collapsed, the "N" is displayed
+in the plot line row.
+
 ## Navigation buttons
 
--   **Precedente** lets you navigate to the previous project note in the
+-   **Precedente** lets you navigate to the previous stage in the
     tree.
--   **Prossimo** lets you navigate to the next project note in the tree.
-
+-   **Prossimo** lets you navigate to the next stage in the tree.
 
 ---
 

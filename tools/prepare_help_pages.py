@@ -66,7 +66,7 @@ def create_missing_pages(skip=True):
 
 
 def main():
-    # create_missing_pages()
+    create_missing_pages()
     translate_special_terms()
     print('Done.')
 

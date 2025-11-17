@@ -1,54 +1,92 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Snodo della trama properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Aiuto in linea](index.md) > Personaggio properties
 
 ---
 
-# Snodo della trama properties
+# Personaggio properties
 
-The Snodo della trama properties view opens in the right pane when you select a
-plot point in the tree.
+The Character properties view opens in the right pane when you select a
+character in the tree.
 
-![Screenshot](images/point_view01.png)
+![Screenshot](images/character_view01.png)
 
 ## Title and description
 
 Title and description are displayed in an editable "index card".
 
-The editing of The editing of the title can be completed by pressing the
-`Enter` key. Changes to the description are applied when the mouse is
-clicked anywhere outside the text input field.
+The editing of the title can be completed by pressing the `Enter` key.
+Changes to the description are applied when the mouse is clicked
+anywhere outside the text input field.
 
-## Assigned section
+## Nome completo
 
-You can connect the plot point to a section in the book. The label below
-"Sezione" displays the section title.
+The character's title as shown on the index card is used as a short
+name at several places. The full name can be entered separately. Editing
+can be completed by pressing the `Enter` key.
 
-### Assegna sezione
+## soprannome
 
-When clicking on the **Assegna sezione** button, the "Pick mode" is
-activated, and the cursor changes to a "plus" shape. By clicking
-on a section, this section will be assigned to the plot point.
+This entry field is for alias names. Editing can be completed by
+pressing the `Enter` key.
 
-> **Hint**
->
-> You can exit the "Pick mode" without selecting a section by
-> clicking on the highlighted status bar, or by pressing the `Esc`
-> key.
+## Annotazioni
 
+Tags are a very freely usable tool for labeling characters in the tree
+view. Tags do not have to be defined elsewhere, but simply entered in
+the input field separated by semicolons. Editing can be completed by
+pressing the `Enter` key.
 
-### Rimuovi l'assegnazione
+> **Caution**
+> 
+> If you want to use a tag more than once, make sure you use the same
+> spelling in the different places.
 
-If a section is assigned to the plot point, you can disconnect it by
-clicking on the **Rimuovi l'assegnazione** button.
+> **Hint*
+> 
+> The [nv_zim plugin](https://github.com/peter88213/nv_zim/) can adopt
+> keywords when creating a new wiki page for the character. This provides
+> a powerful navigation aid.
 
-### Vai alla sezione
+## Personaggio principale
 
-When clicking on the **Vai alla sezione** button, the selected section
-is opened and its properties are displayed.
+With the **Personaggio principale** checkbox you can change the character
+status.
 
-> **Hint**
->
-> You can go back to the initially selected plot point with 
-> ![Indietro](images/goBack.png).
+> **Note**
+> 
+> The character status is only for visual distinction. It has no influence
+> on the program functions. Nevertheless, you can use it to mark viewpoint
+> characters or characters with their own plot lines.
+
+## Data di nascita and Data della morte
+
+Format: *YYYY-MM-DD*, according to ISO 8601.
+
+The editing of the birth and death dates can be completed by pressing
+the `Enter` key.
+
+## Campo 1
+
+Expand or collapse this frame by clicking on the label.
+
+![Screenshot](images/character_view02.png)
+
+Changes are applied when the mouse is clicked anywhere outside the text
+input field.
+
+The default name is "Biografia". If this is not the right category for you,
+you can change it in the book settings.
+
+## Campo 2
+
+Expand or collapse this frame by clicking on the label.
+
+![Screenshot](images/character_view03.png)
+
+Changes are applied when the mouse is clicked anywhere outside the text
+input field.
+
+The default name is "Obiettivi". If this is not the right category for
+you, you can change it in the book settings.
 
 ## Collegamenti
 
@@ -133,9 +171,9 @@ in the plot line row.
 
 ## Navigation buttons
 
--   **Precedente** lets you navigate to the previous plot point in the
+-   **Precedente** lets you navigate to the previous character in the
     tree.
--   **Prossimo** lets you navigate to the next plot point in the tree.
+-   **Prossimo** lets you navigate to the next character in the tree.
 
 ---
 

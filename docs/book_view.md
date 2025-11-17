@@ -5,14 +5,14 @@
 # Libro properties
 
 The Libro properties view opens in the right pane when you select
-\"Libro\" in the tree, or when you click on the ![Mostra libro](images/viewBook.png) 
+"Libro" in the tree, or when you click on the ![Mostra libro](images/viewBook.png) 
 toolbar icon. It is the initial view after opening a *novelibre* project.
 
 ![novelibre screenshot](images/book_view01.png)
 
 ## Title, description, and author
 
-Title and description are displayed in an editable \"index card\".
+Title and description are displayed in an editable "index card".
 
 The editing of book title and author can be completed by pressing the
 `Enter` key. Changes to the description are applied when the mouse is
@@ -77,15 +77,15 @@ Prefix and suffix entries can be completed by pressing the `Enter` key.
 
 ### Usa numeri di capitolo romani
 
-By default, arabic numbers, like \"1\", \"2\", \"3\" \... are used
+By default, arabic numbers, like "1", "2", "3" ... are used
 for auto-numbering. If this checkbox is ticked, Roman numbers, like
-\"I\", \"II\", \"III\", \"IV\" \... are used instead.
+"I", "II", "III", "IV" ... are used instead.
 
 ### Ricomincia numerazione all'inizio della parte
 
 By default, the chapters are numbered consistently across the parts.
 If this checkbox is ticked, the chapter numbering starts again with
-\"1\" in each part.
+"1" in each part.
 
 ## Nome del campo
 
@@ -102,7 +102,7 @@ the categories can be completed by pressing the `Enter` key.
 
 When you set the Scene frame to **Non è una scena**, 
 you see the three text boxes whose names you enter here.
-These categories then apply to all sections that don\'t represent
+These categories then apply to all sections that don't represent
 scenes.
 
 ### Altra scena
@@ -110,7 +110,7 @@ scenes.
 When you set the Scene frame to
 **Altro**, you see the three text boxes whose names you enter here.
 These categories then apply to all sections that represent scenes
-other than \"Action\" and \"Reaction\".
+other than "Action" and "Reaction".
 
 ### Personaggio
 
@@ -144,7 +144,7 @@ Format: *YYYY-MM-DD*, according to ISO 8601.
 
 > **Hint**
 >
-> Even if you don\'t need specific dates for your story, specifying a
+> Even if you don't need specific dates for your story, specifying a
 > reference date might be helpful. Thus, a day of the week can be
 > displayed along with the unspecific date,
 > and ages can be calculated for related characters.
@@ -163,7 +163,7 @@ the reference date.
 > 
 > For large novels, the conversion may take some time, depending on your
 > system. During the conversion time, the clicked button will display
-> *\"Attendere prego...\"*.
+> *"Attendere prego..."*.
 
 > **Hint**
 > 
@@ -188,7 +188,7 @@ progress.
 
 By default, *novelibre* stores a log entry with the word counts for
 each day on which you edit the project. You can prevent this by
-unticking the **Log writing progress** checkbox.
+unticking the **Registrare i progressi di scrittura** checkbox.
 
 > **Hint**
 > 
@@ -209,8 +209,8 @@ completed by pressing the `Enter` key.
 
 ### Imposta l'attuale conteggio parole come inizio
 
-Click this button to enter your current word count in the **Starting
-count** field.
+Click this button to enter your current word count in the 
+**Inizia conteggio** field.
 
 ### Parole scritte
 
@@ -219,7 +219,7 @@ count is displayed. The percentage refers to the words to write.
 
 ### Fase di lavorazione
 
-This setting is for the tree viewer \"Fase di lavorazione\" coloring mode.
+This setting is for the tree viewer "Fase di lavorazione" coloring mode.
 
 -   Sections with the same completion status as the selected work
     phase are black.
@@ -243,7 +243,7 @@ places in the wiki.
 
 Or you have collected some images that could inspire you when writing.
 Then simply create links to these images to open them with your
-system\'s standard image viewer.
+system's standard image viewer.
 
 > **Tip**
 > 
@@ -267,35 +267,36 @@ opens. The selected file will be added to the link list.
 
 ### Rimuovi Link
 
-When clicking on ![Rimuovi](images/remove.png) or pressing the `Del`
+When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
 ### Aprire Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
-application for the link\'s file type.
+application for the link's file type.
 
 > **Hint**
 >
 > If you want to open certain linked files with another application
 > than the standard application, you can provide a *novelibre*
-> \"launcher\" setting. For this, just create a text file named
+> "launcher" setting. For this, just create a text file named
 > **launchers.ini** in the `.novx/config` directory (where all
 > configuration files are stored). Here you can assign applications to
 > the file extensions.
 >
 > Zim Desktop wiki pages are a special case. For this, the Zim program
-> is assigned to the [.zim]{.title-ref} extension.
+> is assigned to the *.zim* extension.
 >
 > This example shows a setting that makes *novelibre* open text files
 > with the *Zim Desktop Wiki* application instead of the standard text
 > editor:
+> 
+> ```ini
+> [SETTINGS]
+> .zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
+> ```
 
-```INI
-[SETTINGS]
-.zim = C:/Program Files (x86)/Zim Desktop Wiki/zim.exe 
-```
 
 ## Cover thumbnail
 
