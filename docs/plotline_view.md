@@ -7,7 +7,7 @@
 The Linea narrativa properties view opens in the right pane when you select a
 plot line in the tree.
 
-![novelibre screenshot](_images/plotline_view01.png)
+![novelibre screenshot](images/plotline_view01.png)
 
 ## Title and description
 
@@ -25,7 +25,7 @@ tree. A single character like \"A\", \"B\", \"C\" is recommended.
 The following example shows plot line short names as displayed in the
 tree:
 
-![novelibre screenshot](_images/plotline_view02.png)
+![novelibre screenshot](images/plotline_view02.png)
 
 ## Section assignments
 
