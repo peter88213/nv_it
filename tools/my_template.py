@@ -4,5 +4,5 @@ from string import Template
 
 class MyTemplate(Template):
 
-    idpattern = r'(?a:[_ a-z][_ a-z0-9]*)'
+    idpattern = r'(?a:[\.\:_ a-z][\.\:_ a-z0-9]*)'
 
