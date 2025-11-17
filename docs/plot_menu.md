@@ -10,7 +10,7 @@
 
 **Add a new plot line to the story**
 
-With **Trama > Aggiungi Trama**, you can add a project note to the tree.
+With **Trama > Aggiungi Trama**, you can add a plot line to the tree.
 
 -   If a plot line is selected, the new plot line is placed after the
     selected one.
