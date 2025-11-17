@@ -103,7 +103,7 @@ below).
 > **Note**
 > 
 > Only "normal" sections appear in the plot grid. Sections of the
-> "Unused" type are omitted.
+> "Non utilizzato" type are omitted.
 
 The document can be edited with *Calc* and reimported. File name suffix
 is `_grid_tmp`.
