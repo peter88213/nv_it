@@ -37,7 +37,7 @@ The package is also available in zip format: [nv_it.zip](https://github.com/pete
 
 ## Credits
 
-The Italian translations are provided by [Sandro Mattei](https://github.com/oldstonegryzzly).
+The Italian translations of the user interface are provided by [Sandro Mattei](https://github.com/oldstonegryzzly).
 
 ---
 

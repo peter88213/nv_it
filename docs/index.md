@@ -28,6 +28,11 @@ Questo è il manoscritto su cui si dovrà lavorare.
 
 ![LibreOffice screenshot](img/screen02.jpg)
 
+Se la lingua di sistema del vostro computer è l'italiano e avete installato il pacchetto 
+di lingua italiana, anche l'interfaccia utente di *novelibre* apparirà in italiano. 
+Il manuale utente è attualmente disponibile in inglese, ma i termini dell'interfaccia 
+utente sono tradotti in italiano. 
+
 ---
 
 - [Aiuto in linea](help) 
@@ -37,7 +42,23 @@ Questo è il manoscritto su cui si dovrà lavorare.
 
 ---
 
-## Credits
+## Riconoscimenti
 
-The Italian user interface translations are provided by [Sandro Mattei](https://github.com/oldstonegryzzly).
+Le traduzioni dell'interfaccia utente in italiano sono fornite da 
+[Sandro Mattei](https://github.com/oldstonegryzzly).
+
+---
+
+## Licenzia
+
+Questo è un software Open Source e *novelibre* è concesso in licenza ai sensi della GPLv3.
+Per ulteriori dettagli, consultare il 
+[sito web della GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) 
+o il file LICENSE (https://github.com/peter88213/novelibre/blob/main/LICENSE).
+
+
+
+
+
+
 
