@@ -1,4 +1,4 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Index](../) > [Aiuto in linea](index.md) > Note di progetto menu
+[Pagina principale](https://github.com/peter88213/novelibre) > [Index](../) > [Aiuto in linea](./) > Note di progetto menu
 
 ---
 

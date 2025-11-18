@@ -1,4 +1,4 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Index](../) > [Aiuto in linea](index.md) > Personaggio properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Index](../) > [Aiuto in linea](./) > Personaggio properties
 
 ---
 

@@ -1,4 +1,4 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Index](../) > [Aiuto in linea](index.md) > Snodo della trama properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Index](../) > [Aiuto in linea](./) > Snodo della trama properties
 
 ---
 
