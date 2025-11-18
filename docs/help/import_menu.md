@@ -68,3 +68,5 @@ documents open in *Writer* or *Calc* for editing.
 
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
+
+Copyright (c) 2025 by Peter Triesberger. All rights reserved.

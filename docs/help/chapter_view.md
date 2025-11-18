@@ -144,3 +144,5 @@ in the plot line row.
 
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
+
+Copyright (c) 2025 by Peter Triesberger. All rights reserved.
