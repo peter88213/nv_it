@@ -1,4 +1,4 @@
-[Home page(https://github.com/peter88213/novelibre) > Italian pages
+[Home page](https://github.com/peter88213/novelibre) > Italian pages
 
 ---
 
