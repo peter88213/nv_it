@@ -19,10 +19,11 @@ personaggi, località e oggetti con le sezioni.
 *novelibre* può contenere informazioni sulle trame e sui snodi della trama assegnati 
 alle sezioni.
 
+---
 
 - [Aiuto in linea](help) 
+- [Pagina di download dell'applicazione (inglese)](https://github.com/peter88213/novelibre) 
 - [Pagina di download dei pacchetti lingua (inglese)](https://github.com/peter88213/nv_it)
-- [Pagina principale (inglese)](https://github.com/peter88213/novelibre) 
 - [Invia un feedback o fai una domanda (inglese)](https://github.com/peter88213/novelibre/discussions)
 
 ---
