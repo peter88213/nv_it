@@ -1550,7 +1550,7 @@ msgid "hh:mm"
 msgstr "hh:mm"
 
 msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/"
+msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "last saved on"
 msgstr "ultimo salvataggio"

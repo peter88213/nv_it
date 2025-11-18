@@ -7,11 +7,11 @@ import os
 import re
 from my_template import MyTemplate
 
-help_dir = '../docs'
+help_dir = '../docs/help'
 index_page = f'{help_dir}/index.md'
 json_dict = '../dictionary/msg_dict.json'
-page_link_pattern = re.compile(r'\[(.*?)\]\((.*?)\)')
-page_template = '''[${Home page}](https://github.com/peter88213/novelibre) > [${Online help}](index.md) > $Heading
+page_link_pattern = re.compile(r'- \[(.*?)\]\((.*?)\)')
+page_template = '''[${Home page}](https://github.com/peter88213/novelibre) > [Index](../) > [${Online help}](index.md) > $Heading
 
 ---
 

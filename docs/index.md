@@ -1,41 +1,28 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > Aiuto in linea
+[Home Page](https://github.com/peter88213/novelibre) > Index
 
 ---
 
-# novelibre Aiuto in linea
+# ![N](img/nLogo32.png) novelibre
 
-## Command reference
+[novelibre](https://github.com/peter88213/novelibre/) helps novelists to 
+plan extensive novels and to keep track of them during creation and revision.
 
-- [File menu](file_menu.md)
-- [Vista menu](view_menu.md)
-- [Parte menu](part_menu.md)
-- [Capitolo menu](chapter_menu.md)
-- [Sezione menu](section_menu.md)
-- [Personaggi menu](characters_menu.md)
-- [Località menu](locations_menu.md)
-- [Oggetti menu](items_menu.md)
-- [Trama menu](plot_menu.md)
-- [Note di progetto menu](project_notes_menu.md)
-- [Importa menu](import_menu.md)
-- [Esporta menu](export_menu.md)
-- [Strumenti menu](tools_menu.md)
-- [Aiuto menu](help_menu.md)
-- [Tree view context menu](tree_context_menu.md)
-- [The toolbar](toolbar.md)
+*novelibre* is designed for writers who are familiar with LibreOffice or OpenOffice. 
 
+*novelibre* is an add-on to OpenOffice or LibreOffice that helps to break down
+large novels into parts, chapters and sections, all of which are provided with
+additional information called metadata.
+The metadata remain permanently associated with the chapters and sections 
+in the ODT manuscript throughout the work on the novel. 
+*novelibre* makes information about the story world accessible and relates
+characters, locations, and items to the sections.
+*novelibre* can hold information about plot lines and plot points that are
+assigned to the sections.
 
-## Properties reference
-
-- [Libro properties](book_view.md)
-- [Capitolo/Parte properties](chapter_view.md)
-- [Fase properties](stage_view.md)
-- [Sezione properties](section_view.md)
-- [Personaggio properties](character_view.md)
-- [Località/Oggetto properties](world_view.md)
-- [Linea narrativa properties](plotline_view.md)
-- [Snodo della trama properties](point_view.md)
-- [Nota di progetto properties](project_note_view.md)
+- [Online help](help) 
+- [Home Page](https://github.com/peter88213/novelibre) 
+- [Give feedback or ask a question](https://github.com/peter88213/novelibre/discussions)
 
 ---
 
-[English manual](https://peter88213.github.io/nvhelp-en/)
+
