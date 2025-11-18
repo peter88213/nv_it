@@ -21,7 +21,7 @@ alle sezioni.
 
 
 - [Aiuto in linea](help) 
-- [Pagina principale](https://github.com/peter88213/novelibre) 
+- [Pagina principale (inglese)](https://github.com/peter88213/novelibre) 
 - [Invia un feedback o fai una domanda (inglese)](https://github.com/peter88213/novelibre/discussions)
 
 ---
