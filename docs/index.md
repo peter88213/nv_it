@@ -21,7 +21,7 @@ alle sezioni.
 
 
 - [Aiuto in linea](help) 
-- [Language package download page](https://github.com/peter88213/nv_it)
+- [Pagina di download dei pacchetti lingua (inglese)](https://github.com/peter88213/nv_it)
 - [Pagina principale (inglese)](https://github.com/peter88213/novelibre) 
 - [Invia un feedback o fai una domanda (inglese)](https://github.com/peter88213/novelibre/discussions)
 
