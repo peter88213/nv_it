@@ -1,0 +1,171 @@
+# nv_editor Dictionary (English-Italian)
+# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.6.1\n"
+"POT-Creation-Date: 2025-08-16 15:11:37\n"
+"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "1st Edit"
+msgstr "prima stesura"
+
+msgid "2nd Edit"
+msgstr "seconda stesura"
+
+msgid "Apply changes"
+msgstr ""
+
+msgid "Apply section changes?"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Bright mode"
+msgstr ""
+
+msgid "Cannot apply section changes as long as the project is locked."
+msgstr ""
+
+msgid "Cannot create section"
+msgstr ""
+
+msgid "Cannot edit sections"
+msgstr ""
+
+msgid "Cannot split the section"
+msgstr ""
+
+msgid "Cannot split the section at the cursor position"
+msgstr ""
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Copy"
+msgstr "Copia"
+
+msgid "Create section"
+msgstr ""
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cut"
+msgstr "Taglia"
+
+msgid "Dark mode"
+msgstr ""
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Draft"
+msgstr "Bozza"
+
+msgid "Edit"
+msgstr ""
+
+msgid "Editor plugin Online help"
+msgstr ""
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "Format"
+msgstr ""
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "Invalid changes"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "Light mode"
+msgstr ""
+
+msgid "Live update"
+msgstr ""
+
+msgid "Major Character"
+msgstr "Personaggio principale"
+
+msgid "Minor Character"
+msgstr "Personaggio minore"
+
+msgid "Move the text from the cursor position to the end into a new section?"
+msgstr ""
+
+msgid "Next"
+msgstr "Prossimo"
+
+msgid "Online help"
+msgstr "Aiuto in linea"
+
+msgid "Outline"
+msgstr "Struttura"
+
+msgid "Paste"
+msgstr "Incolla"
+
+msgid "Plain"
+msgstr ""
+
+msgid "Previous"
+msgstr "Precedente"
+
+msgid "Quit"
+msgstr "Esci"
+
+msgid "Section"
+msgstr "Sezione"
+
+msgid "Section Editor"
+msgstr ""
+
+msgid "Split at cursor position"
+msgstr ""
+
+msgid "Strong emphasis"
+msgstr ""
+
+msgid "The project is locked"
+msgstr "Il progetto è bloccato"
+
+msgid "The result would not be well-formed XML"
+msgstr ""
+
+msgid "Unlock and apply changes?"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "View"
+msgstr "Vista"
+
+msgid "Word count"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr "https://peter88213.github.io/nv_it/help/"
+
+msgid "new"
+msgstr ""
+
+msgid "words"
+msgstr ""
+

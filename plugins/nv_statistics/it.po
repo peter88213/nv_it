@@ -1,0 +1,99 @@
+# nv_statistics Dictionary (English-Italian)
+# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.5.0\n"
+"POT-Creation-Date: 2025-09-04 13:09:10\n"
+"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "1st Edit"
+msgstr "prima stesura"
+
+msgid "2nd Edit"
+msgstr "seconda stesura"
+
+msgid "Bio"
+msgstr "Biografia"
+
+msgid "Chapters"
+msgstr "Capitoli"
+
+msgid "Characterization"
+msgstr "Caratterizzazione"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Draft"
+msgstr "Bozza"
+
+msgid "Ending"
+msgstr "Finale"
+
+msgid "Goals"
+msgstr "Obiettivi"
+
+msgid "Major Character"
+msgstr "Personaggio principale"
+
+msgid "Minor Character"
+msgstr "Personaggio minore"
+
+msgid "Opening"
+msgstr "Apertura"
+
+msgid "Outline"
+msgstr "Struttura"
+
+msgid "Parts"
+msgstr "Parti"
+
+msgid "Peak emotional moment"
+msgstr "Culmine emotivo"
+
+msgid "Plot lines"
+msgstr "Linee narrative"
+
+msgid "Plot progress"
+msgstr "Progresso della trama"
+
+msgid "Plot structure"
+msgstr ""
+
+msgid "Project statistics Online help"
+msgstr ""
+
+msgid "Project statistics view"
+msgstr ""
+
+msgid "Sections"
+msgstr "Sezioni"
+
+msgid "Stages (first level)"
+msgstr ""
+
+msgid "Stages (second level)"
+msgstr ""
+
+msgid "Viewpoints"
+msgstr ""
+
+msgid "World building"
+msgstr "Creazione del mondo"
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr "https://peter88213.github.io/nv_it/help/"
+

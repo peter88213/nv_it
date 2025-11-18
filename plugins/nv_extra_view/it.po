@@ -1,0 +1,60 @@
+# nv_extra_view Dictionary (English-Italian)
+# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.4.2\n"
+"POT-Creation-Date: 2025-08-16 15:13:18\n"
+"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "1st Edit"
+msgstr "prima stesura"
+
+msgid "2nd Edit"
+msgstr "seconda stesura"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Detach text viewer"
+msgstr ""
+
+msgid "Detach/Dock Properties"
+msgstr "Stacca/Aggancia Proprietà"
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Draft"
+msgstr "Bozza"
+
+msgid "Major Character"
+msgstr "Personaggio principale"
+
+msgid "Minor Character"
+msgstr "Personaggio minore"
+
+msgid "No text available"
+msgstr "Nessun testo disponibile"
+
+msgid "Outline"
+msgstr "Struttura"
+
+msgid "Show markup"
+msgstr "Mostra Markup"
+
+msgid "Unnamed"
+msgstr "Senza nome"
+
+msgid "by"
+msgstr "di"
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr "https://peter88213.github.io/nv_it/help/"
+

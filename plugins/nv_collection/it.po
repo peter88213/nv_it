@@ -1,0 +1,207 @@
+# nv_collection Dictionary (English-Italian)
+# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.5.1\n"
+"POT-Creation-Date: 2025-09-11 22:56:58\n"
+"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "1st Edit"
+msgstr "prima stesura"
+
+msgid "2nd Edit"
+msgstr "seconda stesura"
+
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid "Add current project to the collection"
+msgstr ""
+
+msgid "Bio"
+msgstr "Biografia"
+
+msgid "Book"
+msgstr "Libro"
+
+msgid "Book added to the collection"
+msgstr ""
+
+msgid "Book already exists"
+msgstr ""
+
+msgid "Book removed from the collection"
+msgstr ""
+
+msgid "Cannot overwrite file"
+msgstr "Impossibile sovrascrivere il file"
+
+msgid "Cannot process file"
+msgstr "Impossibile processare il file"
+
+msgid "Cannot remove book"
+msgstr ""
+
+msgid "Cannot remove series"
+msgstr ""
+
+msgid "Cannot save the collection"
+msgstr ""
+
+msgid "Cannot write file"
+msgstr "Impossibile scrivere il file"
+
+msgid "Characterization"
+msgstr "Caratterizzazione"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Collection"
+msgstr ""
+
+msgid "Collection plugin Online help"
+msgstr ""
+
+msgid "Collection saved"
+msgstr ""
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Draft"
+msgstr "Bozza"
+
+msgid "Ending"
+msgstr "Finale"
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "File"
+msgstr "File"
+
+msgid "Goals"
+msgstr "Obiettivi"
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "Major Character"
+msgstr "Personaggio principale"
+
+msgid "Minor Character"
+msgstr "Personaggio minore"
+
+msgid "New"
+msgstr "Nuovo"
+
+msgid "New Series"
+msgstr ""
+
+msgid "No changes to save"
+msgstr ""
+
+msgid "No valid version found in file"
+msgstr "Nessuna versione valida trovata nel file"
+
+msgid "No valid xml root element found in file"
+msgstr "Nessun elemento radice XML valido trovato nel file"
+
+msgid "Online help"
+msgstr "Aiuto in linea"
+
+msgid "Open..."
+msgstr "Apri..."
+
+msgid "Opening"
+msgstr "Apertura"
+
+msgid "Outline"
+msgstr "Struttura"
+
+msgid "Peak emotional moment"
+msgstr "Culmine emotivo"
+
+msgid "Plot progress"
+msgstr "Progresso della trama"
+
+msgid "Quit"
+msgstr "Esci"
+
+msgid "Remove selected book from the collection"
+msgstr ""
+
+msgid "Remove selected book from the collection?"
+msgstr ""
+
+msgid "Remove selected series and books"
+msgstr ""
+
+msgid "Remove selected series and books?"
+msgstr ""
+
+msgid "Remove selected series but keep the books"
+msgstr ""
+
+msgid "Remove selected series but keep the books?"
+msgstr ""
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Save changes?"
+msgstr "Salvare i cambiamenti?"
+
+msgid "Series"
+msgstr ""
+
+msgid "Series removed from the collection"
+msgstr ""
+
+msgid "The collection \"{}\" was created with a newer plugin version."
+msgstr ""
+
+msgid "The collection \"{}\" was created with an outdated plugin version."
+msgstr ""
+
+msgid "There are unsaved changes"
+msgstr "Ci sono delle modifiche da salvare"
+
+msgid "There is no file for the current project. Please save first."
+msgstr ""
+
+msgid "This project has no title"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Untitled collection"
+msgstr ""
+
+msgid "Update book data from the current project"
+msgstr ""
+
+msgid "Update project data from the selected book"
+msgstr ""
+
+msgid "World building"
+msgstr "Creazione del mondo"
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr "https://peter88213.github.io/nv_it/help/"
+
+msgid "novelibre collection"
+msgstr ""
+

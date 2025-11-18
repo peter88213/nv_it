@@ -1,0 +1,159 @@
+# nv_timeline Dictionary (English-Italian)
+# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.5.0\n"
+"POT-Creation-Date: 2025-11-12 11:31:18\n"
+"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "!No {} file available for this project."
+msgstr ""
+
+msgid "1st Edit"
+msgstr "prima stesura"
+
+msgid "2nd Edit"
+msgstr "seconda stesura"
+
+msgid "Alt-Down"
+msgstr "Alt-Giù"
+
+msgid "Alt-Left"
+msgstr "Alt-Sinistra"
+
+msgid "Alt-Right"
+msgstr "Alt-Destra"
+
+msgid "Alt-Up"
+msgstr "Alt-Su"
+
+msgid "Bio"
+msgstr "Biografia"
+
+msgid "Can not process file"
+msgstr ""
+
+msgid "Cannot determine file date."
+msgstr ""
+
+msgid "Cannot overwrite file"
+msgstr "Impossibile sovrascrivere il file"
+
+msgid "Cannot write file"
+msgstr "Impossibile scrivere il file"
+
+msgid "Chapter"
+msgstr "Capitolo"
+
+msgid "Characterization"
+msgstr "Caratterizzazione"
+
+msgid "Create from Timeline..."
+msgstr ""
+
+msgid "Create or update the timeline"
+msgstr ""
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Del"
+msgstr "Canc"
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Draft"
+msgstr "Bozza"
+
+msgid "Ending"
+msgstr "Finale"
+
+msgid "File"
+msgstr "File"
+
+msgid "File already exists"
+msgstr "Il file esiste già"
+
+msgid "File written"
+msgstr "File scritto"
+
+msgid "Goals"
+msgstr "Obiettivi"
+
+msgid "Information"
+msgstr ""
+
+msgid "Major Character"
+msgstr "Personaggio principale"
+
+msgid "Minor Character"
+msgstr "Personaggio minore"
+
+msgid "No {} file available for this project."
+msgstr ""
+
+msgid "Open Timeline"
+msgstr ""
+
+msgid "Opening"
+msgstr "Apertura"
+
+msgid "Outline"
+msgstr "Struttura"
+
+msgid "Peak emotional moment"
+msgstr "Culmine emotivo"
+
+msgid "Plot progress"
+msgstr "Progresso della trama"
+
+msgid "Save the project and update it?"
+msgstr ""
+
+msgid "Save the project and {} the timeline?"
+msgstr ""
+
+msgid "Shift"
+msgstr "Maiusc"
+
+msgid "There are unsaved changes"
+msgstr "Ci sono delle modifiche da salvare"
+
+msgid "Timeline plugin Online help"
+msgstr ""
+
+msgid "Update the project"
+msgstr ""
+
+msgid "Update the timeline?"
+msgstr ""
+
+msgid "World building"
+msgstr "Creazione del mondo"
+
+msgid "create"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr "https://peter88213.github.io/nv_it/help/"
+
+msgid "newer"
+msgstr ""
+
+msgid "older"
+msgstr ""
+
+msgid "update"
+msgstr ""
+
+msgid "{0} file is {1} than the novelibre project.\n (last saved on {2})"
+msgstr ""
+

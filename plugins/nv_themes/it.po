@@ -1,0 +1,30 @@
+# nv_themes Dictionary (English-Italian)
+# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.0.3\n"
+"POT-Creation-Date: 2025-08-16 15:22:47\n"
+"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Change theme"
+msgstr ""
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "GUI Theme"
+msgstr ""
+
+msgid "Options"
+msgstr "Opzioni"
+
+msgid "Theme Changer"
+msgstr ""
+
