@@ -4,11 +4,20 @@
 
 # ![N](../img/nLogo32.png) novelibre Aiuto in linea
 
-This page refers to the
-[novelibre](https://github.com/peter88213/novelibre/) application. 
-You can open it with **Aiuto \> Guida utente Online**.
+Questa pagina si riferisce all'applicazione 
+[novelibre](https://github.com/peter88213/novelibre/). 
+È possibile aprirla con **Aiuto \> Guida utente Online**.
 
+Qui trovate le pagine di aiuto più importanti del manuale utente di novelibre. 
+Maggiori informazioni sull'installazione e la disinstallazione di novelibre, 
+dettagli interessanti sul concetto di utilizzo e guide pratiche sono disponibili 
+nella [versione inglese](https://peter88213.github.io/nvhelp-en/).
 
+È inoltre disponibile un [wiki](https://github.com/peter88213/nv_it/wiki)
+in cui gli utenti possono pubblicare ulteriori istruzioni, 
+consigli e tutorial in lingua italiana.
+
+ 
 > **Note**
 > 
 > This online manual is to be translated into Italian. 
