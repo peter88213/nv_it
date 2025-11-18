@@ -26,4 +26,7 @@ alle sezioni.
 
 ---
 
+## Credits
+
+The Italian user interface translations are provided by [Sandro Mattei](https://github.com/oldstonegryzzly).
 
