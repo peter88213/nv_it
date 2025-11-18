@@ -1,8 +1,8 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > Index
+[Home page(https://github.com/peter88213/novelibre) > Italian pages
 
 ---
 
-# ![N](img/nLogo32.png) novelibre - Italian pages
+# ![N](img/nLogo32.png) novelibre (Pagine italiane)
 
 [novelibre](https://github.com/peter88213/novelibre/)  aiuta i romanzieri a 
 pianificare romanzi di ampio respiro e a tenerne traccia durante la creazione e la revisione.
@@ -18,6 +18,15 @@ ODT durante tutto il lavoro sul romanzo.
 personaggi, località e oggetti con le sezioni.
 *novelibre* può contenere informazioni sulle trame e sui snodi della trama assegnati 
 alle sezioni.
+
+Ecco come si presenta l'area di lavoro di *novelibre*:
+
+![novelibre screenshot](img/screen01.png)
+
+Questo è il manoscritto su cui si dovrà lavorare.
+*novelibre* lo ha creato e lo ha trasmesso a LibreOffice *Writer*:
+
+![LibreOffice screenshot](img/screen02.jpg)
 
 ---
 
