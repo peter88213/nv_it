@@ -1,8 +1,8 @@
-[${Home page}](https://github.com/peter88213/novelibre) > [Index](../) > [${Online help}](./) > ${Character} properties
+[Pagina principale](https://github.com/peter88213/novelibre) > [Index](../) > [Aiuto in linea](./) > Personaggio properties
 
 ---
 
-# ${Character} properties
+# Personaggio properties
 
 The Character properties view opens in the right pane when you select a
 character in the tree.
@@ -17,18 +17,18 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## ${Full name}
+## Nome completo
 
 The character's title as shown on the index card is used as a short
 name at several places. The full name can be entered separately. Editing
 can be completed by pressing the `Enter` key.
 
-## ${AKA}
+## soprannome
 
 This entry field is for alias names. Editing can be completed by
 pressing the `Enter` key.
 
-## ${Tags}
+## Annotazioni
 
 Tags are a very freely usable tool for labeling characters in the tree
 view. Tags do not have to be defined elsewhere, but simply entered in
@@ -46,9 +46,9 @@ pressing the `Enter` key.
 > keywords when creating a new wiki page for the character. This provides
 > a powerful navigation aid.
 
-## ${Major Character}
+## Personaggio principale
 
-With the **${Major Character}** checkbox you can change the character
+With the **Personaggio principale** checkbox you can change the character
 status.
 
 > **Note**
@@ -57,14 +57,14 @@ status.
 > on the program functions. Nevertheless, you can use it to mark viewpoint
 > characters or characters with their own plot lines.
 
-## ${Birth date} and ${Death date}
+## Data di nascita and Data della morte
 
 Format: *YYYY-MM-DD*, according to ISO 8601.
 
 The editing of the birth and death dates can be completed by pressing
 the `Enter` key.
 
-## ${Field} 1
+## Campo 1
 
 Expand or collapse this frame by clicking on the label.
 
@@ -73,10 +73,10 @@ Expand or collapse this frame by clicking on the label.
 Changes are applied when the mouse is clicked anywhere outside the text
 input field.
 
-The default name is "${Bio}". If this is not the right category for you,
+The default name is "Biografia". If this is not the right category for you,
 you can change it in the book settings.
 
-## ${Field} 2
+## Campo 2
 
 Expand or collapse this frame by clicking on the label.
 
@@ -85,10 +85,10 @@ Expand or collapse this frame by clicking on the label.
 Changes are applied when the mouse is clicked anywhere outside the text
 input field.
 
-The default name is "${Goals}". If this is not the right category for
+The default name is "Obiettivi". If this is not the right category for
 you, you can change it in the book settings.
 
-## ${Links}
+## Collegamenti
 
 Expand or collapse this frame by clicking on the label.
 
@@ -115,9 +115,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Aggiungi Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Aggiungi](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -127,15 +127,15 @@ opens. The selected file will be added to the link list.
 >
 > ![Screenshot](images/filePicker01.png)
 
-### ${Remove} Link
+### Rimuovi Link
 
-When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
+When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Aprire Link
 
 When double-clicking on a link, or clicking on
-![${Go to}](images/goto.png), the link is opened with the standard
+![Vai a](images/goto.png), the link is opened with the standard
 application for the link's file type.
 
 > **Hint**
@@ -164,15 +164,15 @@ application for the link's file type.
 The yellow text area is for notes. Changes are applied when the mouse is
 clicked anywhere outside the text input field.
 
-When the "sticky note" of a plot point contains text, "${N}" is
+When the "sticky note" of a plot point contains text, "N" is
 displayed in the tree view as a reminder. If the branch of a plot line
-with plot points containing notes is collapsed, the "${N}" is displayed
+with plot points containing notes is collapsed, the "N" is displayed
 in the plot line row.
 
 ## Navigation buttons
 
--   **${Previous}** lets you navigate to the previous character in the tree.
--   **${Next}** lets you navigate to the next character in the tree.
+-   **Precedente** lets you navigate to the previous character in the tree.
+-   **Prossimo** lets you navigate to the next character in the tree.
 
 ---
 
