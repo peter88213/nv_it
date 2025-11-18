@@ -1,4 +1,4 @@
-[Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Aiuto menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Aiuto menu
 
 ---
 
@@ -15,10 +15,10 @@
 > 
 > With `F1` you can call up a help page corresponding to the context.
 
-## Guida utente Online
+## Aiuto in linea
 
-With **Aiuto > Guida utente Online**, you can launch your system web
-browser with the *novelibre* online user guide URL.
+With **Aiuto > Aiuto in linea**, you can launch your system web
+browser with the *novelibre* online help URL.
 
 ## A proposito di novelibre
 
