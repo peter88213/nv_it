@@ -35,7 +35,7 @@ optional; technically they are first level chapters. However, in the
 they produce a heading one level above. Thus, parts are mainly for
 inserting first level headings between the chapters, if needed.
 
-![novelibre screenshot](_images/basic_concepts01.png)
+![novelibre screenshot](images/basic_concepts01.png)
 
 > **Hint**
 > 
@@ -57,7 +57,7 @@ are only a few chapter properties to be set.
 If you want to preface a chapter or part with a poem or a quotation, you
 can set its first section to be the epigraph.
 
-![novelibre screenshot](_images/basic_concepts06.png)
+![novelibre screenshot](images/basic_concepts06.png)
 
 The epigraph appears in the exported ODT document between the chapter
 heading and the actual start of the chapter.
@@ -67,7 +67,7 @@ the **Epigrafe** paragraph style. If you add a description to the
 epigraph, this will be placed below the epigraph as a source reference,
 formatted using the **Fonte dell'Epigrafe** paragraph style.
 
-![LibreOffice Writer screenshot](_images/basic_concepts07.jpg)
+![LibreOffice Writer screenshot](images/basic_concepts07.jpg)
 
 > **Hint**
 > 
@@ -96,7 +96,7 @@ left, you can see a normal transition with a section divider. On the
 right, the fine horizontal line indicates that a new, appended section
 is beginning.
 
-![novelibre screenshot](_images/basic_concepts05.jpg)
+![novelibre screenshot](images/basic_concepts05.jpg)
 
 ## Part/chapter/section types
 
@@ -124,7 +124,7 @@ from word count totals and export.
 -   If you mark a section "Non utilizzato", its properties are preserved.
 -   Non utilizzato tree elements are displayed in gray.
 
-![novelibre screenshot](_images/basic_concepts04.png)
+![novelibre screenshot](images/basic_concepts04.png)
 
 ## Section completion status
 
@@ -135,13 +135,13 @@ or Sezione menu. You can choose between *Struttura*, *Bozza*, *prima stesura*,
 -   You can choose a Modalità colorazione to display sections in different colors 
     depending on their completion status.
 
-    ![novelibre screenshot](_images/basic_concepts02.png)
+    ![novelibre screenshot](images/basic_concepts02.png)
 
 -   Optionally, you can declare one of the status to be the current
     Fase di lavorazione, and choose a Modalità colorazione that highlights sections 
     that are behind schedule.
 
-    ![novelibre screenshot](_images/basic_concepts03.png)
+    ![novelibre screenshot](images/basic_concepts03.png)
 
 -   Newly created sections are set to Struttura by default.
 
@@ -255,12 +255,12 @@ In locked state, the project cannot be modified via the user interface.
 The footer bar is then displayed in reversed colors, the menu entries
 for changing data, saving, importing, and exporting are greyed out, and
 the widgets in the *Properties* view are disabled. With
-![manuscript](_images/manuscript.png) you can open an existing
+![manuscript](images/manuscript.png) you can open an existing
 manuscript, if newer than the project file.
 
 The project lock is nothing more than a strong reminder. You can unlock
 the project at any time. You also can manually lock the project, if necessary. 
-The ![Lock/Unlock](_images/lock.png) toolbar button toggles the locking state.
+The ![Lock/Unlock](images/lock.png) toolbar button toggles the locking state.
 
 > **Hint**
 > 
