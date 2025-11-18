@@ -54,7 +54,7 @@ Le traduzioni dell'interfaccia utente in italiano sono fornite da
 Questo è un software Open Source e *novelibre* è concesso in licenza ai sensi della GPLv3.
 Per ulteriori dettagli, consultare il 
 [sito web della GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) 
-o il file LICENSE (https://github.com/peter88213/novelibre/blob/main/LICENSE).
+o il file[LICENSE](https://github.com/peter88213/novelibre/blob/main/LICENSE).
 
 
 
