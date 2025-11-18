@@ -2,7 +2,7 @@
 
 ---
 
-# novelibre Aiuto in linea
+# ![N](../img/nLogo32.png) novelibre Aiuto in linea
 
 This page refers to the
 [novelibre](https://github.com/peter88213/novelibre/) application. 
