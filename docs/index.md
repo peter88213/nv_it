@@ -4,24 +4,25 @@
 
 # ![N](img/nLogo32.png) novelibre - Italian pages
 
-[novelibre](https://github.com/peter88213/novelibre/) helps novelists to 
-plan extensive novels and to keep track of them during creation and revision.
+[novelibre](https://github.com/peter88213/novelibre/)  aiuta i romanzieri a 
+pianificare romanzi di ampio respiro e a tenerne traccia durante la creazione e la revisione.
 
-*novelibre* is designed for writers who are familiar with LibreOffice or OpenOffice. 
+*novelibre* è progettato per scrittori che hanno familiarità con LibreOffice o OpenOffice. 
 
-*novelibre* is an add-on to OpenOffice or LibreOffice that helps to break down
-large novels into parts, chapters and sections, all of which are provided with
-additional information called metadata.
-The metadata remain permanently associated with the chapters and sections 
-in the ODT manuscript throughout the work on the novel. 
-*novelibre* makes information about the story world accessible and relates
-characters, locations, and items to the sections.
-*novelibre* can hold information about plot lines and plot points that are
-assigned to the sections.
+*novelibre* è un componente aggiuntivo per OpenOffice o LibreOffice che aiuta a suddividere 
+romanzi di grandi dimensioni in parti, capitoli e sezioni, tutti corredati da informazioni 
+aggiuntive chiamate metadati.
+I metadati rimangono associati in permanenza ai capitoli e alle sezioni del manoscritto 
+ODT durante tutto il lavoro sul romanzo. 
+*novelibre* rende accessibili le informazioni sul mondo della storia e mette in relazione 
+personaggi, località e oggetti con le sezioni.
+*novelibre* può contenere informazioni sulle trame e sui snodi della trama assegnati 
+alle sezioni.
+
 
 - [Aiuto in linea](help) 
-- [Home Page](https://github.com/peter88213/novelibre) 
-- [Give feedback or ask a question](https://github.com/peter88213/novelibre/discussions)
+- [Pagina principale](https://github.com/peter88213/novelibre) 
+- [Invia un feedback o fai una domanda (inglese)](https://github.com/peter88213/novelibre/discussions)
 
 ---
 
