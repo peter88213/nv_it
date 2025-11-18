@@ -16,6 +16,11 @@ You can open it with **Aiuto \> Guida utente Online**.
 > user interface are consistently referred to in their translated form.
 
 
+## General
+
+- [The Workspace](workspace.md)
+
+
 ## Command reference
 
 - [File menu](file_menu.md)
