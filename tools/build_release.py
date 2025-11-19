@@ -18,12 +18,16 @@ import set_up
 from settings import *
 
 
+def output(message):
+    print(f'(build_release) {message}')
+
+
 def main():
-    print(f'Build a novelibre language pack for {languageName}.')
+    output(f'Build a novelibre language pack for {languageName}.')
 
     # Check whether tranlsations are complete.
     if not set_up.main():
-        print('PROGRAM ABORTED. Please complete translations.')
+        output('PROGRAM ABORTED. Please complete translations.')
         return False
 
     # Create the target path.
@@ -36,24 +40,24 @@ def main():
         if not os.path.isdir(f'../modules/{moduleName}'):
             continue
 
-        print(moduleName)
+        output(f'Module: "{moduleName}".')
         poPath = f'../modules/{moduleName}/{languageCode}.po'
         moName = f'{moduleName}.mo'
         moPath = f'../build/{localePath}/{moName}'
-        print(f'Writing "{moPath}" ...')
+        output(f'Writing "{moPath}" ...')
         msgfmt.make(poPath, moPath)
         moFiles.append(f'{localePath}/{moName}')
 
     # Create the release package.
     copy2('../src/setuplib.py', '../build')
     distPath = f'../nv_{languageCode}.pyz'
-    print(f'Writing "{distPath}" ...')
+    output(f'Writing "{distPath}" ...')
     zipapp.create_archive('../build', target=distPath, main='setuplib:main', compressed=True)
 
     # Create the optional zip file.
     copy2('../src/setup.py', '../build')
     zipPath = f'../nv_{languageCode}.zip'
-    print(f'Writing "{zipPath}" ...')
+    output(f'Writing "{zipPath}" ...')
     with zipfile.ZipFile(zipPath, 'w') as release:
         os.chdir('../build')
         for file in moFiles:
@@ -61,7 +65,7 @@ def main():
         release.write('setuplib.py', compress_type=zipfile.ZIP_DEFLATED)
         release.write('setup.py', compress_type=zipfile.ZIP_DEFLATED)
 
-    print('Done.')
+    output('Done.')
     return True
 
 
