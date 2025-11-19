@@ -20,7 +20,7 @@ def main():
         if not os.path.isdir(poPath):
             continue
 
-        if not translations.main(poPath, app=moduleName, json=True):
+        if not translations.main(poPath, app=moduleName):
             translationsComplete = False
     return translationsComplete
 
