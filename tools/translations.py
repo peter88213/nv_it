@@ -80,7 +80,7 @@ class PoFile:
                 f'"{self.filePath}" remains unchanged '
                 f'(total: {len(self.messages)}).'
             )
-            raise RuntimeError
+            return
 
         lines = self.headings.copy()
         lines.append('msgid ""')
