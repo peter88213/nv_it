@@ -25,7 +25,13 @@ def main():
         if not os.path.isdir(poPath):
             continue
 
-        if not translations.main(poPath, app=moduleName):
+        try:
+            translations.main(
+                f'{poPath}/messages.pot',
+                f'{poPath}/{languageCode}.po',
+                f'../dictionary/msg_dict.json',
+            )
+        except RuntimeError:
             translationsComplete = False
     return translationsComplete
 
