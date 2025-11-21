@@ -15,6 +15,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 """
+import locale
 import os
 import shutil
 import sys
@@ -31,7 +32,13 @@ class Plugin:
     URL = 'https://github.com/peter88213/nv_it'
 
     def install(self, model, view, controller):
-        pass
+        try:
+            CURRENT_LANGUAGE = locale.getlocale()[0][:2]
+        except:
+            # Fallback for old Windows versions.
+            CURRENT_LANGUAGE = locale.getdefaultlocale()[0][:2]
+        if CURRENT_LANGUAGE != LANGUAGE_CODE:
+            raise UserWarning(f'The system language is not "{LANGUAGE_CODE}".')
 
     def uninstall(self):
         shutil.rmtree(TRANSLATIONS_DIR, ignore_errors=True)
