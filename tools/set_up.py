@@ -26,11 +26,12 @@ def main():
             continue
 
         try:
-            translations.main(
+            version = translations.main(
                 f'{poPath}/messages.pot',
                 f'{poPath}/{languageCode}.po',
                 f'../dictionary/msg_dict.json',
             )
+            print(version)
         except RuntimeError:
             translationsComplete = False
     return translationsComplete
