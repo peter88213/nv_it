@@ -32,7 +32,7 @@ def main():
                 f'../dictionary/msg_dict.json',
             )
             print(version)
-        except RuntimeError:
+        except UserWarning:
             translationsComplete = False
     return translationsComplete
 
