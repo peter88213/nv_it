@@ -15,13 +15,15 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 """
+import os
 import shutil
+import sys
 
 LANGUAGE_CODE = 'it'
 TRANSLATIONS_DIR = f'{os.path.dirname(sys.argv[0])}/locale/{LANGUAGE_CODE}'
 
 
-class Plugin(PluginBase):
+class Plugin:
     """Template plugin class."""
     VERSION = '@release'
     API_VERSION = '5.43'
@@ -32,4 +34,4 @@ class Plugin(PluginBase):
         pass
 
     def uninstall(self):
-        shutil.rmtree(TRANSLATIONS_DIR)
+        shutil.rmtree(TRANSLATIONS_DIR, ignore_errors=True)
