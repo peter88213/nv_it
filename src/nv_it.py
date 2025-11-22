@@ -15,7 +15,6 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 """
-import locale
 import os
 import shutil
 import sys
@@ -36,17 +35,6 @@ class Plugin:
             raise UserWarning(
                 'Translations not found:'
                 f'"{os.path.normpath(TRANSLATIONS_DIR)}".'
-            )
-        try:
-            CURRENT_LANGUAGE = locale.getlocale()[0][:2]
-        except:
-            # Fallback for old Windows versions.
-            CURRENT_LANGUAGE = locale.getdefaultlocale()[0][:2]
-        if CURRENT_LANGUAGE != LANGUAGE_CODE:
-            view.show_warning(
-                title=self.DESCRIPTION,
-                message='Cannot apply translations.',
-                detail=f'The system language is not "{LANGUAGE_CODE}".',
             )
 
     def uninstall(self):

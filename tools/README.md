@@ -4,4 +4,7 @@ This directory contains helper scripts for building the language package.
   whose sources are installed locally in `../..`.
 - `set_up.py` creates `it.po` files for each module included in `../modules` and synchronizes 
   all translations with the central dictionary `../dictionary/msg_dict.json`.
-- `build_release.py` builds the installation packages `../nv_it.pyz` and `../nv_it.zip`. 
+- `build.py` builds the installation packages. 
+
+> [!IMPORTANT]
+> Before building the release, edit `build.py` and update the version number.
