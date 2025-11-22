@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.42.1\n"
+"Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2025-11-22 18:39:10\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -934,9 +934,6 @@ msgstr "Più vecchio del file di progetto"
 msgid "Online help"
 msgstr "Aiuto in linea"
 
-msgid "Online user guide"
-msgstr "Guida utente Online"
-
 msgid "Open"
 msgstr "Aprire"
 
@@ -1405,6 +1402,12 @@ msgstr "Non definito"
 msgid "Unhandled exception on exit"
 msgstr "Eccezione non gestita durante l'uscita"
 
+msgid "Uninstall"
+msgstr ""
+
+msgid "Uninstalled {}"
+msgstr ""
+
 msgid "Unknown author"
 msgstr "Autore sconosciuto"
 
@@ -1537,9 +1540,6 @@ msgstr "giorni dopo la morte"
 msgid "days old"
 msgstr "giorni di età"
 
-msgid "deleted"
-msgstr "cancellato"
-
 msgid "elements imported"
 msgstr "elementi importati"
 
@@ -1608,4 +1608,3 @@ msgstr "{0} parti, {1} capitoli, {2} sezioni, {3} parole"
 
 msgid "{} already exists."
 msgstr "{} esiste già."
-

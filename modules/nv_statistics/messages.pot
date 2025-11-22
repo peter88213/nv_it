@@ -1,0 +1,99 @@
+# nv_statistics Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.5.0\n"
+"POT-Creation-Date: 2025-09-04 13:09:10\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Chapters"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Parts"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "Plot lines"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Plot structure"
+msgstr ""
+
+msgid "Project statistics Online help"
+msgstr ""
+
+msgid "Project statistics view"
+msgstr ""
+
+msgid "Sections"
+msgstr ""
+
+msgid "Stages (first level)"
+msgstr ""
+
+msgid "Stages (second level)"
+msgstr ""
+
+msgid "Viewpoints"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""

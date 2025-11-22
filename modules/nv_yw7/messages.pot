@@ -1,0 +1,93 @@
+# nv_yw7 Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.6.0\n"
+"POT-Creation-Date: 2025-08-24 16:10:38\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Action canceled by user"
+msgstr ""
+
+msgid "Can not process file"
+msgstr ""
+
+msgid "Cannot overwrite file"
+msgstr ""
+
+msgid "Cannot write file"
+msgstr ""
+
+msgid "Create from yw7..."
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File exported"
+msgstr ""
+
+msgid "File imported"
+msgstr ""
+
+msgid "File type is not supported"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Overwrite existing novelibre file?"
+msgstr ""
+
+msgid "Overwrite existing yWriter file?"
+msgstr ""
+
+msgid "Plot lines"
+msgstr ""
+
+msgid "https://peter88213.github.io/nv_yw7/help/"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "yWriter 7 project"
+msgstr ""
+
+msgid "yWriter seems to be open. Please close first"
+msgstr ""
+
+msgid "yw7 plugin Online help"
+msgstr ""
+
+msgid "yw7 project"
+msgstr ""
