@@ -28,8 +28,6 @@ def output(message):
 class PluginBuilder(PackageBuilder):
 
     PRJ_NAME = 'nv_it'
-    LOCAL_LIB = 'nvplugin'
-    GERMAN_TRANSLATION = False
 
     def build_script(self):
         os.makedirs(self.testDir, exist_ok=True)
