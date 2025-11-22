@@ -29,7 +29,7 @@ class PluginBuilder(PackageBuilder):
 
     PRJ_NAME = 'nv_it'
 
-    def build_script(self):
+    def build_py_module(self):
         os.makedirs(self.testDir, exist_ok=True)
         copy2(self.sourceFile, self.testFile)
         self.insert_version_number(self.testFile, version=self.version)
