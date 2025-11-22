@@ -2,7 +2,7 @@
 
 ---
 
-# ![Italiano](../img/italy.png) ![N](../img/nLogo32.png) novelibre Aiuto in linea
+# ![N](../img/nLogo32.png) novelibre Aiuto in linea ![Italiano](../img/italy.png)
 
 Questa pagina si riferisce all'applicazione 
 [novelibre](https://github.com/peter88213/novelibre/). 
