@@ -3,9 +3,9 @@
 [![News/Feedback](docs/img/news-button.png)](https://github.com/peter88213/novelibre/discussions)
 [![Online help](docs/img/help-button.png)](https://peter88213.github.io/nv_it/help/)
 
-# ![N](docs/img/nLogo32.png) ![Italiano](docs/img/italy.png) nv_it
+# ![N](docs/img/nLogo32.png) nv_it
 
-Italian language package for [novelibre](https://github.com/peter88213/novelibre/).
+![Italiano](docs/img/italy.png) Italian language package for [novelibre](https://github.com/peter88213/novelibre/).
 
 ## Requirements
 
