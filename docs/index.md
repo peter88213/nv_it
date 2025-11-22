@@ -2,7 +2,7 @@
 
 ---
 
-# ![N](img/nLogo32.png) ![Italiano](img/italy.png) novelibre (Pagine italiane)
+# ![N](img/nLogo32.png) ![Italiano](img/italy.png) novelibre
 
 [novelibre](https://github.com/peter88213/novelibre/)  aiuta i romanzieri a 
 pianificare romanzi di ampio respiro e a tenerne traccia durante la creazione e la revisione.  
