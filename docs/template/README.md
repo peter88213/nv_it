@@ -5,7 +5,7 @@
 
 # ![N](docs/img/nLogo32.png) nv_it
 
-![Italiano](docs/img/italy.png) Italian language package for [novelibre](https://github.com/peter88213/novelibre/).
+Italian language package for [novelibre](https://github.com/peter88213/novelibre/).
 
 ## Requirements
 
