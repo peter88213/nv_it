@@ -25,20 +25,29 @@ TRANSLATIONS_DIR = f'{os.path.dirname(sys.argv[0])}/locale/{LANGUAGE_CODE}'
 
 
 class Plugin:
-    """Template plugin class."""
+    """Language package plugin class."""
     VERSION = '@release'
     API_VERSION = '5.43'
     DESCRIPTION = 'Italian language package'
     URL = 'https://github.com/peter88213/nv_it'
 
     def install(self, model, view, controller):
+        if not os.path.isdir(TRANSLATIONS_DIR):
+            raise UserWarning(
+                'Translations not found:'
+                f'"{os.path.normpath(TRANSLATIONS_DIR)}".'
+            )
         try:
             CURRENT_LANGUAGE = locale.getlocale()[0][:2]
         except:
             # Fallback for old Windows versions.
             CURRENT_LANGUAGE = locale.getdefaultlocale()[0][:2]
         if CURRENT_LANGUAGE != LANGUAGE_CODE:
-            raise UserWarning(f'The system language is not "{LANGUAGE_CODE}".')
+            view.show_warning(
+                title=self.DESCRIPTION,
+                message='Cannot apply translations.',
+                detail=f'The system language is not "{LANGUAGE_CODE}".',
+            )
 
     def uninstall(self):
         shutil.rmtree(TRANSLATIONS_DIR, ignore_errors=True)
