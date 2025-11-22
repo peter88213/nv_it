@@ -2,7 +2,8 @@
 [![Changelog](docs/img/changelog-button.png)](docs/changelog.md)
 [![News/Feedback](docs/img/news-button.png)](https://github.com/peter88213/novelibre/discussions)
 [![Online help](docs/img/help-button.png)](https://peter88213.github.io/nv_it/help/)
-# nv_it
+
+# ![Italiano](docs/img/italy.png)] nv_it
 
 Italian language package for [novelibre](https://github.com/peter88213/novelibre/).
 
@@ -46,7 +47,9 @@ The package is also available in zip format: [nv_it_v5.42.0.zip](https://github.
 
 ## Credits
 
-The Italian translations of the user interface are provided by [Sandro Mattei](https://github.com/oldstonegryzzly).
+- The Italian translations of the user interface are provided by [Sandro Mattei](https://github.com/oldstonegryzzly).
+- The novelibre logo is made using the free *Pusab* font by Ryoichi Tsunekawa, [Flat-it](http://flat-it.com/).
+- The flag icon is from [Flaticon.com](https://www.flaticon.com/free-icons/flag).
 
 ---
 

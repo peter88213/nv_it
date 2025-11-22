@@ -2,7 +2,7 @@
 
 ---
 
-# ![N](img/nLogo32.png) novelibre (Pagine italiane)
+# ![Italiano](img/italy.png)] nv_it ![N](img/nLogo32.png) novelibre (Pagine italiane)
 
 [novelibre](https://github.com/peter88213/novelibre/)  aiuta i romanzieri a 
 pianificare romanzi di ampio respiro e a tenerne traccia durante la creazione e la revisione.  
@@ -46,8 +46,10 @@ utente sono tradotti in italiano.
 
 ## Riconoscimenti
 
-Le traduzioni dell'interfaccia utente in italiano sono fornite da 
-[Sandro Mattei](https://github.com/oldstonegryzzly).
+- Le traduzioni dell'interfaccia utente in italiano sono fornite da 
+  [Sandro Mattei](https://github.com/oldstonegryzzly).
+- The novelibre logo is made using the free *Pusab* font by Ryoichi Tsunekawa, [Flat-it](http://flat-it.com/).
+- The flag icon is from [Flaticon.com](https://www.flaticon.com/free-icons/flag).
 
 ---
 
