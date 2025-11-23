@@ -63,6 +63,23 @@ consigli e tutorial in lingua italiana.
 - [Snodo della trama properties](point_view.md)
 - [Nota di progetto properties](project_note_view.md)
 
+
+## Plugins 
+
+- [nv_collection](nv_collection/)
+- [nv_editor](nv_editor/)
+- [nv_matrix](nv_matrix/)
+- [nv_progress](nv_progress/)
+- [nv_snapshots](nv_snapshots/)
+- [nv_statistics](nv_statistics/)
+- [nv_templates](nv_templates/)
+- [nv_themes](nv_themes/)
+- [nv_timeline](nv_timeline/)
+- [nv_tlview](nv_tlview/)
+- [nv_updater](nv_updater/)
+- [nv_zim](nv_zim/)
+
+
 ---
 
 [English manual](https://peter88213.github.io/nvhelp-en/)
