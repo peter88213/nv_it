@@ -87,7 +87,7 @@ With **Strumenti > Gestore dei plugin**, you can open the
 
 ### How to uninstall a plugin
 
-Select the plugin, and click on the **Cancella** button.
+Select the plugin, and click on the **${Uninstall}** button.
 
 > **About version compatibility**
 > 
