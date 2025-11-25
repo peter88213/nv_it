@@ -11,6 +11,50 @@ opens that belongs to the type of the selected element.
 > 
 > Greyed-out entries are not available, e.g. due to "project lock".
 
+## Common context menu entries for the tree view
+
+### Espandi tutto
+
+Shows the whole tree.
+
+### Riduci tutto
+
+Hides all tree elements except the main categories.
+
+### Livello del Capitolo
+
+Hides the sections by collapsing the tree, so that only parts and
+chapters are visible.
+
+## Common context menu entries for clipboard operations
+
+> **Hint**
+>
+>   If the selected element has "children", these will also be copied and pasted.
+
+> **Attention**
+>
+>   Relationships are not included when copying to the clipboard.
+>   This also applies to the section viewpoint and for plot lines/plot points.   
+
+
+### Taglia
+
+Move the selected element from the tree to the clipboard.
+Same as ${`Ctrl`}-`X`.
+
+### Copia
+
+Copy the selected element to the clipboard.
+Same as ${`Ctrl`}-`C`.
+
+### Incolla
+
+Paste the element stored in the clipboard to the tree.
+Same as ${`Ctrl`}-`V`.
+
+
+
 ## Libro context menu entries
 
 ### Aggiungi Sezione
@@ -146,27 +190,6 @@ with the same viewpoint.
 > **Caution**
 > 
 > Be aware, there is no "Undo" feature.
-
-### Livello del Capitolo
-
-Hides the sections by collapsing the tree, so that only parts and
-chapters are visible.
-
-### Espandi
-
-Shows a whole branch by expanding the selected tree element.
-
-### Riduci
-
-Hides the child elements of the selected tree element.
-
-### Espandi tutto
-
-Shows the whole tree.
-
-### Riduci tutto
-
-Hides all tree elements except the main categories.
 
 ## Personaggi/Località/Oggetti context menu entries
 
