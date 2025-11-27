@@ -19,6 +19,8 @@ With **Personaggi > Aggiungi** you can add a character to the tree.
     the right pane.
 -   The status of newly created characters is *minor*.
 
+---
+
 ## Imposta stato
 
 **Set the character status**
@@ -31,6 +33,8 @@ With **Personaggi > Imposta stato**, you can make the selected character
 > The character status is only for visual distinction. It has no influence
 > on the program functions. Nevertheless, you can use it to mark viewpoint
 > characters or characters with their own arcs.
+
+---
 
 ## Importa
 
@@ -45,6 +49,8 @@ current project.
 > 
 > To create an XML character data file for the current project, use
 > **Esporta > Files dati XML**.
+
+---
 
 ## Esporta la descrizione del personaggio per la modifica
 
@@ -69,6 +75,8 @@ edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 > reimport. Only the first column and the first row, which are hidden by
 > default, must not be changed as they contain the structural information
 > for the import.
+
+---
 
 ## Mostra tabella in HTML
 

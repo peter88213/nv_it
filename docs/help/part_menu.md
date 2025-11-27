@@ -27,6 +27,8 @@ With **Parte > Esporta descrizione parte per modifica**, you can create a
 text document that contains a **very brief synopsis** with part headings
 and part descriptions. File name suffix is `_parts_tmp`.
 
+---
+
 ## Esporta tabella parte
 
 **Export an ODS document that can be imported again after editing**

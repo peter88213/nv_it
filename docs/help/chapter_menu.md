@@ -43,6 +43,8 @@ chapters to the tree.
 > To automatically name the new chapters and, if necessary, place them
 > above the "Trash Bin," subsequently press `F5`.
 
+---
+
 ## Imposta tipo
 
 **Set the type of the selected chapters**
@@ -65,6 +67,8 @@ vice versa.
 -   **primo livello** converts the selected chapters into parts.
 -   **secondo livello** converts the selected parts into chapters.
 
+---
+
 ## Sposta i capitoli selezionati in un nuovo progetto
 
 **Split one book in two**
@@ -75,6 +79,8 @@ elements and plot lines/plot points. The selected chapters are removed
 from the current project and pasted into an auto-generated project whose
 file path you define with a file selection dialog. All relationships of
 the moved sections are retained.
+
+---
 
 ## Esporta la descrizione del capitolo per la modifica
 

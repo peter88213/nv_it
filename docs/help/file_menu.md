@@ -85,6 +85,8 @@ saved project file. You will get a warning, because changes may be lost.
 > After restoring the backup, a backup copy is no longer available in the
 > project directory. A new backup copy is created when saving the project.
 
+---
+
 ## Rigenera l'albero
 
 **Enforce tree refresh after making changes**
@@ -112,6 +114,8 @@ With **File > Blocca** or `Ctrl`-`L`, you can lock the project.
 **Make the project editable**
 
 With **File > Sblocca** or `Ctrl`-`U`, you can unlock the project.
+
+---
 
 ## Aprire cartella di progetto
 
@@ -159,6 +163,7 @@ made with *novelibre* and *Writer*.
 > You can also discard any previously exported document "for editing"
 > via the Importa dialog.
 
+---
 
 ## Salva
 
@@ -176,7 +181,7 @@ A backup copy is then automatically created.
 
 **Save the project with another file name/at another place**
 
-With **File > Salva come...** or `Ctrl`-`Shift`-`S`, you can save the
+With **File > Salva come...** or `Ctrl`-`Maiusc`-`S`, you can save the
 project with another file name/at another place. Then a file select
 dialog opens to specify the new path and file name.
 

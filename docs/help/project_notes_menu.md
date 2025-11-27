@@ -18,6 +18,8 @@ With **Note di progetto > Aggiungi**, you can add a project note to the tree.
 -   The new project note has an auto-generated title. You can change it
     in the right pane.
 
+---
+
 ## Mostra tabella in HTML
 
 **Show an HTML report with project notes**

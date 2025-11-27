@@ -32,6 +32,8 @@ With **Trama > Aggiungi Snodo nella Trama**, you can add a plot point to a plot 
 -   The new plot point has an auto-generated title. You can change it in
     the right pane.
 
+---
+
 ## Inserire Fase
 
 **Insert a stage between the sections**
@@ -59,6 +61,8 @@ stages.
 > The stage level is only for visual distinction. It has no influence on
 > the program functions.
 
+---
+
 ## Importa trama
 
 **Import plot lines with plot points from another project**
@@ -72,6 +76,8 @@ current project.
 > 
 > To create an XML plot lines file for the current project, use 
 > **Esporta > Files dati XML**.
+
+---
 
 ## Esporta griglia delle trame per modifica
 
@@ -143,6 +149,8 @@ you can create a text document that contains stages, plot lines, and
 plot points, each with description. The plot points are linked to the
 manuscript and to the section descriptions. File name suffix is
 `_plotlines_tmp`.
+
+---
 
 ## Tabella della trama
 

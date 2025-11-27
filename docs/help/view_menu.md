@@ -6,39 +6,6 @@
 
 **Control the display**
 
-## Livello del Capitolo
-
-**Hide the sections**
-
-With **Vista > Livello del Capitolo** or `Ctrl`-`Alt`-`C`, you can collapse the
-tree, so that only parts and chapters are visible.
-
-## Espandi selezionati
-
-**Show a whole branch**
-
-With **Vista > Espandi selezionati**, you can expand a selected tree
-element.
-
-## Riduci i selezionati
-
-**Hide child elements**
-
-With **Vista > Riduci i selezionati**, you can collapse a selected branch.
-
-## Espandi tutto
-
-**Show the whole tree**
-
-With **Vista > Espandi tutto**, you can expand the whole tree.
-
-## Riduci tutto
-
-**Hide child elements**
-
-With **Vista > Riduci tutto**, you can hide all tree elements except the
-main categories.
-
 ## Mostra libro
 
 **Go to the "Libro" branch and expand it**
@@ -79,6 +46,43 @@ With **Vista > Mostra Linee narrative**, you can select and open the
 
 With **Vista > Mostra le note di progetto**, you can select and open the 
 "Note di progetto" branch.
+
+---
+
+## Livello del Capitolo
+
+**Hide the sections**
+
+With **Vista > Livello del Capitolo** or `Ctrl`-`Alt`-`C`, you can collapse the
+tree, so that only parts and chapters are visible.
+
+## Espandi tutto
+
+**Show the whole tree**
+
+With **Vista > Espandi tutto**, you can expand the whole tree.
+
+## Riduci tutto
+
+**Hide child elements**
+
+With **Vista > Riduci tutto**, you can hide all tree elements except the
+main categories.
+
+## Espandi selezionati
+
+**Show a whole branch**
+
+With **Vista > Espandi selezionati**, you can expand a selected tree
+element.
+
+## Riduci i selezionati
+
+**Hide child elements**
+
+With **Vista > Riduci i selezionati**, you can collapse a selected branch.
+
+---
 
 ## Mostra/nascondi il visualizzatore di testi
 
