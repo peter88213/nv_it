@@ -189,6 +189,8 @@ formats:
 -   *Emphasized* style or italics.
 -   *Strongly emphasized* style or bold.
 -   *Quotations* (paragraph visually distinguished from body text).
+-   *Heading 5*, *Heading 6*, *Heading 7*, *Heading 8*, *Heading 9*
+    (subheadings or freely definable paragraph formats).
 -   *Unordered list item* (indented paragraph with a bullet).
 
 
