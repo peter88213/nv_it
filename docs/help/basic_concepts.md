@@ -206,9 +206,21 @@ formats:
 > and *Strong Emphasis*. The extension
 > [emph](https://peter88213.github.io/emph/) can help with this.
 > 
-> If you want to combine the character styles *Emphasis* and *Strong
-> Emphasis*, first assign the *Strong Emphasis* style to the text passage,
-> and then make it italic.
+> Always keep in mind, that *novelibre* converts "hard formatting" (italics 
+> and bold) into character styles ("Emphasis" and "Strong emphasis"). 
+> If you want to undo the formatting applied in a previous session, 
+> it is best to reset the character style.
+>    
+> - With *OpenOffice Writer* this is easily done with ``Ctrl``-``M``.
+> - With *LibreOffice Writer* you will have to apply **No Character Style** 
+>   to the text via the Styles navigator.
+> - The extension `emph <https://peter88213.github.io/emph/>`__ 
+>   provides a toolbar with a **"D"** button for resetting the character style. 
+>   As of version 2.0, this applies also to the LibreOffice variant.
+>
+> The [novelibre wiki}(https://github.com/peter88213/novelibre/wiki)
+> provides some tutorial pages on this topic in English.
+
 
 ## Comments, footnotes, endnotes
 
