@@ -12,6 +12,8 @@ Qui trovate le pagine di aiuto più importanti del manuale utente di novelibre.
 Maggiori informazioni sull'installazione e la disinstallazione di novelibre, 
 dettagli interessanti sul concetto di utilizzo e guide pratiche sono disponibili 
 nella [versione inglese](https://peter88213.github.io/nvhelp-en/).
+The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
+provides further detailed instructions in English.
 
 È inoltre disponibile un [wiki](https://github.com/peter88213/nv_it/wiki)
 in cui gli utenti possono pubblicare ulteriori istruzioni, 
