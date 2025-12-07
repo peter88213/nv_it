@@ -213,10 +213,10 @@ formats:
 >    
 > - With *OpenOffice Writer* this is easily done with `Ctrl`-`M`.
 > - With *LibreOffice Writer* you will have to apply **No Character Style** 
->   to the text via the Styles navigator.
+>   to the text via the context menu or the Styles navigator.
 > - The extension [emph](https://peter88213.github.io/emph/) 
->   provides a toolbar with a **"D"** button for resetting the character style. 
->   As of version 2.0, this applies also to the LibreOffice variant.
+>   provides a toolbar with an **"A"** button for resetting the character style
+>   (version 3.0+). 
 >
 > The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
 > provides some tutorial pages on this topic in English.
