@@ -186,12 +186,14 @@ It is assumed that very few types of text markup are needed for a novel
 text. When importing from ODT, *novelibre* supports the following
 formats:
 
--  *Emphasized* style or italics.
--  *Strongly emphasized* style or bold.
--  *Quotations* (OpenOffice) resp. *Block Quotations* (LibreOffice): Paragraph visually distinguished from body text.
--  *Heading 5*, *Heading 6*, *Heading 7*, *Heading 8*, *Heading 9*:
-   Subheadings or freely definable paragraph formats.
+-  *Emphasis* style or italics.
+-  *Strong Emphasis* style or bold.
+-  *Quotations* (OpenOffice) resp. *Block Quotations* (LibreOffice) 
+   for paragraphs visually distinguished from the body text.
+-  *Heading 5*, *Heading 6*, *Heading 7*, *Heading 8*, *Heading 9* 
+   as subheadings or freely definable paragraph formats.
 -  *Unordered list item*: Indented paragraph with a bullet.
+
 
 
 > **Important**
