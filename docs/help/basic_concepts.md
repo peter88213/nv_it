@@ -186,12 +186,12 @@ It is assumed that very few types of text markup are needed for a novel
 text. When importing from ODT, *novelibre* supports the following
 formats:
 
--   *Emphasized* style or italics.
--   *Strongly emphasized* style or bold.
--   *Quotations* (paragraph visually distinguished from body text).
--   *Heading 5*, *Heading 6*, *Heading 7*, *Heading 8*, *Heading 9*
-    (subheadings or freely definable paragraph formats).
--   *Unordered list item* (indented paragraph with a bullet).
+-  *Emphasized* style or italics.
+-  *Strongly emphasized* style or bold.
+-  *Quotations* (OpenOffice) resp. *Block Quotations* (LibreOffice): Paragraph visually distinguished from body text.
+-  *Heading 5*, *Heading 6*, *Heading 7*, *Heading 8*, *Heading 9*:
+   Subheadings or freely definable paragraph formats.
+-  *Unordered list item*: Indented paragraph with a bullet.
 
 
 > **Important**
@@ -213,7 +213,8 @@ formats:
 >    
 > - With *OpenOffice Writer* this is easily done with `Ctrl`-`M`.
 > - With *LibreOffice Writer* you will have to apply **No Character Style** 
->   to the text via the context menu or the Styles navigator.
+>   to the text via the context menu, the *Formatting (Styles)* toolbar,  
+    or the Styles navigator.
 > - The extension [emph](https://peter88213.github.io/emph/) 
 >   provides a toolbar with an **"A"** button for resetting the character style
 >   (version 3.0+). 
