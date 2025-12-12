@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2025-11-22 18:39:10\n"
+"PO-Revision-Date: 2025-12-12 20:55:20\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -54,9 +54,6 @@ msgstr "Aggiungi Trama"
 
 msgid "Add Plot point"
 msgstr "Aggiungi Snodo nella Trama"
-
-msgid "Add Project note"
-msgstr "Aggiungi Nota di Progetto"
 
 msgid "Add Section"
 msgstr "Aggiungi Sezione"
@@ -301,9 +298,6 @@ msgstr "Rimuovi POV dalle sezioni selezionate"
 msgid "Close"
 msgstr "Chiudi"
 
-msgid "Collapse"
-msgstr "Riduci"
-
 msgid "Collapse all"
 msgstr "Riduci tutto"
 
@@ -490,9 +484,6 @@ msgstr "Fonte_20_epigrafe"
 msgid "Exit"
 msgstr "Esci"
 
-msgid "Expand"
-msgstr "Espandi"
-
 msgid "Expand all"
 msgstr "Espandi tutto"
 
@@ -642,6 +633,12 @@ msgstr "Heading_20_3_20_invisibile"
 
 msgid "Help"
 msgstr "Aiuto"
+
+msgid "Highlight related sections"
+msgstr ""
+
+msgid "Highlight sections with this viewpoint"
+msgstr ""
 
 msgid "Home page"
 msgstr "Pagina principale"
@@ -871,6 +868,12 @@ msgstr "Nessuna trama trovata"
 msgid "No project notes found"
 msgstr "Nessuna nota progetto trovata"
 
+msgid "No relationship found"
+msgstr ""
+
+msgid "No section tagged with"
+msgstr ""
+
 msgid "No text available"
 msgstr "Nessun testo disponibile"
 
@@ -892,6 +895,9 @@ msgstr "Non è un valore a virgola mobile"
 msgid "Not a scene"
 msgstr "Non è una scena"
 
+msgid "Not a viewpoint character"
+msgstr ""
+
 msgid "Not an integer."
 msgstr "Non è un intero"
 
@@ -912,9 +918,6 @@ msgstr "Foglio elettronico ODF"
 
 msgid "ODF Text Document"
 msgstr "Documento ODF"
-
-msgid "ODF Text Document Template"
-msgstr "Modello di documento ODF"
 
 msgid "ODF Text document"
 msgstr "documento ODF"
@@ -1147,6 +1150,9 @@ msgstr "Rimuovere snodo narrativo dalla lista"
 msgid "Required"
 msgstr "Richiesto"
 
+msgid "Reset Highlighting"
+msgstr ""
+
 msgid "Restart chapter numbering at part beginning"
 msgstr "Ricomincia numerazione all'inizio della parte"
 
@@ -1302,6 +1308,9 @@ msgstr "Tempo narrativo"
 
 msgid "Style sheet copied into the project folder."
 msgstr "Foglio di stile copiato nella cartella di progetto"
+
+msgid "Tag"
+msgstr ""
 
 msgid "Tagged manuscript for proofing"
 msgstr "Manoscritto annotato per la revisione"

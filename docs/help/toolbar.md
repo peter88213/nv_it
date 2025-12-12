@@ -17,27 +17,27 @@ Same as `Alt`-`Right`.
 
 ---
 
-![Mostra libro](images/viewBook.png) Go to the \"Libro\" branch and expand
-it. Same as **Vista \> Mostra libro**.
+![Mostra libro](images/viewBook.png) Go to the "Libro" branch and expand
+it. Same as **Vista > Mostra libro**.
 
-![Visualizza Personaggi](images/viewCharacters.png) Go to the \"Personaggi\"
-branch and expand it. Same as **Vista \> Visualizza Personaggi**.
+![Visualizza Personaggi](images/viewCharacters.png) Go to the "Personaggi"
+branch and expand it. Same as **Vista > Visualizza Personaggi**.
 
-![Mostra Località](images/viewLocations.png) Go to the \"Località\"
-branch and expand it. Same as **Vista \> Mostra Località**.
+![Mostra Località](images/viewLocations.png) Go to the "Località"
+branch and expand it. Same as **Vista > Mostra Località**.
 
-![Mostra Oggetti](images/viewItems.png) Go to the \"Oggetti\" branch and
-expand it. Same as **Vista \> Mostra Oggetti**.
+![Mostra Oggetti](images/viewItems.png) Go to the "Oggetti" branch and
+expand it. Same as **Vista > Mostra Oggetti**.
 
-![Mostra Linee narrative](images/viewArcs.png) Go to the \"Linee narrative\" branch
-and expand it. Same as **Vista \> Mostra Linee narrative**.
+![Mostra Linee narrative](images/viewArcs.png) Go to the "Linee narrative" branch
+and expand it. Same as **Vista > Mostra Linee narrative**.
 
-![Mostra le note di progetto](images/viewProjectnotes.png) Go to the \"Note di progetto\" 
-branch and expand it. Same as **Vista \> Mostra le note di progetto**.
+![Mostra le note di progetto](images/viewProjectnotes.png) Go to the "Note di progetto" 
+branch and expand it. Same as **Vista > Mostra le note di progetto**.
 
 ---
 
-![Salva](images/save.png) Save the project. Same as **File \> Salva** or
+![Salva](images/save.png) Save the project. Same as **File > Salva** or
 `Ctrl`-`S`.
 
 ![Blocca/Sblocca](images/lock.png) Toggle the lock status of the project.
@@ -46,7 +46,7 @@ branch and expand it. Same as **Vista \> Mostra le note di progetto**.
 current manuscript. Same as selecting the manuscript under **Importa**.
 
 ![Export manuscript](images/manuscript.png) Export the manuscript for
-editing. Same as **Esporta \> Manoscritto per la modifica**, but without
+editing. Same as **Esporta > Manoscritto per la modifica**, but without
 confirmation for opening the document.
 
 ---
@@ -89,7 +89,7 @@ clipboard:
 > 
 > 
 > If multiple elements are selected, only the first one will be copied.
-> However, if the element has \"children\", these will also be copied and
+> However, if the element has "children", these will also be copied and
 > pasted.
 
 
@@ -101,11 +101,16 @@ clipboard:
 
 ---
 
+![Reset highlighting](images/highlight.png) Reset the highlighting of sections.
+While sections are highlighted, the criterion is displayed on the right of the button.
+
+---
+
 ![Mostra/nascondi il visualizzatore di testi](images/viewer.png) Toggle Text viewer. Same as
-**Vista \> Mostra/nascondi il visualizzatore di testi** or `Ctrl`-`T`.
+**Vista > Mostra/nascondi il visualizzatore di testi** or `Ctrl`-`T`.
 
 ![Mostra/Nascondi Proprietà](images/properties.png) Toggle Properties. Same as
-**Vista \> Mostra/Nascondi Proprietà** or `Ctrl`-`Alt`-`T`.
+**Vista > Mostra/Nascondi Proprietà** or `Ctrl`-`Alt`-`T`.
 
 
 ---

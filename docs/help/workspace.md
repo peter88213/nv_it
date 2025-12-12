@@ -14,13 +14,15 @@ The *novelibre* workspace is divided into three panes:
 
 The project tree in the left pane shows the organization of the project.
 
--   The tree elements are color-coded according to the section type.
-    *Normale* type sections are highlighted according to the selected
-    coloring mode (see *Opzioni* in the Vista menu).
--   The order of the columns can be changed (see *Opzioni* in the Vista menu).
--   Right-clicking on a tree element opens a context menu with several options.
--   The type of chapters and sections, as well as the completion status
-    of the sections are color coded and can be changed via context menu.
+-  The tree elements are color-coded according to the section type.
+   *Normale* type sections are highlighted according to the selected
+   coloring mode (see *Opzioni* in the Vista menu).
+-  The order of the columns can be changed (see *Opzioni* in the Vista menu).
+-  Right-clicking on a tree element opens a context menu with several options.
+-  The type of chapters and sections, as well as the completion status
+   of the sections are color coded and can be changed via context menu.
+-  Via the context menu, you can specify a character, location, item,
+   plot line,  or plot point as a criterion to highlight related sections.
 
 ### Project tree structure
 
