@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2025-12-12 20:55:20\n"
+"PO-Revision-Date: 2025-12-13 16:02:03\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -640,6 +640,9 @@ msgstr ""
 msgid "Highlight sections with this viewpoint"
 msgstr ""
 
+msgid "Highlight tagged elements"
+msgstr ""
+
 msgid "Home page"
 msgstr "Pagina principale"
 
@@ -847,6 +850,9 @@ msgstr "Nessuna descrizione"
 msgid "No document type"
 msgstr "Nessun tipo di documento"
 
+msgid "No elements tagged with"
+msgstr ""
+
 msgid "No item data found"
 msgstr "Nessuna informazione sull'oggetto"
 
@@ -871,7 +877,7 @@ msgstr "Nessuna nota progetto trovata"
 msgid "No relationship found"
 msgstr ""
 
-msgid "No section tagged with"
+msgid "No tags defined"
 msgstr ""
 
 msgid "No text available"
@@ -1224,6 +1230,9 @@ msgstr "Seleziona località"
 
 msgid "Select plot lines"
 msgstr "Seleziona linee narrative"
+
+msgid "Select tag"
+msgstr ""
 
 msgid "Set Status"
 msgstr "Imposta stato"
