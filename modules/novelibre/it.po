@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2025-12-13 16:02:03\n"
+"PO-Revision-Date: 2025-12-13 22:52:51\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -160,6 +160,12 @@ msgstr "Corretto link interrotto"
 msgid "Cancel"
 msgstr "Cancella"
 
+msgid "Cannot assign a viewpoint at this position"
+msgstr ""
+
+msgid "Cannot change the level at this position"
+msgstr ""
+
 msgid "Cannot convert date/days"
 msgstr "Impossibile convertire data/giorno"
 
@@ -201,6 +207,15 @@ msgstr "Impossibile salvare il progetto"
 
 msgid "Cannot save: The project is locked"
 msgstr "Impossibile salvare: Il progetto è bloccato"
+
+msgid "Cannot set the character status at this position"
+msgstr ""
+
+msgid "Cannot set the section status at this position"
+msgstr ""
+
+msgid "Cannot set the type at this position"
+msgstr ""
 
 msgid "Cannot write file"
 msgstr "Impossibile scrivere il file"
