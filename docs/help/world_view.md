@@ -25,7 +25,9 @@ pressing the `Enter` key.
 ## Annotazioni
 
 Tags are a very freely usable tool for labeling locations and items in
-the tree view. Tags do not have to be defined elsewhere, but simply
+the tree view. 
+You can highlight elements based on a tag in the project tree.
+Tags do not have to be defined elsewhere, but simply
 entered in the input field separated by semicolons. Editing can be
 completed by pressing the `Enter` key.
 

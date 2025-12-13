@@ -19,8 +19,9 @@ anywhere outside the text input field.
 
 ## Annotazioni
 
-Tags are a very freely usable tool for labeling sections in the tree
-view. Tags do not have to be defined elsewhere, but simply entered in
+Tags are a very freely usable tool for labeling sections in the tree view. 
+You can highlight sections based on a tag in the project tree.
+Tags do not have to be defined elsewhere, but simply entered in
 the input field separated by semicolons. Editing can be completed by
 pressing the `Enter` key.
 

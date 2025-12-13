@@ -101,8 +101,14 @@ clipboard:
 
 ---
 
-![Reset highlighting](images/highlight.png) Reset the highlighting of sections.
-While sections are highlighted, the criterion is displayed on the right of the button.
+![${Highlight tagged elements}](images/tag.png) 
+Highlight elements with a specified tag. This opens a tag selection dialog.
+Same as **Vista > ${Highlight tagged elements}**.
+
+![${Reset highlighting}](images/reset_highlight.png) Reset the highlighting of tree elements.
+Same as **Vista > ${Reset Highlighting}**.
+
+While tree elements are highlighted, the criterion is displayed on the right of the reset button.
 
 ---
 

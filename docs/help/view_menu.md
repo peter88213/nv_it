@@ -6,6 +6,18 @@
 
 **Control the display**
 
+
+## ${Highlight tagged elements}
+
+With **Vista > ${Highlight tagged elements}**,
+you can highlight elements with a specified tag. This opens a tag selection dialog.
+
+## ${Reset Highlighting}
+
+With **Vista > ${Reset Highlighting}**,
+you can reset the highlighting of tree elements.
+
+---
 ## Mostra libro
 
 **Go to the "Libro" branch and expand it**
