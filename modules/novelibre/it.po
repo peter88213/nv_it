@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2025-12-13 22:52:51\n"
+"PO-Revision-Date: 2025-12-17 23:28:31\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -688,9 +688,6 @@ msgstr "Importa documento anche se è bloccato, non scartare."
 msgid "Import plot lines"
 msgstr "Importa trama"
 
-msgid "Import selected elements"
-msgstr "Importa gli elementi selezionati"
-
 msgid "Importance"
 msgstr "Importanza"
 
@@ -1249,6 +1246,9 @@ msgstr "Seleziona linee narrative"
 msgid "Select tag"
 msgstr ""
 
+msgid "Select viewpoint"
+msgstr ""
+
 msgid "Set Status"
 msgstr "Imposta stato"
 
@@ -1515,9 +1515,6 @@ msgstr "Data errata"
 
 msgid "Wrong entry: number required"
 msgstr "Digitazione errata: richiesto numero"
-
-msgid "Wrong name"
-msgstr "Nome errato"
 
 msgid "Wrong time"
 msgstr "Riferimento temporale errata"

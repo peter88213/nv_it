@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.46.3\n"
-"POT-Creation-Date: 2025-12-13 22:47:37\n"
+"Project-Id-Version: 5.46.10\n"
+"POT-Creation-Date: 2025-12-17 23:19:38\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -695,9 +695,6 @@ msgstr ""
 msgid "Import plot lines"
 msgstr ""
 
-msgid "Import selected elements"
-msgstr ""
-
 msgid "Importance"
 msgstr ""
 
@@ -1256,6 +1253,9 @@ msgstr ""
 msgid "Select tag"
 msgstr ""
 
+msgid "Select viewpoint"
+msgstr ""
+
 msgid "Set Status"
 msgstr ""
 
@@ -1521,9 +1521,6 @@ msgid "Wrong date"
 msgstr ""
 
 msgid "Wrong entry: number required"
-msgstr ""
-
-msgid "Wrong name"
 msgstr ""
 
 msgid "Wrong time"
