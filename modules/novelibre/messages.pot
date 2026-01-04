@@ -1,10 +1,10 @@
 # novelibre Dictionary
-# Copyright (C) 2025 Peter Triesberger
+# Copyright (C) 2026 Peter Triesberger
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.46.10\n"
-"POT-Creation-Date: 2025-12-17 23:19:38\n"
+"Project-Id-Version: 5.49.0\n"
+"POT-Creation-Date: 2026-01-04 18:58:22\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -785,7 +785,16 @@ msgstr ""
 msgid "Manuscript for third-party word processing"
 msgstr ""
 
+msgid "Manuscript including unused text"
+msgstr ""
+
 msgid "Manuscript not found"
+msgstr ""
+
+msgid "Metadata text"
+msgstr ""
+
+msgid "Metadata text table for editing"
 msgstr ""
 
 msgid "Minor Character"

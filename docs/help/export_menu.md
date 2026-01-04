@@ -11,8 +11,8 @@
 **Export an ODT document that can be imported again after editing**
 
 With **Esporta > Manoscritto per la modifica**, you can create a text
-document that is split into sections (to be seen in the Navigator). File
-name suffix is `_manuscript_tmp`.
+document that is split into sections (to be seen in the Navigator). 
+File name suffix is `_manuscript_tmp`.
 
 -   Only "Normale" chapters and sections are exported. Chapters and
     sections marked "Non utilizzato" are not exported.
@@ -53,8 +53,8 @@ name suffix is `_manuscript_tmp`.
 **Export an ODT document that can be imported again after editing**
 
 With **Esporta > Manoscritto per word processor esterno**, you can
-create a text document with visible section markers. File name suffix is
-`_proof_tmp`.
+create a text document with visible section markers. 
+File name suffix is `_proof_tmp`.
 
 > **Note**
 > 
@@ -116,6 +116,30 @@ create a text document with visible section markers. File name suffix is
 
 -   Change tracking: All changes are accepted on import. Change tracking
     data is lost.
+
+## ${Manuscript including unused text}
+
+**Export an ODT document that can be imported again after editing**
+
+With **Esporta > ${Manuscript including unused text}**, 
+you can create a manuscript document that also contains the unused chapters and sections, 
+as well as the contents of the "Trash" folder.
+File name suffix is `_full_tmp`.
+
+This document is intended for global search and replace, 
+for example in the case of name changes. 
+
+
+## ${Metadata text table for editing}
+
+**Export an ODS document that can be imported again after editing**
+
+With **Esporta > ${Metadata text table for editing}**, 
+you can create a spreadsheet document containing all headings and metadata texts. 
+File name suffix is `_metadata_text_tmp`.
+
+This document is intended for global search and replace, 
+for example in the case of name changes. 
 
 ---
 

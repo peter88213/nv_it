@@ -195,7 +195,6 @@ formats:
 -  *Unordered list item*: Indented paragraph with a bullet.
 
 
-
 > **Important**
 > 
 > *novelibre* does not support combinations of "hard" character
@@ -255,6 +254,21 @@ code acc. to ISO 3166-2) can be set in the **Libro** settings
 
 Paragraph-wise or inline text markup for other languages is
 supported by *novelibre*.
+
+---
+
+## Global search and replace
+
+If you want to change a name throughout the novel, you can export, 
+edit and reimport the two relevant documents: 
+
+- The ${Manuscript including unused text}
+- The ${Metadata text table for editing}
+ 
+Together, these two documents contain both the novel text and the contents 
+of unused sections or sections that have been moved to the trash, all headings, 
+names, titles, descriptions, and other metadata texts.
+
 
 ---
 
