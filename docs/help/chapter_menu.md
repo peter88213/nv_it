@@ -94,14 +94,14 @@ reimported. File name suffix is `_chapters_tmp`.
 -  Only "normal" parts and chapters are exported.
    Parts and chapters marked "Unused" are not exported.
 -  Parts and chapters can neither be rearranged nor deleted.
--  With *Writer*, you can create chapters by inserting headings
+-  With *Writer*, you can create parts and chapters by inserting headings
    within the description area:
 
    -  *Heading 1* → New part title.
    -  *Heading 2* → New chapter title.
 
    > **Important** 
-   > Documents with new chapters are automatically
+   > Documents with new parts or chapters are automatically
    > discarded after the *novelibre* project is updated.
 
 
