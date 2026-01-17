@@ -99,7 +99,8 @@ File name suffix is `_sections_tmp`.
    Chapters and sections marked "Unused" are not exported.
 -  Section titles are invisible, but appear in the *Navigator*.
 -  Chapters and sections can neither be rearranged nor deleted.
--  With *Writer*, you can split sections by inserting headings:
+-  With *Writer*, you can create sections by inserting headings
+   within the description area:
 
    -  *Heading 1* → New part title.
    -  *Heading 2* → New chapter title.
@@ -107,7 +108,7 @@ File name suffix is `_sections_tmp`.
    -  *Heading 4* → New appended section title.
 
    > **Important** 
-   > Documents with split sections are automatically
+   > Documents with new sections are automatically
    > discarded after the *novelibre* project is updated.
 
 ---

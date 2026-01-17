@@ -28,13 +28,14 @@ text document that contains a **very brief synopsis** with part headings
 and part descriptions. File name suffix is `_parts_tmp`.
 
 -  Parts can neither be rearranged nor deleted.
--  With *Writer*, you can split parts by inserting headings:
+-  With *Writer*, you can create parts by inserting headings
+   within the description area:
 
    -  *Heading 1* → New part title.
    -  *Heading 2* → New chapter title.
 
    > **Important** 
-   > Documents with split parts are automatically
+   > Documents with new parts are automatically
    > discarded after the *novelibre* project is updated.
 
 ---

@@ -141,13 +141,14 @@ File name suffix is `_structure_tmp`.
 > structure.
 
 -  Stages can neither be rearranged nor deleted.
--  With *Writer*, you can split stages by inserting headings:
+-  With *Writer*, you can create stages by inserting headings
+   within the description area:
 
    -  *Heading 1* → New first-level stage.
    -  *Heading 2* → New second-level stage.
 
    > **Important** 
-   > Documents with split stages are automatically
+   > Documents with new stages are automatically
    > discarded after the *novelibre* project is updated.
 
 
