@@ -95,6 +95,21 @@ create a text document with a **full synopsis** containing part/chapter
 headings and section descriptions that can be edited and reimported.
 File name suffix is `_sections_tmp`.
 
+-  Only "normal" chapters and sections are exported.
+   Chapters and sections marked "Unused" are not exported.
+-  Section titles are invisible, but appear in the *Navigator*.
+-  Chapters and sections can neither be rearranged nor deleted.
+-  With *Writer*, you can split sections by inserting headings:
+
+   -  *Heading 1* → New part title.
+   -  *Heading 2* → New chapter title.
+   -  *Heading 3* → New section title.
+   -  *Heading 4* → New appended section title.
+
+   > **Important** 
+   > Documents with split sections are automatically
+   > discarded after the *novelibre* project is updated.
+
 ---
 
 ## Tabella della sezione (solo esportazione)

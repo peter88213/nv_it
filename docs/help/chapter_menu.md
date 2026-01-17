@@ -91,6 +91,19 @@ create a text document that contains a **brief synopsis** with
 part/chapter headings and chapter descriptions that can be edited and
 reimported. File name suffix is `_chapters_tmp`.
 
+-  Only "normal" parts and chapters are exported.
+   Parts and chapters marked "Unused" are not exported.
+-  Parts and chapters can neither be rearranged nor deleted.
+-  With *Writer*, you can split chapters by inserting headings:
+
+   -  *Heading 1* → New part title.
+   -  *Heading 2* → New chapter title.
+
+   > **Important** 
+   > Documents with split chapters are automatically
+   > discarded after the *novelibre* project is updated.
+
+
 ## Esporta tabella capitolo
 
 **Export an ODS document that can be imported again after editing**

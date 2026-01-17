@@ -140,6 +140,17 @@ File name suffix is `_structure_tmp`.
 > This is also a full synopsis, with the emphasis on the dramaturgical
 > structure.
 
+-  Stages can neither be rearranged nor deleted.
+-  With *Writer*, you can split stages by inserting headings:
+
+   -  *Heading 1* → New first-level stage.
+   -  *Heading 2* → New second-level stage.
+
+   > **Important** 
+   > Documents with split stages are automatically
+   > discarded after the *novelibre* project is updated.
+
+
 ## Esporta trama per modifica
 
 **Export an ODT document that can be imported again after editing**
