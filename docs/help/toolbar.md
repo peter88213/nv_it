@@ -105,6 +105,9 @@ clipboard:
 Highlight elements with a specified tag. This opens a tag selection dialog.
 Same as **Vista > ${Highlight tagged elements}**.
 
+![${Select highlighted elements}](images/select.png) 
+Select all highlighted elements in the project tree for further action.
+
 ![${Reset highlighting}](images/reset_highlight.png) Reset the highlighting of tree elements.
 Same as **Vista > ${Reset Highlighting}**.
 

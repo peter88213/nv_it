@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2025-12-17 23:28:31\n"
+"PO-Revision-Date: 2026-01-31 00:03:45\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -778,8 +778,17 @@ msgstr "Manoscritto per la modifica"
 msgid "Manuscript for third-party word processing"
 msgstr "Manoscritto per word processor esterno"
 
+msgid "Manuscript including unused text"
+msgstr ""
+
 msgid "Manuscript not found"
 msgstr "Manoscritto non trovato"
+
+msgid "Metadata text"
+msgstr ""
+
+msgid "Metadata text table for editing"
+msgstr ""
 
 msgid "Minor Character"
 msgstr "Personaggio minore"
@@ -1233,6 +1242,9 @@ msgstr "Seleziona personaggi"
 
 msgid "Select document template"
 msgstr "Scegli modello di documento"
+
+msgid "Select highlighted elements"
+msgstr ""
 
 msgid "Select items"
 msgstr "Seleziona oggetti"
