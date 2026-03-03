@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2026-01-31 08:29:15\n"
+"PO-Revision-Date: 2026-03-03 21:40:43\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -78,18 +78,6 @@ msgstr "Tutti"
 
 msgid "All files"
 msgstr "Tutti i files"
-
-msgid "Alt-Down"
-msgstr "Alt-Giù"
-
-msgid "Alt-Left"
-msgstr "Alt-Sinistra"
-
-msgid "Alt-Right"
-msgstr "Alt-Destra"
-
-msgid "Alt-Up"
-msgstr "Alt-Su"
 
 msgid "Always discard documents after import"
 msgstr "Elimina sempre i documenti dopo l'importazione"
@@ -310,6 +298,12 @@ msgstr "Rimuovi l'assegnazione della sezione"
 msgid "Clear viewpoints of the selected sections"
 msgstr "Rimuovi POV dalle sezioni selezionate"
 
+msgid "Clone"
+msgstr ""
+
+msgid "Clone of"
+msgstr ""
+
 msgid "Close"
 msgstr "Chiudi"
 
@@ -471,6 +465,9 @@ msgstr "Il modello di documento è impostato"
 
 msgid "Done"
 msgstr "Fatto"
+
+msgid "Down"
+msgstr ""
 
 msgid "Draft"
 msgstr "Bozza"
@@ -732,6 +729,9 @@ msgstr "Ultimo salvataggio"
 
 msgid "Latest backup successfully restored."
 msgstr "Recuperato con successo l'ultimo backup"
+
+msgid "Left"
+msgstr ""
 
 msgid "Links"
 msgstr "Collegamenti"
@@ -1192,6 +1192,9 @@ msgstr "Ripristina backup"
 msgid "Restore default styles"
 msgstr "Ripristina stili predefiniti"
 
+msgid "Right"
+msgstr ""
+
 msgid "Save"
 msgstr "Salva"
 
@@ -1476,6 +1479,9 @@ msgstr "Progetto senza titolo"
 
 msgid "Unused"
 msgstr "Non utilizzato"
+
+msgid "Up"
+msgstr ""
 
 msgid "Update from manuscript"
 msgstr "Aggiorna dal manoscritto"

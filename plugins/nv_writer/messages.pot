@@ -1,10 +1,10 @@
-# nv_editor Dictionary
+# nv_writer Dictionary
 # Copyright (C) 2026 Peter Triesberger
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.9.0\n"
-"POT-Creation-Date: 2026-02-05 12:25:36\n"
+"Project-Id-Version: 0.20.2\n"
+"POT-Creation-Date: 2026-03-03 18:37:22\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -20,55 +20,52 @@ msgstr ""
 msgid "2nd Edit"
 msgstr ""
 
+msgid "Amber"
+msgstr ""
+
 msgid "Apply changes"
 msgstr ""
 
 msgid "Apply section changes?"
 msgstr ""
 
+msgid "Ask for confirmation"
+msgstr ""
+
 msgid "Bio"
-msgstr ""
-
-msgid "Bold"
-msgstr ""
-
-msgid "Bright mode"
-msgstr ""
-
-msgid "Cannot apply section changes as long as the project is locked."
-msgstr ""
-
-msgid "Cannot create section"
-msgstr ""
-
-msgid "Cannot edit sections"
-msgstr ""
-
-msgid "Cannot split the section"
-msgstr ""
-
-msgid "Cannot split the section at the cursor position"
 msgstr ""
 
 msgid "Characterization"
 msgstr ""
 
+msgid "Clone"
+msgstr ""
+
 msgid "Close"
 msgstr ""
 
-msgid "Copy"
+msgid "Color sets"
 msgstr ""
 
-msgid "Create section"
+msgid "Command"
+msgstr ""
+
+msgid "Comment"
 msgstr ""
 
 msgid "Ctrl"
 msgstr ""
 
-msgid "Cut"
+msgid "Current setting"
 msgstr ""
 
-msgid "Dark mode"
+msgid "Distraction-free writing plugin Online help"
+msgstr ""
+
+msgid "Distraction-free writing plugin Options"
+msgstr ""
+
+msgid "Documents found that might be edited"
 msgstr ""
 
 msgid "Done"
@@ -77,37 +74,25 @@ msgstr ""
 msgid "Draft"
 msgstr ""
 
-msgid "Edit"
+msgid "Editable manuscript"
 msgstr ""
 
-msgid "Editor plugin Online help"
-msgstr ""
-
-msgid "Emphasis"
+msgid "Editing not possible"
 msgstr ""
 
 msgid "Ending"
 msgstr ""
 
-msgid "Exit"
-msgstr ""
-
-msgid "Format"
-msgstr ""
-
 msgid "Goals"
 msgstr ""
 
-msgid "Help"
+msgid "Green"
 msgstr ""
 
-msgid "Invalid changes"
+msgid "Highlighted text"
 msgstr ""
 
-msgid "Italic"
-msgstr ""
-
-msgid "Light mode"
+msgid "Key shortcut"
 msgstr ""
 
 msgid "Live update"
@@ -119,7 +104,13 @@ msgstr ""
 msgid "Minor Character"
 msgstr ""
 
+msgid "Modified"
+msgstr ""
+
 msgid "Move the text from the cursor position to the end into a new section?"
+msgstr ""
+
+msgid "New"
 msgstr ""
 
 msgid "Next"
@@ -134,13 +125,16 @@ msgstr ""
 msgid "Outline"
 msgstr ""
 
-msgid "Paste"
+msgid "Paper"
 msgstr ""
 
 msgid "Peak emotional moment"
 msgstr ""
 
-msgid "Plain"
+msgid "PgDn"
+msgstr ""
+
+msgid "PgUp"
 msgstr ""
 
 msgid "Plot progress"
@@ -149,40 +143,34 @@ msgstr ""
 msgid "Previous"
 msgstr ""
 
-msgid "Quit"
+msgid "Regular text"
 msgstr ""
 
-msgid "Section"
+msgid "Save"
 msgstr ""
 
-msgid "Section Editor"
+msgid "Saved"
 msgstr ""
 
-msgid "Split at cursor position"
+msgid "Split"
 msgstr ""
 
-msgid "Strong emphasis"
+msgid "Status"
 msgstr ""
 
-msgid "The project is locked"
+msgid "Tagged manuscript for proofing"
 msgstr ""
 
-msgid "The result would not be well-formed XML"
-msgstr ""
-
-msgid "Unlock and apply changes?"
-msgstr ""
-
-msgid "Update"
-msgstr ""
-
-msgid "View"
+msgid "White"
 msgstr ""
 
 msgid "Word count"
 msgstr ""
 
 msgid "World building"
+msgstr ""
+
+msgid "Write in distraction free mode"
 msgstr ""
 
 msgid "https://peter88213.github.io/nvhelp-en"

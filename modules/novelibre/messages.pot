@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.51.2\n"
-"POT-Creation-Date: 2026-01-31 08:25:33\n"
+"Project-Id-Version: 5.53.0\n"
+"POT-Creation-Date: 2026-03-03 16:06:33\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -84,18 +84,6 @@ msgid "All"
 msgstr ""
 
 msgid "All files"
-msgstr ""
-
-msgid "Alt-Down"
-msgstr ""
-
-msgid "Alt-Left"
-msgstr ""
-
-msgid "Alt-Right"
-msgstr ""
-
-msgid "Alt-Up"
 msgstr ""
 
 msgid "Always discard documents after import"
@@ -317,6 +305,12 @@ msgstr ""
 msgid "Clear viewpoints of the selected sections"
 msgstr ""
 
+msgid "Clone"
+msgstr ""
+
+msgid "Clone of"
+msgstr ""
+
 msgid "Close"
 msgstr ""
 
@@ -477,6 +471,9 @@ msgid "Document template is set"
 msgstr ""
 
 msgid "Done"
+msgstr ""
+
+msgid "Down"
 msgstr ""
 
 msgid "Draft"
@@ -738,6 +735,9 @@ msgid "Last saved on"
 msgstr ""
 
 msgid "Latest backup successfully restored."
+msgstr ""
+
+msgid "Left"
 msgstr ""
 
 msgid "Links"
@@ -1199,6 +1199,9 @@ msgstr ""
 msgid "Restore default styles"
 msgstr ""
 
+msgid "Right"
+msgstr ""
+
 msgid "Save"
 msgstr ""
 
@@ -1482,6 +1485,9 @@ msgid "Untitled project"
 msgstr ""
 
 msgid "Unused"
+msgstr ""
+
+msgid "Up"
 msgstr ""
 
 msgid "Update from manuscript"
