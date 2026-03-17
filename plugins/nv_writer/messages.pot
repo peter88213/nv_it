@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.20.2\n"
-"POT-Creation-Date: 2026-03-03 18:37:22\n"
+"Project-Id-Version: 0.24.0\n"
+"POT-Creation-Date: 2026-03-14 12:22:20\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -53,6 +53,12 @@ msgstr ""
 msgid "Comment"
 msgstr ""
 
+msgid "Contrast"
+msgstr ""
+
+msgid "Count words"
+msgstr ""
+
 msgid "Ctrl"
 msgstr ""
 
@@ -80,6 +86,9 @@ msgstr ""
 msgid "Editing not possible"
 msgstr ""
 
+msgid "Emphasis"
+msgstr ""
+
 msgid "Ending"
 msgstr ""
 
@@ -87,9 +96,6 @@ msgid "Goals"
 msgstr ""
 
 msgid "Green"
-msgstr ""
-
-msgid "Highlighted text"
 msgstr ""
 
 msgid "Key shortcut"
@@ -156,6 +162,9 @@ msgid "Split"
 msgstr ""
 
 msgid "Status"
+msgstr ""
+
+msgid "Strong emphasis"
 msgstr ""
 
 msgid "Tagged manuscript for proofing"

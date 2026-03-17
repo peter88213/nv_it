@@ -1,10 +1,10 @@
-# nv_yw7 Dictionary
+# nv_epub Dictionary
 # Copyright (C) 2026 Peter Triesberger
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.1\n"
-"POT-Creation-Date: 2026-03-15 16:45:49\n"
+"Project-Id-Version: 0.3.1\n"
+"POT-Creation-Date: 2026-03-17 15:25:17\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -26,7 +26,10 @@ msgstr ""
 msgid "Bio"
 msgstr ""
 
-msgid "Can not process file"
+msgid "Cannot create directory"
+msgstr ""
+
+msgid "Cannot create file"
 msgstr ""
 
 msgid "Cannot overwrite file"
@@ -36,9 +39,6 @@ msgid "Cannot write file"
 msgstr ""
 
 msgid "Characterization"
-msgstr ""
-
-msgid "Create from yw7..."
 msgstr ""
 
 msgid "Done"
@@ -56,10 +56,7 @@ msgstr ""
 msgid "File exported"
 msgstr ""
 
-msgid "File imported"
-msgstr ""
-
-msgid "File type is not supported"
+msgid "File written"
 msgstr ""
 
 msgid "Goals"
@@ -80,38 +77,26 @@ msgstr ""
 msgid "Outline"
 msgstr ""
 
-msgid "Overwrite existing novelibre file?"
-msgstr ""
-
-msgid "Overwrite existing yWriter file?"
+msgid "Overwrite existing e-book?"
 msgstr ""
 
 msgid "Peak emotional moment"
 msgstr ""
 
-msgid "Plot lines"
+msgid "Plot progress"
 msgstr ""
 
-msgid "Plot progress"
+msgid "Save changes?"
+msgstr ""
+
+msgid "There are unsaved changes"
 msgstr ""
 
 msgid "World building"
 msgstr ""
 
-msgid "https://peter88213.github.io/nv_yw7/help/"
+msgid "e-book"
 msgstr ""
 
-msgid "unknown"
-msgstr ""
-
-msgid "yWriter 7 project"
-msgstr ""
-
-msgid "yWriter seems to be open. Please close first"
-msgstr ""
-
-msgid "yw7 plugin Online help"
-msgstr ""
-
-msgid "yw7 project"
+msgid "nv_epub Online help"
 msgstr ""
