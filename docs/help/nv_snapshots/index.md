@@ -26,7 +26,7 @@ snapshot is manually triggered via `Ctrl`-`Alt`-`S` or the
 Use the **Strumenti > ${Snapshots}** menu command to start the 
 **snapshot manager**. The snapshot manager displays the snapshots of the currently
 open project in list form. You can select individual snapshots and
-export documents from them. LibreOffice/OpenOffice has a document
+export documents from them. OpenOffice/LibreOffice has a document
 comparison function that allows you to find and edit the differences
 between the snapshot and the current project. You can also easily revert
 to any snapshot.
@@ -36,18 +36,19 @@ to any snapshot.
 If you do not want to return to a previous state of your project, but
 want to undo individual changes since a snapshot was created, you can do
 this conveniently using the document comparison function of
-LibreOffice/OpenOffice.
+OpenOffice/LibreOffice.
 
 1.  Select the desired snapshot in the snapshot manager and export a
     document that you want to compare (e.g. the manuscript).
 2.  Export a document of the same kind from the current project and open
     it.
-3.  Select **Edit - Track Changes - Compare Document\...**
-    (LibreOffice), or **${Edit} > ${Compare Document}** (OpenOffice).
+3.  Select **Edit > Compare Document...** (OpenOffice), or
+   **File - Compare Document...** (newer versions of LibreOffice), or
+   **Edit - Track Changes - Compare Document...** (older versions of LibreOffice).
 4.  A file selection dialog opens. Select the "snapshot document" and
     click **Insert**.
 
-LibreOffice/OpenOffice combines both documents into the current
+OpenOffice/LibreOffice combines both documents into the current
 document. All text passages that occur in the current project but not in
 the snapshot are identified as having been inserted, and all text
 passages that got deleted since the snapshot has been created are
