@@ -29,6 +29,10 @@ class PluginBuilder(PackageBuilder):
 
     PRJ_NAME = 'nv_it'
 
+    def __init__(self, version):
+        super().__init__(version)
+        self.translationsComplete = False
+
     def build_py_module(self):
         os.makedirs(self.testDir, exist_ok=True)
         copy2(self.sourceFile, self.testFile)
@@ -38,9 +42,8 @@ class PluginBuilder(PackageBuilder):
         """Generate the language files for the distribution."""
         output('Creating/updating the translations ...')
         # Check whether translations are complete.
-        if not set_up.main():
-            output('PROGRAM ABORTED. Please complete translations.')
-            return False
+        if set_up.main():
+            self.translationsComplete = True
 
         # Create the target path.
         localePath = f'locale/{LANGUAGE_CODE}/LC_MESSAGES'
@@ -66,6 +69,8 @@ class PluginBuilder(PackageBuilder):
 def main():
     pb = PluginBuilder(VERSION)
     pb.run()
+    if not pb.translationsComplete:
+        output('WARNING: The translations are incomplete.')
 
 
 if __name__ == '__main__':

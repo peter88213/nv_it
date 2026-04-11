@@ -114,7 +114,7 @@ class PoFile:
             output(f'{len(self.messages)} entries written.')
         if missingCount > 0:
             output(f'NOTE: {missingCount} translations missing.')
-            # raise UserWarning
+            raise UserWarning
 
 
 class JsonDict:
