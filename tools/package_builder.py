@@ -1,6 +1,6 @@
 """Provide a class for novelibre application and plugin package building. 
 
-Copyright (c) 2025 Peter Triesberger
+Copyright (c) Peter Triesberger
 For further information see https://github.com/peter88213/novelibre
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
@@ -10,6 +10,7 @@ from shutil import copy2
 from shutil import copytree
 from shutil import make_archive
 from shutil import rmtree
+from string import Template
 import sys
 import zipapp
 
@@ -59,6 +60,8 @@ setuplib.main(False)
             (f'{self.sourceDir}setuplib.py', self.buildDir),
             ('../LICENSE', self.buildDir),
         ]
+        self.zipPath = ''
+        self.pyzPath = ''
 
     def add_extras(self):
         """Hook for project specific content."""
@@ -183,6 +186,7 @@ setuplib.main(False)
             main='setuplib:main',
             compressed=True
         )
+        self.pyzPath = targetFile
 
     def make_zip(self, sourceDir, targetDir, release):
         """Create the alternative zip file."""
@@ -191,6 +195,7 @@ setuplib.main(False)
         target = f'{targetDir}/{release}'
         output(f'Writing "{target}.zip" ...')
         make_archive(target, 'zip', sourceDir)
+        self.zipPath = f"{target}.zip"
 
     def prepare_package(self):
         """Create the package directory and populate it with the basic files."""
@@ -218,20 +223,33 @@ setuplib.main(False)
         output('Done')
 
     def update_landing_page(self):
-        """Update the version numbers for download link and documantation."""
+        """Update the version numbers for download link and documentation."""
         output(f'\nUpdating "{self.landingPage}" ...')
         with open(self.landingPageTemplate, 'r', encoding='utf_8') as f:
-            text = f.read().replace('0.99.0', self.version)
+            text = f.read()
+        try:
+            zipSize = f'{os.stat(self.zipPath).st_size // 1024} KB'
+        except FileNotFoundError:
+            zipSize = ''
+        try:
+            pyzSize = f'{os.stat(self.pyzPath).st_size // 1024} KB'
+        except FileNotFoundError:
+            pyzSize = ''
+        mapping = dict(
+            Version=self.version,
+            ZipSize=zipSize,
+            PyzSize=pyzSize,
+        )
         with open(
             self.landingPage,
             'w',
             encoding='utf_8',
             newline='\n'
         ) as f:
-            f.write(text)
+            f.write(Template(text).safe_substitute(mapping))
 
     def write_setup_script(self, filePath):
-        """Create the setup script for manual installatin from the zip file."""
+        """Create the setup script for manual installation from the zip file."""
         output(f'\nCreating the setup script ...')
         with open(
             f'{filePath}/setup.py',

@@ -15,7 +15,7 @@ Italian language package for [novelibre](https://github.com/peter88213/novelibre
 
 ### Default: Executable Python zip archive
 
-Download the latest release [nv_it_v5.42.1.pyz](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.42.1.pyz)
+Download the latest release [nv_it_v5.42.1.pyz](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.42.1.pyz) (196 KB)
 
 - Launch *nv_it_v5.42.1.pyz* by double-clicking (Windows desktop),
 - or execute `python nv_it_v5.42.1.pyz` (Windows), resp. `python3 nv_it_v5.42.1.pyz` (Linux) on the command line.
@@ -33,7 +33,7 @@ Download the latest release [nv_it_v5.42.1.pyz](https://github.com/peter88213/nv
 
 ### Alternative: Zip file
 
-The package is also available in zip format: [nv_it_v5.42.1.zip](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.42.1.zip)
+The package is also available in zip format: [nv_it_v5.42.1.zip](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.42.1.zip) (196 KB)
 
 - Extract the *nv_it_v5.42.1* folder from the downloaded zipfile "nv_it_v5.42.1.zip".
 - Move into this new folder and launch *setup.py* by double-clicking (Windows/Linux desktop), 
