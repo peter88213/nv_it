@@ -5,7 +5,14 @@
 ## Changelog
 
 
-### Version 5.42
+### Version 5.42.1
+
+- Allowing incomplete translations.
+- Updated POT files for novelibre 5.55.
+- Partially updated the help texts for novelibre 5.55.
+
+
+### Version 5.42.0
 
 - Including a plugin module for version control. Closes #1.
 

@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.53.2\n"
-"POT-Creation-Date: 2026-03-17 15:08:13\n"
+"Project-Id-Version: 5.55.12\n"
+"POT-Creation-Date: 2026-04-10 13:14:47\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -96,6 +96,9 @@ msgid "Apply"
 msgstr ""
 
 msgid "Ask before opening exported documents"
+msgstr ""
+
+msgid "Assign color"
 msgstr ""
 
 msgid "Assign section"
@@ -197,6 +200,9 @@ msgstr ""
 msgid "Cannot read file"
 msgstr ""
 
+msgid "Cannot remove the first chapter"
+msgstr ""
+
 msgid "Cannot save the project"
 msgstr ""
 
@@ -281,6 +287,9 @@ msgstr ""
 msgid "Choice"
 msgstr ""
 
+msgid "Choose color"
+msgstr ""
+
 msgid "Chp."
 msgstr ""
 
@@ -318,6 +327,9 @@ msgid "Collapse all"
 msgstr ""
 
 msgid "Collapse selected"
+msgstr ""
+
+msgid "Color"
 msgstr ""
 
 msgid "Coloring mode"
@@ -455,6 +467,9 @@ msgstr ""
 msgid "Display localized dates"
 msgstr ""
 
+msgid "Display the entire project tree in color"
+msgstr ""
+
 msgid "Do not auto-number this chapter"
 msgstr ""
 
@@ -558,6 +573,9 @@ msgid "Export plot grid for editing"
 msgstr ""
 
 msgid "Export plot line descriptions for editing"
+msgstr ""
+
+msgid "Export project notes for editing"
 msgstr ""
 
 msgid "Export section descriptions for editing"
@@ -698,7 +716,13 @@ msgstr ""
 msgid "Input rejected"
 msgstr ""
 
+msgid "Insert Chapter"
+msgstr ""
+
 msgid "Insert Stage"
+msgstr ""
+
+msgid "Insert a chapter?"
 msgstr ""
 
 msgid "Installed plugins"
@@ -1184,10 +1208,19 @@ msgstr ""
 msgid "Remove plot line from the list?"
 msgstr ""
 
+msgid "Remove this chapter, keep sections"
+msgstr ""
+
+msgid "Remove this chapter?"
+msgstr ""
+
 msgid "Required"
 msgstr ""
 
 msgid "Reset Highlighting"
+msgstr ""
+
+msgid "Reset color"
 msgstr ""
 
 msgid "Restart chapter numbering at part beginning"
@@ -1248,6 +1281,9 @@ msgid "Sections belonging to plot line"
 msgstr ""
 
 msgid "Sections from viewpoint"
+msgstr ""
+
+msgid "Sections will be moved to the previous chapter"
 msgstr ""
 
 msgid "Select characters"
@@ -1385,6 +1421,9 @@ msgstr ""
 msgid "The first section is an epigraph"
 msgstr ""
 
+msgid "The following sections will be moved to the new chapter"
+msgstr ""
+
 msgid "The next section has no time set"
 msgstr ""
 
@@ -1407,6 +1446,9 @@ msgid "The sections are not of the same type"
 msgstr ""
 
 msgid "The sections have different viewpoints"
+msgstr ""
+
+msgid "The selection does not contain matching elements"
 msgstr ""
 
 msgid "There are unsaved changes"

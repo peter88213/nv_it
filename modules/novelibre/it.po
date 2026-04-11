@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.0\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2026-03-03 21:45:29\n"
+"PO-Revision-Date: 2026-04-11 13:04:58\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -90,6 +90,9 @@ msgstr "Applica"
 
 msgid "Ask before opening exported documents"
 msgstr "Chiedi prima di aprire i documenti esportati"
+
+msgid "Assign color"
+msgstr ""
 
 msgid "Assign section"
 msgstr "Assegna sezione"
@@ -190,6 +193,9 @@ msgstr "Impossibile processare il file"
 msgid "Cannot read file"
 msgstr "Impossibile leggere il file"
 
+msgid "Cannot remove the first chapter"
+msgstr ""
+
 msgid "Cannot save the project"
 msgstr "Impossibile salvare il progetto"
 
@@ -274,6 +280,9 @@ msgstr "Personaggi"
 msgid "Choice"
 msgstr "Scelta"
 
+msgid "Choose color"
+msgstr ""
+
 msgid "Chp."
 msgstr "Cap."
 
@@ -312,6 +321,9 @@ msgstr "Riduci tutto"
 
 msgid "Collapse selected"
 msgstr "Riduci i selezionati"
+
+msgid "Color"
+msgstr ""
 
 msgid "Coloring mode"
 msgstr "Modalità colorazione"
@@ -448,6 +460,9 @@ msgstr "Scartare il manoscritto?"
 msgid "Display localized dates"
 msgstr "Visualizzare date localizzate"
 
+msgid "Display the entire project tree in color"
+msgstr ""
+
 msgid "Do not auto-number this chapter"
 msgstr "Non numerare automaticamente questo capitolo"
 
@@ -552,6 +567,9 @@ msgstr "Esporta griglia delle trame per modifica"
 
 msgid "Export plot line descriptions for editing"
 msgstr "Esporta trama per modifica"
+
+msgid "Export project notes for editing"
+msgstr ""
 
 msgid "Export section descriptions for editing"
 msgstr "Esporta descrizione sezione per modifica"
@@ -691,8 +709,14 @@ msgstr "Importanza"
 msgid "Input rejected"
 msgstr "Inserimento respinto"
 
+msgid "Insert Chapter"
+msgstr ""
+
 msgid "Insert Stage"
 msgstr "Inserire Fase"
+
+msgid "Insert a chapter?"
+msgstr ""
 
 msgid "Installed plugins"
 msgstr "Plugin installati"
@@ -1177,10 +1201,19 @@ msgstr "Rimuovere località dalla lista?"
 msgid "Remove plot line from the list?"
 msgstr "Rimuovere snodo narrativo dalla lista"
 
+msgid "Remove this chapter, keep sections"
+msgstr ""
+
+msgid "Remove this chapter?"
+msgstr ""
+
 msgid "Required"
 msgstr "Richiesto"
 
 msgid "Reset Highlighting"
+msgstr ""
+
+msgid "Reset color"
 msgstr ""
 
 msgid "Restart chapter numbering at part beginning"
@@ -1242,6 +1275,9 @@ msgstr "Sezioni appartenenti alla linea narrativa"
 
 msgid "Sections from viewpoint"
 msgstr "Sezioni dal POV"
+
+msgid "Sections will be moved to the previous chapter"
+msgstr ""
 
 msgid "Select characters"
 msgstr "Seleziona personaggi"
@@ -1378,6 +1414,9 @@ msgstr "I cambiamenti avranno effetto a prossimo riavvio"
 msgid "The first section is an epigraph"
 msgstr "La prima sezione è un'epigrafe"
 
+msgid "The following sections will be moved to the new chapter"
+msgstr ""
+
 msgid "The next section has no time set"
 msgstr "La prossima sezione non ha un riferimento temporale"
 
@@ -1401,6 +1440,9 @@ msgstr "Le sezioni non sono dello stesso tipo"
 
 msgid "The sections have different viewpoints"
 msgstr "Le sezioni hanno un POV differente"
+
+msgid "The selection does not contain matching elements"
+msgstr ""
 
 msgid "There are unsaved changes"
 msgstr "Ci sono delle modifiche da salvare"

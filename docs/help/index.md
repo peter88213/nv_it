@@ -37,7 +37,6 @@ consigli e tutorial in lingua italiana.
 
 - [File menu](file_menu.md)
 - [Vista menu](view_menu.md)
-- [Parte menu](part_menu.md)
 - [Capitolo menu](chapter_menu.md)
 - [Sezione menu](section_menu.md)
 - [Personaggi menu](characters_menu.md)
