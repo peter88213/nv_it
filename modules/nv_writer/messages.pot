@@ -1,0 +1,270 @@
+# nv_writer Dictionary
+# Copyright (C) 2026 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.1.6\n"
+"POT-Creation-Date: 2026-04-03 13:17:56\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novelibre pgettext.py 1.0\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Amber"
+msgstr ""
+
+msgid "Apply changes"
+msgstr ""
+
+msgid "Apply section changes?"
+msgstr ""
+
+msgid "Ask for confirmation"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Capitalize Every Word"
+msgstr ""
+
+msgid "Change case"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Color sets"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Contrast"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Count words"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Current setting"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Delete character left"
+msgstr ""
+
+msgid "Delete character right"
+msgstr ""
+
+msgid "Delete to end of line"
+msgstr ""
+
+msgid "Distraction-free writing plugin Online help"
+msgstr ""
+
+msgid "Distraction-free writing plugin Options"
+msgstr ""
+
+msgid "Documents found that might be edited"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Editable manuscript"
+msgstr ""
+
+msgid "Editing not possible"
+msgstr ""
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Enlarge"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Help on/off"
+msgstr ""
+
+msgid "Key shortcut"
+msgstr ""
+
+msgid "Live update"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Menu on/off"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Move the text from the cursor position to the end into a new section?"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Online help"
+msgstr ""
+
+msgid "Open new line"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Paper"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "PgDn"
+msgstr ""
+
+msgid "PgUp"
+msgstr ""
+
+msgid "Plain"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Regular text"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
+msgid "Split"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Strong emphasis"
+msgstr ""
+
+msgid "Swap characters"
+msgstr ""
+
+msgid "Tagged manuscript for proofing"
+msgstr ""
+
+msgid "UPPERCASE"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "White"
+msgstr ""
+
+msgid "Word count"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "Write in distraction free mode"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""
+
+msgid "lowercase"
+msgstr ""
+
+msgid "new"
+msgstr ""
+
+msgid "tOGGLE cASE"
+msgstr ""
+
+msgid "words"
+msgstr ""

@@ -1,0 +1,105 @@
+# nv_epub Dictionary
+# Copyright (C) 2026 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.0.4\n"
+"POT-Creation-Date: 2026-03-27 13:13:39\n"
+"PO-Revision-Date: 2026-04-24 13:13:49\n"
+"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novelibre pgettext.py 1.0\n"
+
+
+msgid "1st Edit"
+msgstr "prima stesura"
+
+msgid "2nd Edit"
+msgstr "seconda stesura"
+
+msgid "Action canceled by user"
+msgstr "Azione cancellata dall'utente"
+
+msgid "Bio"
+msgstr "Biografia"
+
+msgid "Cannot create directory"
+msgstr "Impossibile creare la cartella"
+
+msgid "Cannot create file"
+msgstr "Impossibile creare il file"
+
+msgid "Cannot overwrite file"
+msgstr "Impossibile sovrascrivere il file"
+
+msgid "Cannot write file"
+msgstr "Impossibile scrivere il file"
+
+msgid "Characterization"
+msgstr "Caratterizzazione"
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Draft"
+msgstr "Bozza"
+
+msgid "EPUB export plugin Online help"
+msgstr ""
+
+msgid "Ending"
+msgstr "Finale"
+
+msgid "File exported"
+msgstr ""
+
+msgid "File written"
+msgstr "File scritto"
+
+msgid "Goals"
+msgstr "Obiettivi"
+
+msgid "Major Character"
+msgstr "Personaggio principale"
+
+msgid "Minor Character"
+msgstr "Personaggio minore"
+
+msgid "Opening"
+msgstr "Apertura"
+
+msgid "Options"
+msgstr "Opzioni"
+
+msgid "Outline"
+msgstr "Struttura"
+
+msgid "Overwrite existing e-book?"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr "Culmine emotivo"
+
+msgid "Plot progress"
+msgstr "Progresso della trama"
+
+msgid "Save changes?"
+msgstr "Salvare i cambiamenti?"
+
+msgid "There are unsaved changes"
+msgstr "Ci sono delle modifiche da salvare"
+
+msgid "Unknown"
+msgstr ""
+
+msgid "World building"
+msgstr "Creazione del mondo"
+
+msgid "e-book"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en/nv_epub/"
+msgstr ""

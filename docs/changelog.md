@@ -5,6 +5,12 @@
 ## Changelog
 
 
+### Version 5.42.2
+
+- Added nv_writer and nv_epub.
+
+The translations are incomplete.
+
 ### Version 5.42.1
 
 - Allowing incomplete translations.

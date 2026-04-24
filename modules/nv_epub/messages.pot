@@ -1,0 +1,105 @@
+# nv_epub Dictionary
+# Copyright (C) 2026 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.0.4\n"
+"POT-Creation-Date: 2026-03-27 13:13:39\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novelibre pgettext.py 1.0\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Action canceled by user"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Cannot create directory"
+msgstr ""
+
+msgid "Cannot create file"
+msgstr ""
+
+msgid "Cannot overwrite file"
+msgstr ""
+
+msgid "Cannot write file"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "EPUB export plugin Online help"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "File exported"
+msgstr ""
+
+msgid "File written"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Overwrite existing e-book?"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Save changes?"
+msgstr ""
+
+msgid "There are unsaved changes"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "e-book"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en/nv_epub/"
+msgstr ""
