@@ -127,4 +127,4 @@ While tree elements are highlighted, the criterion is displayed on the right of 
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

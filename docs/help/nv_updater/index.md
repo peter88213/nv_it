@@ -70,4 +70,4 @@ Closes the update manager window and stops pending version checks.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.
