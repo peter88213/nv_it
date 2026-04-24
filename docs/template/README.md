@@ -15,7 +15,7 @@ This repository includes
 > [!IMPORTANT]
 > This repository needs maintenance by Italian-speaking persons. 
 > The translations are incomplete and need to be updated in case the *novelibre* user interface changes. 
-> Those who want to contribute are requested to clone this repository and make pull requests. 
+> Those who want to contribute can clone this repository and make pull requests. 
 > If you are interested, you may want to leave a message in the [discussions forum](https://github.com/peter88213/novelibre/discussions/71#discussion-9063654).
 
 
