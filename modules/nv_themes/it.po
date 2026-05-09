@@ -14,17 +14,17 @@ msgstr ""
 
 
 msgid "Change theme"
-msgstr ""
+msgstr "Cambia tema"
 
 msgid "Close"
 msgstr "Chiudi"
 
 msgid "GUI Theme"
-msgstr ""
+msgstr "Tema dell'interfaccia"
 
 msgid "Options"
 msgstr "Opzioni"
 
 msgid "Theme Changer"
-msgstr ""
+msgstr "Selettore temi"
 
