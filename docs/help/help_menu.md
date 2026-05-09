@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Aiuto menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Aiuto menu
 
 ---
 
@@ -15,14 +15,14 @@
 > 
 > With `F1` you can call up a help page corresponding to the context.
 
-## Aiuto in linea
+## Aiuto online
 
-With **Aiuto > Aiuto in linea**, you can launch your system web
+With **Aiuto > Aiuto online**, you can launch your system web
 browser with the *novelibre* online help URL.
 
-## A proposito di novelibre
+## Informazioni su novelibre
 
-With **Aiuto > A proposito di novelibre** you get a pop-up window with the
+With **Aiuto > Informazioni su novelibre** you get a pop-up window with the
 version number and a legal notice.
 
 ## novelibre Pagina principale
@@ -35,9 +35,9 @@ browser with the *novelibre* home page URL.
 > This is a quick way to get to the download link of the most recent
 > *novelibre* version.
 
-## Novità su Novelibre
+## Novità su novelibre
 
-With **Aiuto > Novità su Novelibre** you can launch your system web
+With **Aiuto > Novità su novelibre** you can launch your system web
 browser with the URL of 
 [What's new?](https://github.com/peter88213/novelibre/discussions/1?sort=new) in
 the discussion forum. There you will find information about the major

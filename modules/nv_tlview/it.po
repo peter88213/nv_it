@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.8.0\n"
 "POT-Creation-Date: 2025-09-04 13:03:01\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Bio"
 msgstr "Biografia"
@@ -83,10 +83,10 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "Online help"
-msgstr "Aiuto in linea"
+msgstr "Aiuto online"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -104,10 +104,10 @@ msgid "Page forward"
 msgstr ""
 
 msgid "Peak emotional moment"
-msgstr "Culmine emotivo"
+msgstr "Momento emotivo clou"
 
 msgid "Plot progress"
-msgstr "Progresso della trama"
+msgstr "Progressi trama"
 
 msgid "Reduce scale"
 msgstr ""
@@ -152,13 +152,13 @@ msgid "Use 00:00 for missing times"
 msgstr ""
 
 msgid "World building"
-msgstr "Creazione del mondo"
+msgstr "Costruzione del mondo"
 
 msgid "Years"
 msgstr ""
 
 msgid "d"
-msgstr "d"
+msgstr "g"
 
 msgid "h"
 msgstr "h"
@@ -168,4 +168,3 @@ msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "m"
 msgstr ""
-

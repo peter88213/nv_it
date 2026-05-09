@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.4.2\n"
 "POT-Creation-Date: 2025-08-16 15:13:18\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Ctrl"
 msgstr "Ctrl"
@@ -26,7 +26,7 @@ msgid "Detach text viewer"
 msgstr ""
 
 msgid "Detach/Dock Properties"
-msgstr "Stacca/Aggancia Proprietà"
+msgstr "Stacca/Aggancia proprietà"
 
 msgid "Done"
 msgstr "Fatto"
@@ -38,7 +38,7 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "No text available"
 msgstr "Nessun testo disponibile"
@@ -47,14 +47,13 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Show markup"
-msgstr "Mostra Markup"
+msgstr "Mostra markup"
 
 msgid "Unnamed"
 msgstr "Senza nome"
 
 msgid "by"
-msgstr "di"
+msgstr "da"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
-

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.5.1\n"
 "POT-Creation-Date: 2025-09-11 22:56:58\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:10\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Add"
 msgstr "Aggiungi"
@@ -44,7 +44,7 @@ msgid "Cannot overwrite file"
 msgstr "Impossibile sovrascrivere il file"
 
 msgid "Cannot process file"
-msgstr "Impossibile processare il file"
+msgstr "Impossibile elaborare il file"
 
 msgid "Cannot remove book"
 msgstr ""
@@ -101,7 +101,7 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "New"
 msgstr "Nuovo"
@@ -113,13 +113,13 @@ msgid "No changes to save"
 msgstr ""
 
 msgid "No valid version found in file"
-msgstr "Nessuna versione valida trovata nel file"
+msgstr "Versione non valida nel file"
 
 msgid "No valid xml root element found in file"
-msgstr "Nessun elemento radice XML valido trovato nel file"
+msgstr "Elemento root XML non valido nel file"
 
 msgid "Online help"
-msgstr "Aiuto in linea"
+msgstr "Aiuto online"
 
 msgid "Open..."
 msgstr "Apri..."
@@ -131,10 +131,10 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Peak emotional moment"
-msgstr "Culmine emotivo"
+msgstr "Momento emotivo clou"
 
 msgid "Plot progress"
-msgstr "Progresso della trama"
+msgstr "Progressi trama"
 
 msgid "Quit"
 msgstr "Esci"
@@ -161,7 +161,7 @@ msgid "Save"
 msgstr "Salva"
 
 msgid "Save changes?"
-msgstr "Salvare i cambiamenti?"
+msgstr "Salvare le modifiche?"
 
 msgid "Series"
 msgstr ""
@@ -176,7 +176,7 @@ msgid "The collection \"{}\" was created with an outdated plugin version."
 msgstr ""
 
 msgid "There are unsaved changes"
-msgstr "Ci sono delle modifiche da salvare"
+msgstr "Ci sono modifiche non salvate"
 
 msgid "There is no file for the current project. Please save first."
 msgstr ""
@@ -197,11 +197,10 @@ msgid "Update project data from the selected book"
 msgstr ""
 
 msgid "World building"
-msgstr "Creazione del mondo"
+msgstr "Costruzione del mondo"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "novelibre collection"
 msgstr ""
-

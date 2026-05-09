@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > File menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > File menu
 
 ---
 
@@ -25,7 +25,7 @@ submenu.
     you cancel the dialog, you can select the file name later when
     saving the project.
 
-### Crea da ODT
+### Crea da ODT...
 
 -   This will close the current project and open a file dialog
     asking for an ODT document to create the new projec from.
@@ -87,14 +87,14 @@ saved project file. You will get a warning, because changes may be lost.
 
 ---
 
-## Rigenera l'albero
+## Aggiorna albero
 
 **Enforce tree refresh after making changes**
 
-With **File > Rigenera l'albero** or `F5`, you can refresh the tree.
+With **File > Aggiorna albero** or `F5`, you can refresh the tree.
 
--   "Normale" sections that have been moved to an "Non utilizzato" chapter
-    are made "Non utilizzato".
+-   "Normale" sections that have been moved to an "Non usato" chapter
+    are made "Non usato".
 -   Parts and chapters are renumbered according to the Auto numbering
     settings.
 -   The "Cestino" chapter is moved to the end of the book, if necessary.
@@ -117,11 +117,11 @@ With **File > Sblocca** or `Ctrl`-`U`, you can unlock the project.
 
 ---
 
-## Aprire cartella di progetto
+## Apri cartella progetto
 
 **Launch the file manager**
 
-With **File > Aprire cartella di progetto** or `Ctrl-P`, you can launch the
+With **File > Apri cartella progetto** or `Ctrl-P`, you can launch the
 file manager with the current project folder. This might come in handy,
 if you e.g. wish to delete files or edit configuration files.
 
@@ -129,11 +129,11 @@ if you e.g. wish to delete files or edit configuration files.
 > 
 > In case you edit the project "outsides", consider locking it before.
 
-## Copia il foglio di stile
+## Copia foglio di stile
 
 **Provide a css style sheet in the project folder**
 
-With **File > Copia il foglio di stile**, you can copy the style sheet
+With **File > Copia foglio di stile**, you can copy the style sheet
 *novx.css* into the current project folder. This allows you to view the
 *.novx* project file with a web browser.
 
@@ -150,11 +150,11 @@ project, displayed using the style sheet.
 > `<home>\.novx\add_novelibre.reg` script.
 
 
-## Scartare il manoscritto
+## Scarta manoscritto
 
 **Discard the current manuscript by renaming it**
 
-With **File > Scartare il manoscritto**, you can add the *.bak* extension 
+With **File > Scarta manoscritto**, you can add the *.bak* extension 
 to the current manuscript. This may help to avoid confusion about changes 
 made with *novelibre* and *Writer*.
 

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.8.0\n"
 "POT-Creation-Date: 2025-09-04 13:00:53\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "All"
 msgstr "Tutti"
@@ -29,13 +29,13 @@ msgid "Bio"
 msgstr "Biografia"
 
 msgid "Broken link fixed"
-msgstr "Corretto link interrotto"
+msgstr "Collegamento interrotto ripristinato"
 
 msgid "Browse"
 msgstr ""
 
 msgid "Cancel"
-msgstr "Cancella"
+msgstr "Annulla"
 
 msgid "Cannot define a project wiki without project path"
 msgstr ""
@@ -74,7 +74,7 @@ msgid "Items"
 msgstr "Oggetti"
 
 msgid "Locations"
-msgstr "Località"
+msgstr "Luoghi"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
@@ -83,16 +83,16 @@ msgid "Matching page found"
 msgstr ""
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "No Wiki link found"
 msgstr ""
 
 msgid "Not a floating point value."
-msgstr "Non è un valore a virgola mobile"
+msgstr "Non è un valore a virgola mobile."
 
 msgid "Not an integer."
-msgstr "Non è un intero"
+msgstr "Non è un intero."
 
 msgid "OK"
 msgstr "OK"
@@ -116,13 +116,13 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Peak emotional moment"
-msgstr "Culmine emotivo"
+msgstr "Momento emotivo clou"
 
 msgid "Please try again"
-msgstr "Prova ancora"
+msgstr "Riprovare"
 
 msgid "Plot progress"
-msgstr "Progresso della trama"
+msgstr "Progressi trama"
 
 msgid "Project wiki not found"
 msgstr ""
@@ -149,10 +149,10 @@ msgid "The allowed minimum value is"
 msgstr "Il valore minimo consentito è"
 
 msgid "Too large"
-msgstr "Troppo largo"
+msgstr "Troppo grande"
 
 msgid "Too small"
-msgstr "Troppo stretto"
+msgstr "Troppo piccolo"
 
 msgid "Untitled"
 msgstr ""
@@ -179,7 +179,7 @@ msgid "Wiki page not found"
 msgstr ""
 
 msgid "World building"
-msgstr "Creazione del mondo"
+msgstr "Costruzione del mondo"
 
 msgid "Zim Desktop Wiki"
 msgstr ""
@@ -201,4 +201,3 @@ msgstr ""
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
-

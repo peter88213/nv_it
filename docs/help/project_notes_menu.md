@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Note di progetto menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Note di progetto menu
 
 ---
 
@@ -20,11 +20,11 @@ With **Note di progetto > Aggiungi**, you can add a project note to the tree.
 
 ---
 
-## Mostra tabella in HTML
+## Mostra tabella nel browser
 
 **Show an HTML report with project notes**
 
-With **Note di progetto > Mostra tabella in HTML**, you can create a HTML
+With **Note di progetto > Mostra tabella nel browser**, you can create a HTML
 file that contains title and content of all project notes, and launch
 your system's web browser for displaying it.
 

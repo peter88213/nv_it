@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.2.0\n"
 "POT-Creation-Date: 2025-08-16 15:21:14\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Cannot read file"
 msgstr "Impossibile leggere il file"
@@ -50,10 +50,10 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "New Section"
-msgstr "Nuova Sezione"
+msgstr "Nuova sezione"
 
 msgid "Open folder"
 msgstr ""
@@ -84,4 +84,3 @@ msgstr ""
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
-

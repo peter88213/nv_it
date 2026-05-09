@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Personaggi menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Personaggi menu
 
 ---
 
@@ -48,24 +48,24 @@ current project.
 > **Hint**
 > 
 > To create an XML character data file for the current project, use
-> **Esporta > Files dati XML**.
+> **Esporta > File dati XML**.
 
 ---
 
-## Esporta la descrizione del personaggio per la modifica
+## Esporta descrizioni personaggio per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Personaggi > Esporta la descrizione del personaggio per la modifica**, you
+With **Personaggi > Esporta descrizioni personaggio per la modifica**, you
 can create a text document that contains character descriptions, bio,
 goals, and notes that can be edited in Office Writer and reimported.
 File name suffix is `_characters_tmp`.
 
-## Esporta tabella personaggio
+## Esporta tabella personaggi
 
 **Export an ODS document that can be imported again after editing**
 
-With **Personaggi > Esporta tabella personaggio**, you can create a
+With **Personaggi > Esporta tabella personaggi**, you can create a
 spreadsheet that contains a row per character. The document can be
 edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
@@ -78,11 +78,11 @@ edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
 ---
 
-## Mostra tabella in HTML
+## Mostra tabella nel browser
 
 **Show an HTML report with characters data**
 
-With **Personaggi > Mostra tabella in HTML**, you can create a HTML file
+With **Personaggi > Mostra tabella nel browser**, you can create a HTML file
 that contains a character table, and launch your system's web browser
 for displaying it.
 

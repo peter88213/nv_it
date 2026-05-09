@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Esporta menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Esporta menu
 
 ---
 
@@ -15,7 +15,7 @@ document that is split into sections (to be seen in the Navigator).
 File name suffix is `_manuscript_tmp`.
 
 -   Only "Normale" chapters and sections are exported. Chapters and
-    sections marked "Non utilizzato" are not exported.
+    sections marked "Non usato" are not exported.
 
 -   Section titles are invisible, but appear in the *Navigator*.
 
@@ -48,11 +48,11 @@ File name suffix is `_manuscript_tmp`.
 -   Change tracking: All changes are accepted on import. Change tracking
     data is lost.
 
-## Manoscritto per word processor esterno
+## Manoscritto per elaboratori di testi esterni
 
 **Export an ODT document that can be imported again after editing**
 
-With **Esporta > Manoscritto per word processor esterno**, you can
+With **Esporta > Manoscritto per elaboratori di testi esterni**, you can
 create a text document with visible section markers. 
 File name suffix is `_proof_tmp`.
 
@@ -63,7 +63,7 @@ File name suffix is `_proof_tmp`.
 > processors and even with web-based word processors such as Google Docs.
 
 -   Only "Normale" chapters and sections are exported. Chapters and
-    sections marked "Non utilizzato" are not exported.
+    sections marked "Non usato" are not exported.
 
 -   The document contains chapter and section headings. However, changes
     will not be reimported.
@@ -117,11 +117,11 @@ File name suffix is `_proof_tmp`.
 -   Change tracking: All changes are accepted on import. Change tracking
     data is lost.
 
-## ${Manuscript including unused text}
+## Manoscritto inclusi testi non usati
 
 **Export an ODT document that can be imported again after editing**
 
-With **Esporta > ${Manuscript including unused text}**, 
+With **Esporta > Manoscritto inclusi testi non usati**, 
 you can create a manuscript document that also contains the unused chapters and sections, 
 as well as the contents of the "Trash" folder.
 File name suffix is `_full_tmp`.
@@ -130,12 +130,13 @@ This document is intended for global search and replace,
 for example in the case of name changes. 
 
 
-## ${Metadata text table for editing}
+## Tabella testi metadati per la modifica
 
 **Export an ODS document that can be imported again after editing**
 
-With **Esporta > ${Metadata text table for editing}**, 
-you can create a spreadsheet document containing all headings and metadata texts. 
+With **Esporta > Tabella testi metadati per la modifica**, 
+you can create a spreadsheet document containing all headings,
+names, titles, descriptions, and other metadata texts. 
 File name suffix is `_metadata_text_tmp`.
 
 This document is intended for global search and replace, 
@@ -160,7 +161,7 @@ are finished with *novelibre*.
 -   The document is placed in the same folder as the project.
 -   Document's **filename**: `<project name>.odt`.
 -   Only "Normale" chapters and sections are exported. Chapters and
-    sections marked "Non utilizzato" are not exported.
+    sections marked "Non usato" are not exported.
 -   Part titles appear as first level heading.
 -   Chapter titles appear as second level heading.
 -   Sections are separated by `* * *`. The first line is not indented.
@@ -183,25 +184,25 @@ are finished with *novelibre*.
 > [novelibre-tools](https://github.com/peter88213/novelibre-tools/)
 > extension.
 
-## Breve riassunto (solo esportazione)
+## Sinossi breve (solo esportazione)
 
 **Export an ODT document**
 
-With **Esporta > Breve riassunto (solo esportazione)**, you can create a text
+With **Esporta > Sinossi breve (solo esportazione)**, you can create a text
 document containing a brief synopsis with part, chapter, and sections
 titles only. File name suffix is `_brf_synopsis`.
 
 -   Only "Normale" chapters and sections are exported. Chapters and
-    sections marked "Non utilizzato" are not exported.
+    sections marked "Non usato" are not exported.
 -   Part titles appear as first level heading.
 -   Chapter titles appear as second level heading.
 -   Section titles appear as plain paragraphs.
 
-## Riferimento incrociato (solo esportazione)
+## Riferimenti incrociati (solo esportazione)
 
 **Export an ODT document**
 
-With **Esporta > Riferimento incrociato (solo esportazione)**, you can create a text
+With **Esporta > Riferimenti incrociati (solo esportazione)**, you can create a text
 document containing navigable cross references. File name suffix is
 `_xref`.
 
@@ -217,11 +218,11 @@ The cross references are:
 
 ---
 
-## Files dati XML
+## File dati XML
 
 **Export XML files that can be imported into other projects**
 
-With **Esporta > Files dati XML**, you can create a set of XML files
+With **Esporta > File dati XML**, you can create a set of XML files
 containing the project's characters, locations, items, and plot lines
 with all their properties. These files can be used to transfer the
 elements to another projects.
@@ -229,7 +230,7 @@ elements to another projects.
 > **Hint**
 > 
 > To import XML data files from another project, use the **Importa**
-> command in the **Personaggi**, **Località**, **Oggetti**, 
+> command in the **Personaggi**, **Luoghi**, **Oggetti**, 
 > or **Trama** menu.
 
 ---
@@ -259,7 +260,7 @@ This checkbox controls the behavior on opening documents for editing.
 -   If unticked, *novelibre* won't lock the project when launching
     *Writer* or *Calc*.
 
-### Scegli modello di documento
+### Seleziona modello documento
 
 You can have *novelibre* apply your own styles so that the exported text
 documents better suit your taste and habits.

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.0.2\n"
 "POT-Creation-Date: 2025-08-16 15:18:36\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,13 +14,13 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Action canceled by user"
-msgstr "Azione cancellata dall'utente"
+msgstr "Azione annullata dall'utente"
 
 msgid "Auto-generated snapshot"
 msgstr ""
@@ -35,13 +35,13 @@ msgid "Can not restore snapshot"
 msgstr ""
 
 msgid "Cancel"
-msgstr "Cancella"
+msgstr "Annulla"
 
 msgid "Chapter descriptions"
-msgstr "Descrizione del Capitolo"
+msgstr "Descrizioni capitolo"
 
 msgid "Character descriptions"
-msgstr "Descrizione personaggio"
+msgstr "Descrizioni personaggio"
 
 msgid "Clean up Snapshot folder"
 msgstr ""
@@ -77,16 +77,16 @@ msgid "File not found"
 msgstr "File non trovato"
 
 msgid "File type is not supported"
-msgstr "Formato di file non supportato"
+msgstr "Tipo di file non supportato"
 
 msgid "Help"
 msgstr "Aiuto"
 
 msgid "Item descriptions"
-msgstr "Descrizione oggetto"
+msgstr "Descrizioni oggetto"
 
 msgid "Location descriptions"
-msgstr "Descrizione Località"
+msgstr "Descrizioni luogo"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
@@ -95,13 +95,13 @@ msgid "Manuscript"
 msgstr "Manoscritto"
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "Ok"
 msgstr ""
 
 msgid "Online help"
-msgstr "Aiuto in linea"
+msgstr "Aiuto online"
 
 msgid "Open Snapshot folder"
 msgstr ""
@@ -110,10 +110,10 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Part descriptions"
-msgstr "Descrizione Parte"
+msgstr "Descrizioni parte"
 
 msgid "Plot grid"
-msgstr "Griglia della trame"
+msgstr "Griglia narrativa"
 
 msgid "Plot line descriptions"
 msgstr ""
@@ -128,10 +128,10 @@ msgid "Save"
 msgstr "Salva"
 
 msgid "Save changes?"
-msgstr "Salvare i cambiamenti?"
+msgstr "Salvare le modifiche?"
 
 msgid "Section descriptions"
-msgstr "Descrizione della sezione"
+msgstr "Descrizioni sezione"
 
 msgid "Snapshot"
 msgstr ""
@@ -158,7 +158,7 @@ msgid "Snapshots plugin Online help"
 msgstr ""
 
 msgid "Story structure"
-msgstr "Struttura narrativa"
+msgstr "Struttura della storia"
 
 msgid "Title"
 msgstr "Titolo"
@@ -173,11 +173,10 @@ msgid "Words"
 msgstr "Parole"
 
 msgid "Work phase"
-msgstr "Fase di lavorazione"
+msgstr "Fase di lavoro"
 
 msgid "XML data files"
-msgstr "Files dati XML"
+msgstr "File dati XML"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
-

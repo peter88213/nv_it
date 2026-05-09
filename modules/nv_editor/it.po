@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.6.1\n"
 "POT-Creation-Date: 2025-08-16 15:11:37\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Apply changes"
 msgstr ""
@@ -104,16 +104,16 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "Move the text from the cursor position to the end into a new section?"
 msgstr ""
 
 msgid "Next"
-msgstr "Prossimo"
+msgstr "Successivo"
 
 msgid "Online help"
-msgstr "Aiuto in linea"
+msgstr "Aiuto online"
 
 msgid "Outline"
 msgstr "Struttura"
@@ -155,7 +155,7 @@ msgid "Update"
 msgstr ""
 
 msgid "View"
-msgstr "Vista"
+msgstr "Visualizza"
 
 msgid "Word count"
 msgstr ""
@@ -168,4 +168,3 @@ msgstr ""
 
 msgid "words"
 msgstr ""
-

@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Sezione properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Sezione properties
 
 ---
 
@@ -17,7 +17,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## Annotazioni
+## Etichette
 
 Tags are a very freely usable tool for labeling sections in the tree view. 
 You can highlight sections based on a tag in the project tree.
@@ -30,18 +30,18 @@ pressing the `Enter` key.
 > If you want to use a tag more than once, make sure you use the same
 > spelling in the different places.
 
-## POV
+## Punto di vista
 
 The viewpoint character's short name is displayed in the tree view. You
 can select it from a drop-down list containing all characters in the
 tree view's sort order. If you click on the topmost entry of the list,
 this will clear the viewpoint association.
 
-## Non utilizzato
+## Non usato
 
-With the **Non utilizzato** checkbox, you can change the section type.
+With the **Non usato** checkbox, you can change the section type.
 
-## Aggiungi alla sezione precedente
+## Unisci alla sezione precedente
 
 When ticked, there will be no section divider inserted above the
 selected section in exported documents. The section just starts a new
@@ -219,7 +219,7 @@ If the selected section is a scene, this is when it starts:
 
 Format: *YYYY-MM-DD*, according to ISO 8601.
 
-#### Riferimento temporale
+#### Tempo
 
 Format: *hh:mm*, according to ISO 8601.
 
@@ -251,9 +251,9 @@ The moon phase information consists of:
 > algorithm by John Conway. In its current form, it's only valid for
 > the 20th and 21st centuries.
 
-#### Rimuovi data/ora
+#### Cancella data/ora
 
-This will reset *Data*, *Riferimento temporale*, and *Giorno* simultaneously.
+This will reset *Data*, *Tempo*, and *Giorno* simultaneously.
 
 #### Genera
 
@@ -286,7 +286,7 @@ automatically increased.
 If a number greater than 60 is entered, the number of hours will be
 automatically increased.
 
-#### Rimuovere durata
+#### Cancella durata
 
 This will reset *Giorni*, *Ore*, and *Minuti* simultaneously.
 
@@ -339,7 +339,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
@@ -380,7 +380,7 @@ in the plot line row.
 
 -   **Precedente** lets you navigate to the previous section in the
     tree.
--   **Prossimo** lets you navigate to the next section in the tree.
+-   **Successivo** lets you navigate to the next section in the tree.
 
 ---
 

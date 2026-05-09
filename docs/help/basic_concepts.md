@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Basic concepts
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Basic concepts
 
 ---
 
@@ -65,14 +65,14 @@ heading and the actual start of the chapter.
 An epigraph differs from a regular section in that it is formatted using
 the **Epigrafe** paragraph style. If you add a description to the
 epigraph, this will be placed below the epigraph as a source reference,
-formatted using the **Fonte dell'Epigrafe** paragraph style.
+formatted using the **Fonte epigrafe** paragraph style.
 
 ![LibreOffice Writer screenshot](images/basic_concepts07.jpg)
 
 > **Hint**
 > 
 > You can temporarily exclude an epigraph from document export by changing
-> its section type to *Non utilizzato* (see below).
+> its section type to *Non usato* (see below).
 
 
 ### Sezioni
@@ -102,7 +102,7 @@ is beginning.
 
 Each part, chapter, and section is of a type that can be changed via
 context menu or Part/Chapter/Section menu. The type can be *Normale* or
-*Non utilizzato*.
+*Non usato*.
 
 ### Normale
 
@@ -115,22 +115,22 @@ context menu or Part/Chapter/Section menu. The type can be *Normale* or
 -   "Normale" type tree elements are color coded according to the
     Modalità colorazione settings.
 
-### Non utilizzato
+### Non usato
 
-You can mark parts, chapters, and sections as Non utilizzato to exclude them
+You can mark parts, chapters, and sections as Non usato to exclude them
 from word count totals and export.
 
--   The subelements of Non utilizzato parts and chapters are Non utilizzato as well.
--   If you mark a section "Non utilizzato", its properties are preserved.
--   Non utilizzato tree elements are displayed in gray.
+-   The subelements of Non usato parts and chapters are Non usato as well.
+-   If you mark a section "Non usato", its properties are preserved.
+-   Non usato tree elements are displayed in gray.
 
 ![novelibre screenshot](images/basic_concepts04.png)
 
 ## Section completion status
 
-You can assign a Status to each "Normale" type section via context menu
-or Sezione menu. You can choose between *Struttura*, *Bozza*, *prima stesura*,
-*seconda stesura*, and *Fatto*.
+You can assign a Stato to each "Normale" type section via context menu
+or Sezione menu. You can choose between *Struttura*, *Bozza*, *1ª Revisione*,
+*2ª Revisione*, and *Fatto*.
 
 -   You can choose a Modalità colorazione to display sections in different colors 
     depending on their completion status.
@@ -138,7 +138,7 @@ or Sezione menu. You can choose between *Struttura*, *Bozza*, *prima stesura*,
     ![novelibre screenshot](images/basic_concepts02.png)
 
 -   Optionally, you can declare one of the status to be the current
-    Fase di lavorazione, and choose a Modalità colorazione that highlights sections 
+    Fase di lavoro, and choose a Modalità colorazione that highlights sections 
     that are behind schedule.
 
     ![novelibre screenshot](images/basic_concepts03.png)
@@ -156,7 +156,7 @@ or Sezione menu. You can choose between *Struttura*, *Bozza*, *prima stesura*,
 
 ## Characters and story world
 
-You can define Personaggi, Località, and Oggetti, and you can relate them
+You can define Personaggi, Luoghi, and Oggetti, and you can relate them
 to sections to keep track of their place in the story. There is also
 some metadata stored with *novelibre*, mainly as a quick reference that
 might come in handy when writing or editing.
@@ -262,8 +262,8 @@ supported by *novelibre*.
 If you want to change a name throughout the novel, you can export, 
 edit and reimport the two relevant documents: 
 
-- The ${Manuscript including unused text}
-- The ${Metadata text table for editing}
+- The Manoscritto inclusi testi non usati
+- The Tabella testi metadati per la modifica
  
 Together, these two documents contain both the novel text and the contents 
 of unused sections or sections that have been moved to the trash, all headings, 

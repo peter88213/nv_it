@@ -1,10 +1,10 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Snodo della trama properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Punto di svolta properties
 
 ---
 
-# Snodo della trama properties
+# Punto di svolta properties
 
-The Snodo della trama properties view opens in the right pane when you select a
+The Punto di svolta properties view opens in the right pane when you select a
 plot point in the tree.
 
 ![Screenshot](images/point_view01.png)
@@ -35,10 +35,10 @@ on a section, this section will be assigned to the plot point.
 > key.
 
 
-### Rimuovi l'assegnazione
+### Cancella assegnazione
 
 If a section is assigned to the plot point, you can disconnect it by
-clicking on the **Rimuovi l'assegnazione** button.
+clicking on the **Cancella assegnazione** button.
 
 ### Vai alla sezione
 
@@ -94,7 +94,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
@@ -135,7 +135,7 @@ in the plot line row.
 
 -   **Precedente** lets you navigate to the previous plot point in the
     tree.
--   **Prossimo** lets you navigate to the next plot point in the tree.
+-   **Successivo** lets you navigate to the next plot point in the tree.
 
 ---
 

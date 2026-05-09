@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Linea narrativa properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Linea narrativa properties
 
 ---
 
@@ -17,7 +17,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## Nome abbreviato
+## Nome breve
 
 Be sure to enter a short name to be displayed as a reference in the
 tree. A single character like "A", "B", "C" is recommended.
@@ -30,10 +30,10 @@ tree:
 ## Section assignments
 
 The number of sections that belong to the selected plot line is shown
-below the "Nome abbreviato" entry. The assignments can be made in the
+below the "Nome breve" entry. The assignments can be made in the
 section properties view. You can unlink all
 sections from the selected plot line at once by clicking on the 
-**Rimuovi l'assegnazione della sezione** button.
+**Cancella assegnazioni sezione** button.
 
 > Hint
 > 
@@ -85,7 +85,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
@@ -126,7 +126,7 @@ in the plot line row.
 
 -   **Precedente** lets you navigate to the previous plot line in the
     tree.
--   **Prossimo** lets you navigate to the next plot linie in the tree.
+-   **Successivo** lets you navigate to the next plot linie in the tree.
 
 ---
 

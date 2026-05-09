@@ -1,4 +1,4 @@
-novelibre [Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [Aiuto in linea](../) > nv_zim
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [${Online help}](../) > nv_zim
 
 ---
 
@@ -8,14 +8,14 @@ novelibre [Pagina principale](https://github.com/peter88213/novelibre) > [Pagine
 
 This page refers to the latest
 [nv_zim](https://github.com/peter88213/nv_zim/) release. You can open it
-with **Aiuto > ${Zim connection Online help}**.
+with **${Help} > ${Zim connection Online help}**.
 
 *nv_zim* is a plugin that connects *novelibre* projects with a *Zim
 Desktop Wiki*. This is mainly intended for world building documentation.
 
 The plugin adds an **${Zim Desktop Wiki}** entry to the *novelibre*
-**Strumenti** menu, and a **${Zim connection Online help}** entry to the
-**Aiuto** menu. The property views of characters, locations, items, and
+**${Tools}** menu, and a **${Zim connection Online help}** entry to the
+**${Help}** menu. The property views of characters, locations, items, and
 book get a ![Zim](images/zim.png) button. The Toolbar gets a ![Zim](images/zim.png) button.
 
 ## Setting up Zim Desktop Wiki
@@ -114,7 +114,7 @@ the status bar.
 
 ### ${Open project wiki}
 
-With **Strumenti > ${Zim Desktop Wiki} > ${Open project wiki}**, or clicking on
+With **${Tools} > ${Zim Desktop Wiki} > ${Open project wiki}**, or clicking on
 the ![Zim](images/zim.png) button on the toolbar, you can open the Zim
 notebook linked with the project.
 
@@ -152,7 +152,7 @@ project directory, and opens it with Zim.
 > project wiki from within *novelibre* during the current session, but
 > you may have to re-select it in the next session.
 
-#### Cancella
+#### ${Cancel}
 
 Aborts the operation without launching Zim.
 
@@ -168,7 +168,7 @@ Aborts the operation without launching Zim.
 
 ### ${Create project wiki}
 
-With **Strumenti > ${Zim Desktop Wiki} > ${Create project wiki}** you can create
+With **${Tools} > ${Zim Desktop Wiki} > ${Create project wiki}** you can create
 a new Zim notebook in a subdirectory of the project directory and open
 it with Zim. The generated project wiki contains pages for the book and
 for all characters, locations, and items. If there is already a Zim
@@ -187,7 +187,7 @@ renamed and kept as a backup.
 
 ### ${Remove wiki links}
 
-With **Strumenti > ${Zim Desktop Wiki} > ${Remove wiki links}** you can remove
+With **${Tools} > ${Zim Desktop Wiki} > ${Remove wiki links}** you can remove
 saved wiki links from the project file. This takes effect when saving
 the next time.
 
@@ -198,7 +198,7 @@ A submenu offers two options:
 This will remove the Zim wiki links of the selected elements. This
 command only refers to linked pages, but not to the project wiki.
 
-#### Tutti
+#### ${All}
 
 This will remove all Zim wiki links. This command refers both to
 linked pages and to the project wiki.
@@ -254,7 +254,7 @@ opens it with Zim.
 > re-select it in the next session.
 
 
-##### Cancella
+##### ${Cancel}
 
 Aborts the operation without launching Zim.
 

@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Trama menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Trama menu
 
 ---
 
@@ -6,11 +6,11 @@
 
 **Plot elements operation**
 
-## Aggiungi Trama
+## Aggiungi linea narrativa
 
 **Add a new plot line to the story**
 
-With **Trama > Aggiungi Trama**, you can add a plot line to the tree.
+With **Trama > Aggiungi linea narrativa**, you can add a plot line to the tree.
 
 -   If a plot line is selected, the new plot line is placed after the
     selected one.
@@ -18,11 +18,11 @@ With **Trama > Aggiungi Trama**, you can add a plot line to the tree.
 -   The new plot line has an auto-generated title. You can change it in
     the right pane.
 
-## Aggiungi Snodo nella Trama
+## Aggiungi punto di svolta
 
 **Add a new Plot point to the selected plot line**
 
-With **Trama > Aggiungi Snodo nella Trama**, you can add a plot point to a plot line.
+With **Trama > Aggiungi punto di svolta**, you can add a plot point to a plot line.
 
 -   If a plot point is selected, the new plot point is placed after the
     selected one.
@@ -34,11 +34,11 @@ With **Trama > Aggiungi Snodo nella Trama**, you can add a plot point to a plot 
 
 ---
 
-## Inserire Fase
+## Inserisci fase
 
 **Insert a stage between the sections**
 
-With **Trama > Inserire Fase**, you can insert a stage after the selected
+With **Trama > Inserisci fase**, you can insert a stage after the selected
 chapter or section.
 
 > **Hint**
@@ -46,15 +46,15 @@ chapter or section.
 > By default, the new stage is on the second level. You can change the
 > level to first (see below).
 
-## Modifica livello
+## Cambia livello
 
 **Change the level of the selected stages**
 
-With **Trama > Modifica livello**, you can change the level of the selected
+With **Trama > Cambia livello**, you can change the level of the selected
 stages.
 
--   **primo livello** is displayed in bold face.
--   **secondo livello** is displayed in regular font.
+-   **1º Livello** is displayed in bold face.
+-   **2º Livello** is displayed in regular font.
 
 > **Note**
 > 
@@ -63,11 +63,11 @@ stages.
 
 ---
 
-## Importa trama
+## Importa linee narrative
 
 **Import plot lines with plot points from another project**
 
-With **Trama > Importa trama**, you can import a selection of plot
+With **Trama > Importa linee narrative**, you can import a selection of plot
 lines from another project. First you select an XML file containing the
 plot lines. Then you select the plot lines you want to add to the
 current project.
@@ -75,15 +75,15 @@ current project.
 > **Hint**
 > 
 > To create an XML plot lines file for the current project, use 
-> **Esporta > Files dati XML**.
+> **Esporta > File dati XML**.
 
 ---
 
-## Esporta griglia delle trame per modifica
+## Esporta griglia narrativa per la modifica
 
 **Export an ODS document that can be imported again after editing**
 
-With **Trama > Esporta griglia delle trame per modifica**, you can create a
+With **Trama > Esporta griglia narrativa per la modifica**, you can create a
 spreadsheet with a row per section, containing the following data:
 
 -   The sequential section number as a hyperlink to the section in the
@@ -109,7 +109,7 @@ below).
 > **Note**
 > 
 > Only "normal" sections appear in the plot grid. Sections of the
-> "Non utilizzato" type are omitted.
+> "Non usato" type are omitted.
 
 The document can be edited with *Calc* and reimported. File name suffix
 is `_grid_tmp`.
@@ -127,11 +127,11 @@ is `_grid_tmp`.
 > default, must not be changed as they contain the structural information
 > for the import.
 
-## Esporta descrizione struttura storia per modifica
+## Esporta descrizione struttura storia per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Trama > Esporta descrizione struttura storia per modifica**, you can
+With **Trama > Esporta descrizione struttura storia per la modifica**, you can
 create a text document that contains all stages, each with description.
 File name suffix is `_structure_tmp`.
 
@@ -152,11 +152,11 @@ File name suffix is `_structure_tmp`.
    > discarded after the *novelibre* project is updated.
 
 
-## Esporta trama per modifica
+## Esporta descrizioni linea narrativa per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Trama > Esporta trama per modifica**,
+With **Trama > Esporta descrizioni linea narrativa per la modifica**,
 you can create a text document that contains stages, plot lines, and
 plot points, each with description. The plot points are linked to the
 manuscript and to the section descriptions. File name suffix is
@@ -164,11 +164,11 @@ manuscript and to the section descriptions. File name suffix is
 
 ---
 
-## Tabella della trama
+## Tabella trama (solo esportazione)
 
 **Export an ODS document**
 
-With **Trama > Tabella della trama**, you can create a spreadsheet
+With **Trama > Tabella trama (solo esportazione)**, you can create a spreadsheet
 with a row per section and a column per plot line. Associations between
 plot lines and sections are color-highlighted. Plot point titles are
 displayed. File name suffix is `_plotlist`.
@@ -191,11 +191,11 @@ the plot description (right).
 > another folder or computer. In this case, you will have to export the
 > spreadsheet anew.
 
-## Mostra tabella delle trame in HTML
+## Mostra tabella trama nel browser
 
 **Show an HTML report with plot elements**
 
-With **Trama > Mostra tabella delle trame in HTML**, You can create a HTML file
+With **Trama > Mostra tabella trama nel browser**, You can create a HTML file
 that contains a plot table similar to the ODS plot table (see above),
 but without any hyperlinks, and launch your system's web browser for
 displaying it.

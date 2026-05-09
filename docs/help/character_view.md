@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Personaggio properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Personaggio properties
 
 ---
 
@@ -23,12 +23,12 @@ The character's title as shown on the index card is used as a short
 name at several places. The full name can be entered separately. Editing
 can be completed by pressing the `Enter` key.
 
-## soprannome
+## AKA
 
 This entry field is for alias names. Editing can be completed by
 pressing the `Enter` key.
 
-## Annotazioni
+## Etichette
 
 Tags are a very freely usable tool for labeling characters in the tree
 view. Tags do not have to be defined elsewhere, but simply entered in
@@ -57,7 +57,7 @@ status.
 > on the program functions. Nevertheless, you can use it to mark viewpoint
 > characters or characters with their own plot lines.
 
-## Data di nascita and Data della morte
+## Data di nascita and Data di morte
 
 Format: *YYYY-MM-DD*, according to ISO 8601.
 
@@ -132,7 +132,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
@@ -172,7 +172,7 @@ in the plot line row.
 ## Navigation buttons
 
 -   **Precedente** lets you navigate to the previous character in the tree.
--   **Prossimo** lets you navigate to the next character in the tree.
+-   **Successivo** lets you navigate to the next character in the tree.
 
 ---
 

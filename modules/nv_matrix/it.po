@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.5.1\n"
 "POT-Creation-Date: 2025-09-18 23:19:46\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Bio"
 msgstr "Biografia"
@@ -50,7 +50,7 @@ msgid "Items"
 msgstr "Oggetti"
 
 msgid "Locations"
-msgstr "Località"
+msgstr "Luoghi"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
@@ -65,7 +65,7 @@ msgid "Matrix plugin Online help"
 msgstr ""
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -74,20 +74,19 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Peak emotional moment"
-msgstr "Culmine emotivo"
+msgstr "Momento emotivo clou"
 
 msgid "Plot lines"
 msgstr "Linee narrative"
 
 msgid "Plot progress"
-msgstr "Progresso della trama"
+msgstr "Progressi trama"
 
 msgid "Sections"
 msgstr "Sezioni"
 
 msgid "World building"
-msgstr "Creazione del mondo"
+msgstr "Costruzione del mondo"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
-

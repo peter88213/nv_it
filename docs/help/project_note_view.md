@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Nota di progetto properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Nota di progetto properties
 
 ---
 
@@ -61,7 +61,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
@@ -93,7 +93,7 @@ application for the link's file type.
 
 -   **Precedente** lets you navigate to the previous project note in the
     tree.
--   **Prossimo** lets you navigate to the next project note in the tree.
+-   **Successivo** lets you navigate to the next project note in the tree.
 
 
 ---

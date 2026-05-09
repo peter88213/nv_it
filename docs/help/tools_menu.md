@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Strumenti menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Strumenti menu
 
 ---
 
@@ -24,7 +24,7 @@ concerning the backup.
 The path to the backup directory is displayed at the top of the window,
 if one is set.
 
-### Modifica cartella di backup
+### Cambia cartella di backup
 
 This opens a directory selection dialog with which you can select the
 backup directory.
@@ -34,7 +34,7 @@ backup directory.
 > To take precautions against hard disk failure, you can also specify an
 > external drive or a USB stick.
 
-### Aprire cartella di backup
+### Apri cartella backup
 
 This opens the backup directory with the file manager. This is for quick
 access if you want to restore a project file.
@@ -51,22 +51,22 @@ project file in the set backup directory each time it is saves.
 
 ------------------------------------------------------------------------
 
-## Aprire cartella di installazione
+## Apri cartella di installazione
 
 **Launch the file manager**
 
-With **Strumenti > Aprire cartella di installazione**, you can launch the file
+With **Strumenti > Apri cartella di installazione**, you can launch the file
 manager with the *novelibre* installation folder. This might come in
 handy if you wish to edit configuration files, or install your own
 plugins.
 
 ------------------------------------------------------------------------
 
-## Gestore dei plugin
+## Gestore plugin
 
 **Display and manage installed plugins**
 
-With **Strumenti > Gestore dei plugin**, you can open the 
+With **Strumenti > Gestore plugin**, you can open the 
 *Plugin installati* dialog.
 
 ![novelibre screenshot](images/tools_menu01.png)
@@ -87,7 +87,7 @@ With **Strumenti > Gestore dei plugin**, you can open the
 
 ### How to uninstall a plugin
 
-Select the plugin, and click on the **${Uninstall}** button.
+Select the plugin, and click on the **Disinstalla** button.
 
 > **About version compatibility**
 > 
@@ -96,27 +96,27 @@ Select the plugin, and click on the **${Uninstall}** button.
 > 
 > `<major version number>.<minor version number>.<patch level>`
 > 
-> In the **novelibre API** column, you see the plugin's compatibility
+> In the **API novelibre** column, you see the plugin's compatibility
 > information, consisting of two numbers that are separated by points.
 > 
 > `<major version number>.<minor version number>`
 > 
 > ### The rule for compatibility
 > 
-> -   The plugin's *novelibre API* major version number must be the
+> -   The plugin's *API novelibre* major version number must be the
 >     same as *novelibre's* major version number.
-> -   The plugin's *novelibre API* minor version number must be less
+> -   The plugin's *API novelibre* minor version number must be less
 >     than or equal to *novelibre's* minor version number.
 > 
 > ### Fix incompatibilities
 > 
-> -   If the plugin's *novelibre API* major version number is greater
+> -   If the plugin's *API novelibre* major version number is greater
 >     than *novelibre's* major version number, *novelibre* needs to be
 >     updated.
-> -   If the plugin's *novelibre API* major version number is less
+> -   If the plugin's *API novelibre* major version number is less
 >     than *novelibre's* major version number, the plugin needs to be
 >     updated.
-> -   If the plugin's *novelibre API* minor version number is greater
+> -   If the plugin's *API novelibre* minor version number is greater
 >     than *novelibre's* minor version number, *novelibre* needs to be
 >     updated.
 

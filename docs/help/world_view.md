@@ -1,8 +1,8 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Località/Oggetto properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Luogo/Oggetto properties
 
 ---
 
-# Località/Oggetto properties
+# Luogo/Oggetto properties
 
 The Location/item properties view opens in the right pane when you
 select a location or an item in the tree.
@@ -17,12 +17,12 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## soprannome
+## AKA
 
 This entry field is for alias names. Editing can be completed by
 pressing the `Enter` key.
 
-## Annotazioni
+## Etichette
 
 Tags are a very freely usable tool for labeling locations and items in
 the tree view. 
@@ -86,7 +86,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
@@ -128,12 +128,12 @@ in the plot line row.
 ### Location view
 
 -   **Precedente** lets you navigate to the previous location in the tree.
--   **Prossimo** lets you navigate to the next location in the tree.
+-   **Successivo** lets you navigate to the next location in the tree.
 
 ### Item view
 
 -   **Precedente** lets you navigate to the previous item in the tree.
--   **Prossimo** lets you navigate to the next item in the tree.
+-   **Successivo** lets you navigate to the next item in the tree.
 
 ---
 

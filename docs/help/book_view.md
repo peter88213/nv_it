@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Libro properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Libro properties
 
 ---
 
@@ -57,7 +57,7 @@ Expand or collapse this frame by clicking on the label.
 
 ![novelibre screenshot](images/book_view03.png)
 
-### Numera automaticamente i capitoli, Numera automaticamente le parti
+### Numera capitoli automaticamente all'aggiornamento dell'albero, Numera parti automaticamente all'aggiornamento dell'albero
 
 If this checkbox is ticked, all chapters/parts are automatically
 numbered each time the tree is refreshed. The chapter titles are
@@ -75,19 +75,19 @@ Prefix and suffix entries can be completed by pressing the `Enter` key.
 > Make sure to add a space character to separate the prefix or suffix from
 > the chapter or part number.
 
-### Usa numeri di capitolo romani
+### Usa numeri romani per i capitoli
 
 By default, arabic numbers, like "1", "2", "3" ... are used
 for auto-numbering. If this checkbox is ticked, Roman numbers, like
 "I", "II", "III", "IV" ... are used instead.
 
-### Ricomincia numerazione all'inizio della parte
+### Ricomincia numerazione capitoli all'inizio della parte
 
 By default, the chapters are numbered consistently across the parts.
 If this checkbox is ticked, the chapter numbering starts again with
 "1" in each part.
 
-## Nome del campo
+## Nomi dei campi
 
 Expand or collapse this frame by clicking on the label.
 
@@ -122,7 +122,7 @@ you can open in the character properties view.
 > You can reset a field name to its default value by clearing the input
 > field and pressing the Enter key.
 
-## Tempo narrativo
+## Tempo della storia
 
 Expand or collapse this frame by clicking on the label.
 
@@ -149,12 +149,12 @@ Format: *YYYY-MM-DD*, according to ISO 8601.
 > displayed along with the unspecific date,
 > and ages can be calculated for related characters.
 
-### Converto le date in giorni
+### Converti date in giorni
 
 This transforms specific section dates into days, related to the
 reference date.
 
-### Converto i giorni in date
+### Converti giorni in date
 
 This transforms unspecific section dates into specific ones, using
 the reference date.
@@ -163,14 +163,14 @@ the reference date.
 > 
 > For large novels, the conversion may take some time, depending on your
 > system. During the conversion time, the clicked button will display
-> *"Attendere prego..."*.
+> *"Attendere ..."*.
 
 > **Hint**
 > 
 > The commands above convert all dated sections at once. If you want to do
 > the conversion for single sections, just go to the Section properties.
 
-## Avanzamento della scrittura
+## Progressi di scrittura
 
 Expand or collapse this frame by clicking on the label.
 
@@ -184,11 +184,11 @@ progress.
 > Regardless of the entries made here, you can see the word count in the
 > status bar at any time.
 
-### Registrare i progressi di scrittura
+### Registra progressi di scrittura
 
 By default, *novelibre* stores a log entry with the word counts for
 each day on which you edit the project. You can prevent this by
-unticking the **Registrare i progressi di scrittura** checkbox.
+unticking the **Registra progressi di scrittura** checkbox.
 
 > **Hint**
 > 
@@ -201,25 +201,25 @@ Here you can enter a number (without decimal points or separators)
 indicating your writing goal in words. The entry can be completed by
 pressing the `Enter` key.
 
-### Inizia conteggio
+### Conteggio iniziale
 
 Here you can enter a number (without decimal points or separators)
 indicating the word count you want to start from. The entry can be
 completed by pressing the `Enter` key.
 
-### Imposta l'attuale conteggio parole come inizio
+### Imposta conteggio parole attuale come inizio
 
 Click this button to enter your current word count in the 
-**Inizia conteggio** field.
+**Conteggio iniziale** field.
 
 ### Parole scritte
 
 Here the difference between your actual word count and the starting
 count is displayed. The percentage refers to the words to write.
 
-### Fase di lavorazione
+### Fase di lavoro
 
-This setting is for the tree viewer "Fase di lavorazione" coloring mode.
+This setting is for the tree viewer "Fase di lavoro" coloring mode.
 
 -   Sections with the same completion status as the selected work
     phase are black.
@@ -270,7 +270,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard

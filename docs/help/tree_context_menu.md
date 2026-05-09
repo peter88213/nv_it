@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Tree view context menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Tree view context menu
 
 ---
 
@@ -17,11 +17,11 @@ opens that belongs to the type of the selected element.
 
 Shows the whole tree.
 
-### Riduci tutto
+### Comprimi tutto
 
 Hides all tree elements except the main categories.
 
-### Livello del Capitolo
+### Livello capitolo
 
 Hides the sections by collapsing the tree, so that only parts and
 chapters are visible.
@@ -57,7 +57,7 @@ Same as ${`Ctrl`}-`V`.
 
 ## Libro context menu entries
 
-### Aggiungi Sezione
+### Aggiungi sezione
 
 Adds a new section.
 
@@ -74,7 +74,7 @@ Adds a new section.
 -   No plot line or tag assigned
 -   No date/time set
 
-### Aggiungi Capitolo
+### Aggiungi capitolo
 
 Adds a new chapter.
 
@@ -83,7 +83,7 @@ Adds a new chapter.
 -   The new chapter has an auto-generated title. You can change it in
     the right pane.
 
-### Aggiungi Parte
+### Aggiungi parte
 
 Adds a new part.
 
@@ -95,7 +95,7 @@ Adds a new part.
 -   The new part has an auto-generated title. You can change it in the
     right pane.
 
-### Inserire Fase
+### Inserisci fase
 
 Inserts a new stage at the next free position at stage level after the
 selection.
@@ -104,12 +104,12 @@ selection.
     right pane.
 -   The new stage is on the second level by default.
 
-### Modifica livello
+### Cambia livello
 
 Changes the level of a chapter or a stage.
 
--   **primo livello** converts a selected chapter into a part.
--   **secondo livello** converts a selected part into a chapter.
+-   **1º Livello** converts a selected chapter into a part.
+-   **2º Livello** converts a selected part into a chapter.
 
 ### Esporta questo capitolo
 
@@ -123,12 +123,12 @@ confirmation is required before exporting.
 > If you overwrite it before reimporting, changes to other chapters may be
 > lost.
 
-### Cancella
+### Elimina
 
 Deletes the selected tree element and its children.
 
 -   Parts and chapters are deleted.
--   Sections are marked "Non utilizzato" and moved to the "Cestino" chapter.
+-   Sections are marked "Non usato" and moved to the "Cestino" chapter.
 -   Deleting a part has no effect on its subordinate chapters.
 -   Deleting a chapter moves its sections to the "Cestino" chapter.
 -   The "Cestino" chapter is created automatically, if needed.
@@ -137,12 +137,12 @@ Deletes the selected tree element and its children.
 ### Imposta tipo
 
 Sets the type of the selected chapter or section. This can be 
-*Normale* or *Non utilizzato*.
+*Normale* or *Non usato*.
 
 > **Note**
 > 
-> Setting the type of a chapter to *Non utilizzato* will also make its sections
-> *Non utilizzato*.
+> Setting the type of a chapter to *Non usato* will also make its sections
+> *Non usato*.
 
 
 ### Imposta stato
@@ -153,7 +153,7 @@ Sets the completion status of the selected section.
 > 
 > Select a parent node to set the status for multiple sections.
 
-### Imposta POV
+### Imposta punto di vista...
 
 Sets or clears the viewpoint character of the selected section. A pop-up
 window with a dropdown list appears, containing all characters in the
@@ -191,7 +191,7 @@ with the same viewpoint.
 > 
 > Be aware, there is no "Undo" feature.
 
-## Personaggi/Località/Oggetti context menu entries
+## Personaggi/Luoghi/Oggetti context menu entries
 
 ### Aggiungi
 
@@ -202,7 +202,7 @@ Adds a new character/location/item.
     the right pane.
 -   The status of newly created characters is *minor*.
 
-### Esporta manoscritto filtrato per POV
+### Esporta manoscritto filtrato per punto di vista
 
 Exports a manuscript with the sections that have the selected character 
 as viewpoint. If a manuscript already exists, confirmation 
@@ -214,7 +214,7 @@ is required before exporting.
 > If you overwrite it before reimporting, changes to other sections may be
 > lost.
 
-### Esporta riassunti filtrati per POV
+### Esporta sinossi filtrata per punto di vista
 
 Exports the descriptions of the sections that have the selected character 
 as viewpoint. If a synopsis already exists, confirmation is required 
@@ -226,7 +226,7 @@ before exporting.
 > If you overwrite it before reimporting, changes to other section
 > descriptions may be lost.
 
-### Cancella
+### Elimina
 
 Deletes the selected character/location/item.
 
@@ -250,20 +250,20 @@ Major characters are highlighted in the tree view.
 > Select the *Personaggi* root node to set the status for all characters.
 
 
-### ${Highlight sections with this viewpoint}
+### Evidenzia sezioni con questo punto di vista
 
 Highlights the sections that are narrated from the viewpoint
 of the selected character.
 
 
-### ${Highlight related sections}
+### Evidenzia sezioni correlate
 
 Highlights the sections to which the selected character, location,
 or item is related.
 
 ## Plot lines context menu entries
 
-### Aggiungi Trama
+### Aggiungi linea narrativa
 
 Adds a new plot line
 
@@ -273,7 +273,7 @@ Adds a new plot line
 -   The new plot line has an auto-generated title. You can change it in
     the right pane.
 
-### Aggiungi Snodo nella Trama
+### Aggiungi punto di svolta
 
 Adds a new Plot point
 
@@ -285,7 +285,7 @@ Adds a new Plot point
 -   The new plot point has an auto-generated title. You can change it in
     the right pane.
 
-### Esporta manoscritto filtrato per trama
+### Esporta manoscritto filtrato per linea narrativa
 
 Exports a manuscript with the sections that belong to the selected 
 plot line. If a manuscript already exists, confirmation is required 
@@ -297,7 +297,7 @@ before exporting.
 > If you overwrite it before reimporting, changes to other sections may be
 > lost.
 
-### Esporta riassunti filtrati per trama
+### Esporta sinossi filtrata per linea narrativa
 
 Exports the descriptions of the sections that belong to the selected 
 plot line. If a synopsis already exists, confirmation is required 
@@ -309,18 +309,18 @@ before exporting.
 > If you overwrite it before reimporting, changes to other section
 > descriptions may be lost.
 
-### Modifica la sezione in Inutilizzata
+### Cambia sezioni in Non usate
 
 Set all sections that are assigned to the selected plot line to
-Non utilizzato. This excludes the entire plot line from the manuscript.
+Non usato. This excludes the entire plot line from the manuscript.
 
-### Modifica la sezione in Normale
+### Cambia sezioni in Normali
 
 Set all sections that are assigned to the selected plot line to
 Normale. This allows a plot line that has been excluded to be 
 reintegrated into the manuscript.
 
-### Cancella
+### Elimina
 
 Deletes the selected plot line/plot point.
 
@@ -330,7 +330,7 @@ Deletes the selected plot line/plot point.
 > its plot points will be deleted, too.
 
 
-### ${Highlight related sections}
+### Evidenzia sezioni correlate
 
 Highlights the sections that are related to the selected plot line
 or plot point.
@@ -339,7 +339,7 @@ or plot point.
 
 ## Project notes context menu entries
 
-### Aggiungi Nota di Progetto
+### ${Add Project note}
 
 Adds a new project note.
 

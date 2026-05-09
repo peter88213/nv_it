@@ -1,4 +1,4 @@
-novelibre [Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [Aiuto in linea](../) > nv_updater
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [${Online help}](../) > nv_updater
 
 ---
 
@@ -8,16 +8,16 @@ novelibre [Pagina principale](https://github.com/peter88213/novelibre) > [Pagine
 
 This page refers to the latest
 [nv_updater](https://github.com/peter88213/nv_updater/) release. You can
-open it with **Aiuto > ${Update checker Online help}**.
+open it with **${Help} > ${Update checker Online help}**.
 
 The plugin adds a **${Check for updates}** entry to the *novelibre*
-**Strumenti** menu, and an **${Update checker Online help}** entry to the
-**Aiuto** menu.
+**${Tools}** menu, and an **${Update checker Online help}** entry to the
+**${Help}** menu.
 
 ## Start the update checker
 
 Open the update checker from the main menu: 
-**Strumenti > ${Check for updates}**.
+**${Tools} > ${Check for updates}**.
 
 A list pops up, showing installed software components and their version
 information. Outdated list entries are colored red.
@@ -47,16 +47,16 @@ blue.
 > installation files with the downloaded releases will end up there.
 > You then perform the actual installation manually as usual.
 
-#### Pagina principale
+#### ${Home page}
 
 starts your web browser with the home page of the selected software
 component. There you can see e.g. the changelog.
 
-#### Aiuto in linea (or F1)
+#### ${Online help} (or F1)
 
 starts your web browser with this page of the user guide.
 
-#### Chiudi
+#### ${Close}
 
 Closes the update manager window and stops pending version checks.
 

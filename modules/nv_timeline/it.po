@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.5.0\n"
 "POT-Creation-Date: 2025-11-12 11:31:18\n"
-"PO-Revision-Date: 2025-11-18 22:54:58\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -17,10 +17,10 @@ msgid "!No {} file available for this project."
 msgstr ""
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Alt-Down"
 msgstr "Alt-Giù"
@@ -95,7 +95,7 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "No {} file available for this project."
 msgstr ""
@@ -110,10 +110,10 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Peak emotional moment"
-msgstr "Culmine emotivo"
+msgstr "Momento emotivo clou"
 
 msgid "Plot progress"
-msgstr "Progresso della trama"
+msgstr "Progressi trama"
 
 msgid "Save the project and update it?"
 msgstr ""
@@ -125,7 +125,7 @@ msgid "Shift"
 msgstr "Maiusc"
 
 msgid "There are unsaved changes"
-msgstr "Ci sono delle modifiche da salvare"
+msgstr "Ci sono modifiche non salvate"
 
 msgid "Timeline plugin Online help"
 msgstr ""
@@ -137,7 +137,7 @@ msgid "Update the timeline?"
 msgstr ""
 
 msgid "World building"
-msgstr "Creazione del mondo"
+msgstr "Costruzione del mondo"
 
 msgid "create"
 msgstr ""
@@ -156,4 +156,3 @@ msgstr ""
 
 msgid "{0} file is {1} than the novelibre project.\n (last saved on {2})"
 msgstr ""
-

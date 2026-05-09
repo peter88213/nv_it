@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Importa menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Importa menu
 
 ---
 
@@ -25,16 +25,16 @@ reimported, thus updating the current project.
     **Importa** button.
 
 -   You can discard documents by selecting them and clicking on the
-    **Scartare** button.
+    **Scarta** button.
 
      > **Hint**
      >
-     > Scartare means: Rename by adding the extension *.bak* to the file
+     > Scarta means: Rename by adding the extension *.bak* to the file
      > name.
 
 -   After closing a listed document in *Writer* while the 
     *Documenti esportati* window is open, you can click on the 
-    **Rigenera vista** button.
+    **Aggiorna visualizzazione** button.
 
 ## Discarding documents after updating the project
 
@@ -43,16 +43,16 @@ reimport in order to avoid confusion about the changed section or
 chapter structure. Concerning reimported documents that do not require
 modifying the project structure, you have three choices:
 
-### Scartare i documenti solo se le sezioni sono state suddivise
+### Scarta i documenti solo quando le sezioni vengono divise
 
 This is the default behavior. The ODF documents are kept for future use.
 
-### Elimina sempre i documenti dopo l'importazione
+### Scarta sempre i documenti dopo l'importazione
 
 After updating the *novelibre* project from an reimported ODF
 document, this document is automatically discarded.
 
-### Importa documento anche se è bloccato, non scartare.
+### Importa documenti anche se bloccati; non scartare
 
 This is for fast and frequent project updates while keeping the ODF
 documents open in *Writer* or *Calc* for editing.

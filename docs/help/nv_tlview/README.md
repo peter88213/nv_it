@@ -1,4 +1,4 @@
-novelibre [Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [Aiuto in linea](../) > nv_tlview
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [${Online help}](../) > nv_tlview
 
 ---
 
@@ -8,13 +8,13 @@ novelibre [Pagina principale](https://github.com/peter88213/novelibre) > [Pagine
 
 This page refers to the latest
 [nv_tlview](https://github.com/peter88213/nv_tlview/) release. You can
-open it with **Aiuto > ${Timeline view Online help}** or with `F1`.
+open it with **${Help} > ${Timeline view Online help}** or with `F1`.
 
 *nv_tlview* is a plugin providing a timeline view with sections that are
 given a narrative date/day and time.
 
-The plugin adds a **${Timeline view}** entry to the *novelibre* **Strumenti**
-menu, and a **${Timeline view Online help}** entry to the **Aiuto** menu.
+The plugin adds a **${Timeline view}** entry to the *novelibre* **${Tools}**
+menu, and a **${Timeline view Online help}** entry to the **${Help}** menu.
 The Toolbar gets a ![Timeline](images/tlview.png) button.
 
 ![novelibre Screenshot](images/screen01.png)
@@ -24,18 +24,18 @@ The Toolbar gets a ![Timeline](images/tlview.png) button.
 ### Start the Timeline view
 
 -   Open the Timeline view either from the main menu: 
-    **Strumenti > ${Timeline view}**,
+    **${Tools} > ${Timeline view}**,
 -   or via the ![Timeline](images/tlview.png) button in the toolbar.
 
 ### Mouse scrolling
 
--   Scroll the timeline horizontally with `Maiusc`-`Mousewheel`.
+-   Scroll the timeline horizontally with `${Shift}`-`Mousewheel`.
 -   Scroll the timeline vertically with the mousewheel.
 -   Scroll the timeline in any direction by right-clicking on the canvas
     and dragging the mouse.
--   Increase or reduce the time scale with `Ctrl`-`Mousewheel`.
+-   Increase or reduce the time scale with `${Ctrl}`-`Mousewheel`.
 -   Change the distance limits for stacking with
-    `Maiusc`-`Ctrl`-`Mousewheel`.
+    `${Shift}`-`${Ctrl}`-`Mousewheel`.
 
 ### Selecting a section in the *novelibre* project tree
 
@@ -44,13 +44,13 @@ The Toolbar gets a ![Timeline](images/tlview.png) button.
 
 ### Shifting a section in time
 
--   Hold down the `Maiusc` button and click on the timeline marker, then
+-   Hold down the `${Shift}` button and click on the timeline marker, then
     drag it with the mouse. This will move the section forward or
     backward in time while keeping the duration.
 
 ### Shifting the section end
 
--   Hold down the `Ctrl` and `Maiusc` buttons and click on the timeline
+-   Hold down the `${Ctrl}` and `${Shift}` buttons and click on the timeline
     marker, then drag it with the mouse. This will increase or decrease
     the section's duration while keeping the start date/time.
 
@@ -65,7 +65,7 @@ The Toolbar gets a ![Timeline](images/tlview.png) button.
 
 ## Command reference
 
-### "Vai a menu
+### "${Go to} menu
 
 #### ${First section}
 
@@ -84,11 +84,11 @@ project tree is positioned in the center of the window.
 
 ### "${Scale} menu
 
-#### Ore
+#### ${Hours}
 
 This sets the scale to one hour per line.
 
-#### Giorni
+#### ${Days}
 
 This sets the scale to one day per line.
 
@@ -122,19 +122,19 @@ Reset the cascading to default.
 
 > **Hint**
 > 
-> You can fine-tune the stacking limits with `Maiusc`-`Ctrl`-`Mousewheel`.
+> You can fine-tune the stacking limits with `${Shift}`-`${Ctrl}`-`Mousewheel`.
 
 
-### "Opzioni menu
+### "${Options} menu
 
 #### ${Use 00:00 for missing times}
 
 -   If ticked, "00:00" is used as display time for sections without time information. This does not affect the section properties.
 -   If unticked, sections without time information are not displayed.
 
-### "Aiuto menu
+### "${Help} menu
 
-#### Aiuto in linea
+#### ${Online help}
 
 Open this help page in a web browser.
 
@@ -193,7 +193,7 @@ This restores date/time/duration before the last mouse operation on a section.
 
 #### Close
 
-Close the timeline viewer window. Same as `Ctrl`-`Q` (Linux) or `Alt`-`F4` (Windows).
+Close the timeline viewer window. Same as `${Ctrl}`-`Q` (Linux) or `Alt`-`F4` (Windows).
 
 
 ---

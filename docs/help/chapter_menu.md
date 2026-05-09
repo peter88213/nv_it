@@ -1,16 +1,16 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Capitolo menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Capitolo menu
 
 ---
 
 # Capitolo menu
 
-**Chapter operation**
+**Chapter/part operation**
 
-## Aggiungi Capitolo
+## Aggiungi capitolo
 
 **Add a new chapter**
 
-With **Capitolo > Aggiungi Capitolo**, you can add a chapter to the tree.
+With **Capitolo > Aggiungi capitolo**, you can add a chapter to the tree.
 
 -   The new chapter is placed at the next free position after the
     selection, if possible.
@@ -24,12 +24,11 @@ With **Capitolo > Aggiungi Capitolo**, you can add a chapter to the tree.
 > To automatically name the new chapter and, if necessary, place it above
 > the "Trash Bin," subsequently press `F5`.
 
-
-## Aggiungi Parte
+## Aggiungi parte
 
 **Add a new part**
 
-With **Capitolo > Aggiungi Parte**, you can add a part to the tree.
+With **Capitolo > Aggiungi parte**, you can add a part to the tree.
 
 -   The new part is placed at the next free position on the chapter
     level after the selection, if possible.
@@ -38,12 +37,11 @@ With **Capitolo > Aggiungi Parte**, you can add a part to the tree.
 -   The new part has an auto-generated title. You can change it in the
     right pane.
 
-
-## Aggiungi più Capitoli
+## Aggiungi capitoli multipli...
 
 **Add new chapters in bulk**
 
-With **Capitolo > Aggiungi più Capitoli**, you can add up to 20
+With **Capitolo > Aggiungi capitoli multipli...**, you can add up to 20
 chapters to the tree.
 
 -   You will be prompted to enter the number of new chapters.
@@ -58,31 +56,27 @@ chapters to the tree.
 > To automatically name the new chapters and, if necessary, place them
 > above the "Trash Bin," subsequently press `F5`.
 
----
-
 ## Imposta tipo
 
 **Set the type of the selected chapters**
 
 With **Capitolo > Imposta tipo**, you can set the
-type of the selected chapter to *Normale* or *Non utilizzato* .
+type of the selected chapter to *Normale* or *Non usato* .
 
 > **Note**
 > 
-> Setting the type of a chapter to *Non utilizzato* will also make its sections
-> *Non utilizzato*.
+> Setting the type of a chapter to *Non usato* will also make its sections
+> *Non usato*.
 
-## Modifica livello
+## Cambia livello
 
 **Change the level of the selected chapters**
 
-With **Capitolo > Modifica livello**, you can turn chapters into parts and
+With **Capitolo > Cambia livello**, you can turn chapters into parts and
 vice versa.
 
--   **primo livello** converts the selected chapters into parts.
--   **secondo livello** converts the selected parts into chapters.
-
----
+-   **1º Livello** converts the selected chapters into parts.
+-   **2º Livello** converts the selected parts into chapters.
 
 ## Sposta i capitoli selezionati in un nuovo progetto
 
@@ -95,13 +89,11 @@ from the current project and pasted into an auto-generated project whose
 file path you define with a file selection dialog. All relationships of
 the moved sections are retained.
 
----
-
-## Esporta la descrizione del capitolo per la modifica
+## Esporta descrizioni capitolo per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Capitolo > Esporta la descrizione del capitolo per la modifica**, you can
+With **Capitolo > Esporta descrizioni capitolo per la modifica**, you can
 create a text document that contains a **brief synopsis** with
 part/chapter headings and chapter descriptions that can be edited and
 reimported. File name suffix is `_chapters_tmp`.
@@ -119,11 +111,12 @@ reimported. File name suffix is `_chapters_tmp`.
    > Documents with new parts or chapters are automatically
    > discarded after the *novelibre* project is updated.
 
-## Esporta descrizione parte per modifica
+
+## Esporta descrizioni parte per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Capitolo > Esporta descrizione parte per modifica**, you can create a
+With **Capitolo > Esporta descrizioni parte per la modifica**, you can create a
 text document that contains a **very brief synopsis** with part headings
 and part descriptions. File name suffix is `_parts_tmp`.
 
@@ -138,12 +131,11 @@ and part descriptions. File name suffix is `_parts_tmp`.
    > Documents with new parts or chapters are automatically
    > discarded after the *novelibre* project is updated.
 
-
-## Esporta tabella capitolo
+## Esporta tabella capitoli
 
 **Export an ODS document that can be imported again after editing**
 
-With **Capitolo > Esporta tabella capitolo**, you can create a spreadsheet
+With **Capitolo > Esporta tabella capitoli**, you can create a spreadsheet
 that contains a row per chapter. The document can be edited with *Calc*
 and reimported. File name suffix is `_chapterlist_tmp`.
 
@@ -154,11 +146,11 @@ and reimported. File name suffix is `_chapterlist_tmp`.
 > default, must not be changed as they contain the structural information
 > for the import.
 
-## Esporta tabella parte
+## Esporta tabella parti
 
 **Export an ODS document that can be imported again after editing**
 
-With **Capitolo > Esporta tabella parte**, you can create a spreadsheet that
+With **Capitolo > Esporta tabella parti**, you can create a spreadsheet that
 contains a row per part. File name suffix is `_partlist_tmp`.
 
 > **Note**

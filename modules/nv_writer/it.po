@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.1.6\n"
 "POT-Creation-Date: 2026-04-03 13:17:56\n"
-"PO-Revision-Date: 2026-04-24 13:14:33\n"
+"PO-Revision-Date: 2026-05-09 18:47:11\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -15,10 +15,10 @@ msgstr ""
 
 
 msgid "1st Edit"
-msgstr "prima stesura"
+msgstr "1ª Revisione"
 
 msgid "2nd Edit"
-msgstr "seconda stesura"
+msgstr "2ª Revisione"
 
 msgid "Amber"
 msgstr ""
@@ -45,7 +45,7 @@ msgid "Characterization"
 msgstr "Caratterizzazione"
 
 msgid "Clone"
-msgstr ""
+msgstr "Clona"
 
 msgid "Close"
 msgstr "Chiudi"
@@ -105,7 +105,7 @@ msgid "Edit"
 msgstr ""
 
 msgid "Editable manuscript"
-msgstr "Manoscritto editabile"
+msgstr "Manoscritto modificabile"
 
 msgid "Editing not possible"
 msgstr ""
@@ -144,7 +144,7 @@ msgid "Menu on/off"
 msgstr ""
 
 msgid "Minor Character"
-msgstr "Personaggio minore"
+msgstr "Personaggio secondario"
 
 msgid "Modified"
 msgstr ""
@@ -156,10 +156,10 @@ msgid "New"
 msgstr "Nuovo"
 
 msgid "Next"
-msgstr "Prossimo"
+msgstr "Successivo"
 
 msgid "Online help"
-msgstr "Aiuto in linea"
+msgstr "Aiuto online"
 
 msgid "Open new line"
 msgstr ""
@@ -177,7 +177,7 @@ msgid "Paste"
 msgstr "Incolla"
 
 msgid "Peak emotional moment"
-msgstr "Culmine emotivo"
+msgstr "Momento emotivo clou"
 
 msgid "PgDn"
 msgstr ""
@@ -189,7 +189,7 @@ msgid "Plain"
 msgstr ""
 
 msgid "Plot progress"
-msgstr "Progresso della trama"
+msgstr "Progressi trama"
 
 msgid "Previous"
 msgstr "Precedente"
@@ -219,7 +219,7 @@ msgid "Split"
 msgstr ""
 
 msgid "Status"
-msgstr "Status"
+msgstr "Stato"
 
 msgid "Strong emphasis"
 msgstr ""
@@ -228,7 +228,7 @@ msgid "Swap characters"
 msgstr ""
 
 msgid "Tagged manuscript for proofing"
-msgstr "Manoscritto annotato per la revisione"
+msgstr "Manoscritto etichettato per correzione bozze"
 
 msgid "UPPERCASE"
 msgstr ""
@@ -240,7 +240,7 @@ msgid "Untitled"
 msgstr ""
 
 msgid "View"
-msgstr "Vista"
+msgstr "Visualizza"
 
 msgid "White"
 msgstr ""
@@ -249,7 +249,7 @@ msgid "Word count"
 msgstr ""
 
 msgid "World building"
-msgstr "Creazione del mondo"
+msgstr "Costruzione del mondo"
 
 msgid "Write in distraction free mode"
 msgstr ""

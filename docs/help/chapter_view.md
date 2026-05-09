@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Capitolo/Parte properties
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Capitolo/Parte properties
 
 ---
 
@@ -11,7 +11,7 @@ selected chapter or part.
 > **Hint**
 > 
 > You can change any chapter into a part or vice versa via the 
-> **Modifica livello** entry in the context menu, 
+> **Cambia livello** entry in the context menu, 
 > the **Parte** menu, or the **Capitolo** menu.
 
 ![Screenshot](images/chapter_view01.png)
@@ -32,9 +32,9 @@ anywhere outside the text input field.
 > numbering is activated and the selected chapter or part is not excluded
 > from auto numbering (see below).
 
-## Non utilizzato
+## Non usato
 
-With the **Non utilizzato** checkbox, you can change the chapter type.
+With the **Non usato** checkbox, you can change the chapter type.
 
 ## Non numerare automaticamente questo capitolo/Non numerare automaticamente questa parte
 
@@ -90,7 +90,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![Rimuovi](images/remove.png) or pressing the `Canc`
 key, the selected link is removed from the list.
 
-### Aprire Link
+### Apri Link
 
 When double-clicking on a link, or clicking on
 ![Vai a](images/goto.png), the link is opened with the standard
@@ -133,12 +133,12 @@ in the plot line row.
 ### Capitolo view
 
 -   **Precedente** lets you navigate to the previous chapter in the tree.
--   **Prossimo** lets you navigate to the next chapter in the tree.
+-   **Successivo** lets you navigate to the next chapter in the tree.
 
 ### Part view
 
 -   **Precedente** lets you navigate to the previous part in the tree.
--   **Prossimo** lets you navigate to the next part in the tree.
+-   **Successivo** lets you navigate to the next part in the tree.
 
 ---
 

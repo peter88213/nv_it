@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > The Workspace
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > The Workspace
 
 ---
 
@@ -16,8 +16,8 @@ The project tree in the left pane shows the organization of the project.
 
 -  The tree elements are color-coded according to the section type.
    *Normale* type sections are highlighted according to the selected
-   coloring mode (see *Opzioni* in the Vista menu).
--  The order of the columns can be changed (see *Opzioni* in the Vista menu).
+   coloring mode (see *Opzioni* in the Visualizza menu).
+-  The order of the columns can be changed (see *Opzioni* in the Visualizza menu).
 -  Right-clicking on a tree element opens a context menu with several options.
 -  The type of chapters and sections, as well as the completion status
    of the sections are color coded and can be changed via context menu.
@@ -28,7 +28,7 @@ The project tree in the left pane shows the organization of the project.
 
 -   The **Libro** branch contains the parts, chapters, and sections that
     belong to the novel manuscript.
--   The **Personaggi/Località/Oggetti** branches contain descriptions of
+-   The **Personaggi/Luoghi/Oggetti** branches contain descriptions of
     the story world's elements that can be associated with the book's sections.
 -   The **Linee narrative** branch contains the plot lines and plot points.
 -   The **Note di progetto** branch contains project notes.
@@ -76,7 +76,7 @@ Drag and drop while holding down the `Alt` key.
 Select the element to delete and hit the `Del` key.
 
 -   Parts and chapters are deleted.
--   Sections are marked "Non utilizzato" and moved to the "Trash" chapter.
+-   Sections are marked "Non usato" and moved to the "Trash" chapter.
 -   Deleting a part has no effect on its subordinate chapters.
 -   Deleting a chapter moves its sections to the "Trash" chapter.
 -   The "Trash" chapter is created automatically, if needed.
@@ -108,7 +108,7 @@ The **Text viewer** in the middle pane shows the part/chapter/section
 contents with their titles as headings.
 
 -   You can open or close the middle pane with the Text viewer with
-    **Vista > Mostra/nascondi il visualizzatore di testi**, or `Ctrl`-`T`, or clicking on
+    **Visualizza > Mostra/Nascondi visualizzatore testo**, or `Ctrl`-`T`, or clicking on
     ![Toggle Text viewer](images/viewer.png).
 -   On opening, the text viewer shows the text where the tree is selected.
 -   When changing the tree selection, the text moves along.
@@ -119,7 +119,7 @@ contents with their titles as headings.
     install an editor plugin, such as
     [nv_editor](https://github.com/peter88213/nv_editor/).
 -   Section text is color-coded according to the section type.
--   With the **Mostra Markup** checkbox, XML markup can be shown/hidden.
+-   With the **Mostra markup** checkbox, XML markup can be shown/hidden.
 
 ## Properties
 
@@ -128,11 +128,11 @@ metadata of the element selected in the project tree.
 
 -   The project settings can be made in the *Book* properties view.
 -   You can open or close the element properties window with
-    **Vista > Mostra/Nascondi Proprietà** or `Ctrl`-`Alt`-`T`, or clicking on 
+    **Visualizza > Mostra/Nascondi proprietà** or `Ctrl`-`Alt`-`T`, or clicking on 
     ![Toggle Properties](images/properties.png).
 -   On opening, the windows shows the editable properties of the selected element.
 -   You can detach or dock the element properties window with 
-    **Vista > Stacca/Aggancia Proprietà** or `Ctrl`-`Alt`-`D`.
+    **Visualizza > Stacca/Aggancia proprietà** or `Ctrl`-`Alt`-`D`.
 -   On closing the detached window, the properties are docked again.
 
 On large screens, you can arrange *novelibre* and *Writer* with detached windows.

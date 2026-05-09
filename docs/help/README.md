@@ -1,28 +1,27 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > Aiuto in linea
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > Aiuto online
 
 ---
 
-# ![N](../img/nLogo32.png) ![Italiano](../img/italy.png) novelibre Aiuto in linea
+# ![N](../img/nLogo32.png) ![Italiano](../img/italy.png) novelibre Aiuto online
 
-Questa pagina si riferisce all'applicazione 
-[novelibre](https://github.com/peter88213/novelibre/). 
-È possibile aprirla con **Aiuto \> Guida utente Online**.
+This page refers to the
+[novelibre](https://github.com/peter88213/novelibre/) application. 
+You can open it with **Aiuto > ${Online user guide}**.
 
-Qui trovate le pagine di aiuto più importanti del manuale utente di novelibre. 
-Maggiori informazioni sull'installazione e la disinstallazione di novelibre, 
-dettagli interessanti sul concetto di utilizzo e guide pratiche sono disponibili 
-nella [versione inglese](https://peter88213.github.io/nvhelp-en/).
+Here you will find the most important help pages from the novelibre user manual. 
+More information on installing and uninstalling novelibre, interesting details 
+on the user concept, and "How To" guides can be found in the 
+[English version](https://peter88213.github.io/nvhelp-en/). 
 The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
 provides further detailed instructions in English.
 
-È inoltre disponibile un [wiki](https://github.com/peter88213/nv_it/wiki)
-in cui gli utenti possono pubblicare ulteriori istruzioni, 
-consigli e tutorial in lingua italiana.
+There is also a [wiki](https://github.com/peter88213/nv_it/wiki) 
+where users can publish further instructions, tips, and tutorials in xxx.
 
- 
+
 > **Note**
 > 
-> This online manual is to be translated into Italian. 
+> This online manual is to be translated. 
 > For the time being, most of the content is in English, but the terms of the
 > user interface are consistently referred to in their translated form.
 
@@ -36,11 +35,11 @@ consigli e tutorial in lingua italiana.
 ## Command reference
 
 - [File menu](file_menu.md)
-- [Vista menu](view_menu.md)
+- [Visualizza menu](view_menu.md)
 - [Capitolo menu](chapter_menu.md)
 - [Sezione menu](section_menu.md)
 - [Personaggi menu](characters_menu.md)
-- [Località menu](locations_menu.md)
+- [Luoghi menu](locations_menu.md)
 - [Oggetti menu](items_menu.md)
 - [Trama menu](plot_menu.md)
 - [Note di progetto menu](project_notes_menu.md)
@@ -59,9 +58,9 @@ consigli e tutorial in lingua italiana.
 - [Fase properties](stage_view.md)
 - [Sezione properties](section_view.md)
 - [Personaggio properties](character_view.md)
-- [Località/Oggetto properties](world_view.md)
+- [Luogo/Oggetto properties](world_view.md)
 - [Linea narrativa properties](plotline_view.md)
-- [Snodo della trama properties](point_view.md)
+- [Punto di svolta properties](point_view.md)
 - [Nota di progetto properties](project_note_view.md)
 
 

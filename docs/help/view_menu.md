@@ -1,20 +1,20 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Vista menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Visualizza menu
 
 ---
 
-# Vista menu
+# Visualizza menu
 
 **Control the display**
 
 
-## ${Highlight tagged elements}
+## Evidenzia elementi etichettati
 
-With **Vista > ${Highlight tagged elements}**,
+With **Visualizza > Evidenzia elementi etichettati**,
 you can highlight elements with a specified tag. This opens a tag selection dialog.
 
-## ${Reset Highlighting}
+## Annulla evidenziazione
 
-With **Vista > ${Reset Highlighting}**,
+With **Visualizza > Annulla evidenziazione**,
 you can reset the highlighting of tree elements.
 
 ---
@@ -22,85 +22,85 @@ you can reset the highlighting of tree elements.
 
 **Go to the "Libro" branch and expand it**
 
-With **Vista > Mostra libro**, you can select and open the "Libro" branch.
+With **Visualizza > Mostra libro**, you can select and open the "Libro" branch.
 
-## Visualizza Personaggi
+## Mostra personaggi
 
 **Go to the "Personaggi" branch and expand it**
 
-With **Vista > Visualizza Personaggi**, you can select and open the
+With **Visualizza > Mostra personaggi**, you can select and open the
 "Personaggi" branch.
 
-## Mostra Località
+## Mostra luoghi
 
 **Go to the "Locations" branch and expand it**
 
-With **Vista > Mostra Località**, you can select and open the
-"Località" branch.
+With **Visualizza > Mostra luoghi**, you can select and open the
+"Luoghi" branch.
 
-## Mostra Oggetti
+## Mostra oggetti
 
 **Go to the "Oggetti" branch and expand it**
 
-With **Vista > Mostra Oggetti**, you can select and open the "Oggetti"
+With **Visualizza > Mostra oggetti**, you can select and open the "Oggetti"
 branch.
 
-## Mostra Linee narrative
+## Mostra linee narrative
 
 **Go to the "Linee narrative" branch and expand it**
 
-With **Vista > Mostra Linee narrative**, you can select and open the 
+With **Visualizza > Mostra linee narrative**, you can select and open the 
 "Linee narrative" branch.
 
-## Mostra le note di progetto
+## Mostra note di progetto
 
 **Go to the "Note di progetto" branch and expand it**
 
-With **Vista > Mostra le note di progetto**, you can select and open the 
+With **Visualizza > Mostra note di progetto**, you can select and open the 
 "Note di progetto" branch.
 
 ---
 
-## Livello del Capitolo
+## Livello capitolo
 
 **Hide the sections**
 
-With **Vista > Livello del Capitolo** or `Ctrl`-`Alt`-`C`, you can collapse the
+With **Visualizza > Livello capitolo** or `Ctrl`-`Alt`-`C`, you can collapse the
 tree, so that only parts and chapters are visible.
 
 ## Espandi tutto
 
 **Show the whole tree**
 
-With **Vista > Espandi tutto**, you can expand the whole tree.
+With **Visualizza > Espandi tutto**, you can expand the whole tree.
 
-## Riduci tutto
+## Comprimi tutto
 
 **Hide child elements**
 
-With **Vista > Riduci tutto**, you can hide all tree elements except the
+With **Visualizza > Comprimi tutto**, you can hide all tree elements except the
 main categories.
 
 ## Espandi selezionati
 
 **Show a whole branch**
 
-With **Vista > Espandi selezionati**, you can expand a selected tree
+With **Visualizza > Espandi selezionati**, you can expand a selected tree
 element.
 
-## Riduci i selezionati
+## Comprimi selezionati
 
 **Hide child elements**
 
-With **Vista > Riduci i selezionati**, you can collapse a selected branch.
+With **Visualizza > Comprimi selezionati**, you can collapse a selected branch.
 
 ---
 
-## Mostra/nascondi il visualizzatore di testi
+## Mostra/Nascondi visualizzatore testo
 
 **Show/hide the novel text**
 
-With **Vista > Mostra/nascondi il visualizzatore di testi** or `Ctrl`-`T`, you can open 
+With **Visualizza > Mostra/Nascondi visualizzatore testo** or `Ctrl`-`T`, you can open 
 or close the text viewer window, showing part/chapter/section
 titles and section content.
 
@@ -109,11 +109,11 @@ titles and section content.
 > -   On reopening, the windows shows the text, where the tree is
 >     selected.
 
-## Mostra/Nascondi Proprietà
+## Mostra/Nascondi proprietà
 
 **Show/hide the selected element's properties**
 
-With **Vista > Mostra/Nascondi Proprietà** or `Ctrl`-`Alt`-`T`, you can open or
+With **Visualizza > Mostra/Nascondi proprietà** or `Ctrl`-`Alt`-`T`, you can open or
 close the element properties window.
 
 > **Hint**
@@ -121,12 +121,12 @@ close the element properties window.
 > On reopening, the window shows the properties of the currently selected
 > element.
 
-## Stacca/Aggancia Proprietà
+## Stacca/Aggancia proprietà
 
 **Show the selected element's properties either in the main window or in
 its own window**
 
-With **Vista > Stacca/Aggancia Proprietà** or `Ctrl`-`Alt`-`D`, you can
+With **Visualizza > Stacca/Aggancia proprietà** or `Ctrl`-`Alt`-`D`, you can
 detach or dock the element properties window .
 
 > **Hint**
@@ -137,7 +137,7 @@ detach or dock the element properties window .
 
 **Project independent program settings**
 
-With **Vista > Opzioni**, you can open a dialog for settings concerning
+With **Visualizza > Opzioni**, you can open a dialog for settings concerning
 the display.
 
 ![novelibre screenshot](images/view_menu02.png)
@@ -151,12 +151,12 @@ tree**
 
 Normale sections are black on white by default.
 
-#### Status
+#### Stato
 
 Normale sections are colored according to their completion status
-(*Struttura*, *Bozza*, *prima stesura*, *seconda stesura*, or *Fatto*).
+(*Struttura*, *Bozza*, *1ª Revisione*, *2ª Revisione*, or *Fatto*).
 
-#### Fase di lavorazione
+#### Fase di lavoro
 
 Normale sections are highlighted if their completion status does not
 match the work phase defined in the Libro properties.
@@ -166,7 +166,7 @@ match the work phase defined in the Libro properties.
 By default, the icon size is 16x16 pixels. If the *Icone grandi* checkbox
 is ticked, 24x24 icons are used after the next program startup.
 
-### Visualizzare date localizzate
+### Visualizza date localizzate
 
 -   If ticked, localized dates are displayed.
 -   If unticked, dates are displayed like *YYYY-MM-DD*, according to ISO

@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Oggetti menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Oggetti menu
 
 ---
 
@@ -31,23 +31,23 @@ Then you select the items you want to add to the current project.
 > **Hint**
 > 
 > To create an XML item data file for the current project, use
-> **Esporta > Files dati XML**.
+> **Esporta > File dati XML**.
 
 ---
 
-## Esporta descrizione oggetto per modifica
+## Esporta descrizioni oggetto per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Oggetti > Esporta descrizione oggetto per modifica**, you can create a
+With **Oggetti > Esporta descrizioni oggetto per la modifica**, you can create a
 text document that contains item descriptions that can be edited with
 *Writer* and reimported. File name suffix is `_items_tmp`.
 
-## Esporta tabella oggetto
+## Esporta tabella oggetti
 
 **Export an ODS document that can be imported again after editing**
 
-With **Oggetti > Esporta tabella oggetto**, you can create a spreadsheet that
+With **Oggetti > Esporta tabella oggetti**, you can create a spreadsheet that
 contains a row per item. The document can be edited with *Calc* and
 reimported. File name suffix is `_itemlist_tmp`.
 
@@ -60,11 +60,11 @@ reimported. File name suffix is `_itemlist_tmp`.
 
 ---
 
-## Mostra tabella in HTML
+## Mostra tabella nel browser
 
 **Show an HTML report with items data**
 
-With **Oggetti > Mostra tabella in HTML**, you can create a HTML file that
+With **Oggetti > Mostra tabella nel browser**, you can create a HTML file that
 contains an item table, and launch your system's web browser for
 displaying it.
 

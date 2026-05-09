@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto in linea](./) > Sezione menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../) > [Aiuto online](./) > Sezione menu
 
 ---
 
@@ -26,11 +26,11 @@ With **Sezione > Aggiungi**, you can add a section to the tree.
 -   No plot line or tag assigned
 -   No date/time set
 
-## Aggiungi più Sezioni
+## Aggiungi sezioni multiple...
 
 **Add new sections in bulk**
 
-With **Sezione > Aggiungi più Sezioni**, you can add up to 20
+With **Sezione > Aggiungi sezioni multiple...**, you can add up to 20
 sections to the tree.
 
 -   You will be prompted to enter the number of new sections.
@@ -46,7 +46,7 @@ sections to the tree.
 **Set the type of the selected section**
 
 With **Sezione > Imposta tipo**, you can set the type of the selected
-section to *Normale* or *Non utilizzato* .
+section to *Normale* or *Non usato* .
 
 > **Hint**
 > 
@@ -61,7 +61,7 @@ section to *Normale* or *Non utilizzato* .
 
 With **Sezione > Imposta stato**, you can set the completion status 
 of the selected section to 
-*Struttura*, *Bozza*, *prima stesura*, *seconda stesura*, or *Fatto*.
+*Struttura*, *Bozza*, *1ª Revisione*, *2ª Revisione*, or *Fatto*.
 
 > **Hint**
 > 
@@ -70,11 +70,11 @@ of the selected section to
 > -   Either select multiple sections, or
 > -   select a parent node (Capitolo or Libro)
 
-## Imposta POV
+## Imposta punto di vista...
 
 **Assign a viewpoint character to the section**
 
-With **Sezione > Imposta POV**, you open a pop-up window with a
+With **Sezione > Imposta punto di vista...**, you open a pop-up window with a
 dropdown list containing all characters in the tree view's sort order.
 Click on the character you want to assign as viewpoint character. If you
 click on the topmost entry (the blank one) of the list, this will clear
@@ -86,11 +86,11 @@ the viewpoint association.
 
 ---
 
-## Esporta descrizione sezione per modifica
+## Esporta descrizioni sezione per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Sezione > Esporta descrizione sezione per modifica**, you can
+With **Sezione > Esporta descrizioni sezione per la modifica**, you can
 create a text document with a **full synopsis** containing part/chapter
 headings and section descriptions that can be edited and reimported.
 File name suffix is `_sections_tmp`.
@@ -113,11 +113,11 @@ File name suffix is `_sections_tmp`.
 
 ---
 
-## Tabella della sezione (solo esportazione)
+## Tabella sezioni (solo esportazione)
 
 **Export an ODS document**
 
-With **Sezione > Tabella della sezione (solo esportazione)**, you can create a
+With **Sezione > Tabella sezioni (solo esportazione)**, you can create a
 spreadsheet with a row per section, containing the following data:
 
 -   Section ID (hidden)
@@ -145,7 +145,7 @@ spreadsheet with a row per section, containing the following data:
 > **Note**
 > 
 > Only "Normale" sections appear in the section table. Sections of the
-> "Non utilizzato" type are omitted.
+> "Non usato" type are omitted.
 
 File name suffix is `_sectionlist`.
 
@@ -156,11 +156,11 @@ to the plot grid).
 The section table is more intended for extracting the metadata of the
 writing project, for example, in the case of abandoning *novelibre*.
 
-## Mostra la tabella temporale
+## Mostra tabella temporale
 
 **Show an HTML report with a time table**
 
-With **Sezione > Mostra la tabella temporale**, you can create a HTML file that
+With **Sezione > Mostra tabella temporale**, you can create a HTML file that
 contains a time table, and launch your system's web browser for
 displaying it.
 
