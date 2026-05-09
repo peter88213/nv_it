@@ -1,6 +1,6 @@
 """Create help pages to translate.
 
-Reads the ../docs/index.md file entries, and creates the listed pages.
+Reads the ../docs/README.md file entries, and creates the listed pages.
 """
 import json
 import os
@@ -8,7 +8,7 @@ import re
 from my_template import MyTemplate
 
 help_dir = '../docs/help'
-index_page = f'{help_dir}/index.md'
+index_page = f'{help_dir}/README.md'
 json_dict = '../dictionary/msg_dict.json'
 page_link_pattern = re.compile(r'- \[(.*?)\]\((.*?)\)')
 page_template = '''[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Index](../) > [${Online help}](./) > $Heading
@@ -33,7 +33,7 @@ def translate_special_terms():
     for page_name in os.listdir(help_dir):
         page_path = f'{help_dir}/{page_name}'
         if not page_path.endswith('.md'):
-            page_path = f'{page_path}/index.md'
+            page_path = f'{page_path}/README.md'
             if not os.path.isfile(page_path):
                 continue
 

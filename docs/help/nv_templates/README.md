@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [${Online help}](../) > nv_templates
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [Aiuto online](../) > nv_templates
 
 ---
 
@@ -8,14 +8,14 @@
 
 This page refers to the latest
 [nv_templates](https://github.com/peter88213/nv_templates/) release. You
-can open it with **${Help} > ${Templates plugin Online help}**.
+can open it with **Aiuto > ${Templates plugin Online help}**.
 
 With *novelibre*, you can define a narrative structure with stages. 
 *nv_templates* faciliates the reuse of narrative structures.
 
-The plugin adds a **${Story Templates}** entry to the *novelibre* **${Tools}**
-menu, a **${${Create from Template\...}** entry to the **File} > ${New}**
-submenu, and a **${Template plugin Online Help}** entry to the **${Help}**
+The plugin adds a **${Story Templates}** entry to the *novelibre* **Strumenti**
+menu, a **${${Create from Template\...}** entry to the **File} > Nuovo**
+submenu, and a **${Template plugin Online Help}** entry to the **Aiuto**
 menu.
 
 
@@ -28,7 +28,7 @@ menu.
 
 ## Command reference
 
-### ${File} > ${New}
+### File > Nuovo
 
 #### ${Create from template\...}
 
@@ -40,7 +40,7 @@ template file.
     name later when saving the project.
 -   Then a second file select dialog asks for the template file to apply.
 
-### ${Tools} > ${Story Templates}
+### Strumenti > ${Story Templates}
 
 #### ${Load\...}
 

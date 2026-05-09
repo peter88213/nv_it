@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [${Online help}](../) > nv_timeline
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine italiane](../../) > [Aiuto online](../) > nv_timeline
 
 ---
 
@@ -8,11 +8,11 @@
 
 This page refers to the latest
 [nv_timeline](https://github.com/peter88213/nv_timeline/) release. You
-can open it with **${Help} > ${Timeline plugin Online help}**.
+can open it with **Aiuto > ${Timeline plugin Online help}**.
 
-The plugin adds a **${Timeline}** entry to the *novelibre* **${Tools}** menu,
-a **${Create from Timeline\...}** to the **${File} > ${New}** submenu, and a
-**${Timeline plugin Online Help}** entry to the **${Help}** menu. The Toolbar
+The plugin adds a **${Timeline}** entry to the *novelibre* **Strumenti** menu,
+a **${Create from Timeline\...}** to the **File > Nuovo** submenu, and a
+**${Timeline plugin Online Help}** entry to the **Aiuto** menu. The Toolbar
 gets a ![Timeline](images/tl.png) button.
 
 ## Command reference
