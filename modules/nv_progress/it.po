@@ -20,22 +20,23 @@ msgid "Ctrl"
 msgstr "Ctrl"
 
 msgid "Daily"
-msgstr ""
+msgstr "Giornaliero"
 
 msgid "Daily progress log"
-msgstr ""
+msgstr "Registro progressi giornalieri"
 
 msgid "Date"
 msgstr "Data"
 
 msgid "Progress viewer Online help"
-msgstr ""
+msgstr "Guida online del visualizzatore di progressi"
 
 msgid "With unused"
-msgstr ""
+msgstr "Con inutilizzati"
 
 msgid "Word count logging is enabled"
-msgstr ""
+msgstr "Il registro del conteggio parole è abilitato"
+
 
 msgid "Words total"
 msgstr "Parole totali"
