@@ -26,7 +26,7 @@ msgid "Cannot read file"
 msgstr "Impossibile leggere il file"
 
 msgid "Cannot save template"
-msgstr ""
+msgstr "Impossibile salvare il modello"
 
 msgid "Cannot write file"
 msgstr "Impossibile scrivere il file"
@@ -38,7 +38,7 @@ msgid "Characterization"
 msgstr "Caratterizzazione"
 
 msgid "Create from template..."
-msgstr ""
+msgstr "Crea da modello..."
 
 msgid "Done"
 msgstr "Fatto"
@@ -56,7 +56,7 @@ msgid "Goals"
 msgstr "Obiettivi"
 
 msgid "Load"
-msgstr ""
+msgstr "Carica"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
@@ -68,7 +68,7 @@ msgid "New Section"
 msgstr "Nuova sezione"
 
 msgid "Open folder"
-msgstr ""
+msgstr "Apri cartella"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -86,22 +86,22 @@ msgid "Save"
 msgstr "Salva"
 
 msgid "Stages"
-msgstr ""
+msgstr "Fasi"
 
 msgid "Story Template"
-msgstr ""
+msgstr "Modello di storia"
 
 msgid "Story Templates"
-msgstr ""
+msgstr "Modelli di storia"
 
 msgid "Template loading aborted"
-msgstr ""
+msgstr "Caricamento modello annullato"
 
 msgid "Template saved."
-msgstr ""
+msgstr "Modello salvato."
 
 msgid "Templates plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin Modelli"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
