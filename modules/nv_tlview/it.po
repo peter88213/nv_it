@@ -23,7 +23,7 @@ msgid "Bio"
 msgstr "Biografia"
 
 msgid "Cascading"
-msgstr ""
+msgstr "A cascata"
 
 msgid "Characterization"
 msgstr "Caratterizzazione"
@@ -35,7 +35,7 @@ msgid "Ctrl"
 msgstr "Ctrl"
 
 msgid "Dark mode"
-msgstr ""
+msgstr "Modalità scura"
 
 msgid "Day"
 msgstr "Giorno"
@@ -53,13 +53,13 @@ msgid "Ending"
 msgstr "Finale"
 
 msgid "First event"
-msgstr ""
+msgstr "Primo evento"
 
 msgid "First section"
-msgstr ""
+msgstr "Prima sezione"
 
 msgid "Fit to window"
-msgstr ""
+msgstr "Adatta alla finestra"
 
 msgid "Go to"
 msgstr "Vai a"
@@ -74,13 +74,13 @@ msgid "Hours"
 msgstr "Ore"
 
 msgid "Increase scale"
-msgstr ""
+msgstr "Aumenta scala"
 
 msgid "Last event"
-msgstr ""
+msgstr "Ultimo evento"
 
 msgid "Last section"
-msgstr ""
+msgstr "Ultima sezione"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
@@ -101,10 +101,10 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Page back"
-msgstr ""
+msgstr "Pagina precedente"
 
 msgid "Page forward"
-msgstr ""
+msgstr "Pagina seguente"
 
 msgid "Peak emotional moment"
 msgstr "Momento emotivo clou"
@@ -113,52 +113,52 @@ msgid "Plot progress"
 msgstr "Progressi trama"
 
 msgid "Reduce scale"
-msgstr ""
+msgstr "Riduci scala"
 
 msgid "Relaxed"
-msgstr ""
+msgstr "Rilassato"
 
 msgid "Scale"
-msgstr ""
+msgstr "Scala"
 
 msgid "Scroll back"
-msgstr ""
+msgstr "Scorri indietro"
 
 msgid "Scroll forward"
-msgstr ""
+msgstr "Scorri avanti"
 
 msgid "Selected section"
-msgstr ""
+msgstr "Sezione selezionata"
 
 msgid "Shift end"
-msgstr ""
+msgstr "Sposta fine"
 
 msgid "Shift start"
-msgstr ""
+msgstr "Sposta inizio"
 
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 msgid "Tight"
-msgstr ""
+msgstr "Compatto"
 
 msgid "Timeline view"
-msgstr ""
+msgstr "Vista cronologia"
 
 msgid "Timeline view Online help"
-msgstr ""
+msgstr "Guida online della vista cronologia"
 
 msgid "Undo"
-msgstr ""
+msgstr "Annulla"
 
 msgid "Use 00:00 for missing times"
-msgstr ""
+msgstr "Usa 00:00 per gli orari mancanti"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
 
 msgid "Years"
-msgstr ""
+msgstr "Anni"
 
 msgid "d"
 msgstr "g"
