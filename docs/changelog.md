@@ -5,6 +5,11 @@
 ## Changelog
 
 
+### Version 5.55.1
+
+Updated the plugin translations and the "Last-Translator" entry.
+
+
 ### Version 5.55.0
 
 - Update of the UI translations and help pages using the translations by

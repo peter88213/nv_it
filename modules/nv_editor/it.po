@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.6.1\n"
 "POT-Creation-Date: 2025-08-16 15:11:37\n"
-"PO-Revision-Date: 2026-05-09 18:47:11\n"
-"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"PO-Revision-Date: 2026-05-09 20:14:12\n"
+"Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +25,10 @@ msgstr ""
 msgid "Apply section changes?"
 msgstr ""
 
-msgid "Bold"
+msgid "Bio"
+msgstr "Biografia"
+
+msgid "Blue mode"
 msgstr ""
 
 msgid "Bright mode"
@@ -46,14 +49,14 @@ msgstr ""
 msgid "Cannot split the section at the cursor position"
 msgstr ""
 
+msgid "Characterization"
+msgstr "Caratterizzazione"
+
 msgid "Close"
 msgstr "Chiudi"
 
 msgid "Copy"
 msgstr "Copia"
-
-msgid "Create section"
-msgstr ""
 
 msgid "Ctrl"
 msgstr "Ctrl"
@@ -79,11 +82,17 @@ msgstr ""
 msgid "Emphasis"
 msgstr ""
 
+msgid "Ending"
+msgstr "Finale"
+
 msgid "Exit"
 msgstr "Esci"
 
 msgid "Format"
 msgstr ""
+
+msgid "Goals"
+msgstr "Obiettivi"
 
 msgid "Help"
 msgstr "Aiuto"
@@ -91,13 +100,7 @@ msgstr "Aiuto"
 msgid "Invalid changes"
 msgstr ""
 
-msgid "Italic"
-msgstr ""
-
 msgid "Light mode"
-msgstr ""
-
-msgid "Live update"
 msgstr ""
 
 msgid "Major Character"
@@ -109,11 +112,17 @@ msgstr "Personaggio secondario"
 msgid "Move the text from the cursor position to the end into a new section?"
 msgstr ""
 
+msgid "New"
+msgstr "Nuovo"
+
 msgid "Next"
 msgstr "Successivo"
 
 msgid "Online help"
 msgstr "Aiuto online"
+
+msgid "Opening"
+msgstr "Apertura"
 
 msgid "Outline"
 msgstr "Struttura"
@@ -121,8 +130,20 @@ msgstr "Struttura"
 msgid "Paste"
 msgstr "Incolla"
 
+msgid "Peak emotional moment"
+msgstr "Momento emotivo clou"
+
+msgid "PgDn"
+msgstr ""
+
+msgid "PgUp"
+msgstr ""
+
 msgid "Plain"
 msgstr ""
+
+msgid "Plot progress"
+msgstr "Progressi trama"
 
 msgid "Previous"
 msgstr "Precedente"
@@ -136,7 +157,7 @@ msgstr "Sezione"
 msgid "Section Editor"
 msgstr ""
 
-msgid "Split at cursor position"
+msgid "Split"
 msgstr ""
 
 msgid "Strong emphasis"
@@ -151,20 +172,11 @@ msgstr ""
 msgid "Unlock and apply changes?"
 msgstr ""
 
-msgid "Update"
-msgstr ""
-
 msgid "View"
 msgstr "Visualizza"
 
-msgid "Word count"
-msgstr ""
+msgid "World building"
+msgstr "Costruzione del mondo"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
-
-msgid "new"
-msgstr ""
-
-msgid "words"
-msgstr ""

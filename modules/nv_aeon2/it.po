@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.4.3\n"
 "POT-Creation-Date: 2025-11-13 12:51:42\n"
-"PO-Revision-Date: 2026-05-09 18:32:18\n"
-"Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
+"PO-Revision-Date: 2026-05-09 20:14:12\n"
+"Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,18 +30,6 @@ msgstr ""
 
 msgid "Aeon Timeline 2 project"
 msgstr ""
-
-msgid "Alt-Down"
-msgstr "Alt-Giù"
-
-msgid "Alt-Left"
-msgstr "Alt-Sinistra"
-
-msgid "Alt-Right"
-msgstr "Alt-Destra"
-
-msgid "Alt-Up"
-msgstr "Alt-Su"
 
 msgid "Ambiguous Aeon arc \"{}\"."
 msgstr ""
@@ -103,6 +91,9 @@ msgstr "Canc"
 msgid "Done"
 msgstr "Fatto"
 
+msgid "Down"
+msgstr "Giù"
+
 msgid "Draft"
 msgstr "Bozza"
 
@@ -126,6 +117,9 @@ msgstr ""
 
 msgid "Invalid JSON data in timeline"
 msgstr ""
+
+msgid "Left"
+msgstr "Sinistra"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
@@ -157,6 +151,9 @@ msgstr "Momento emotivo clou"
 msgid "Plot progress"
 msgstr "Progressi trama"
 
+msgid "Right"
+msgstr "Destra"
+
 msgid "Save the project and update it?"
 msgstr ""
 
@@ -171,6 +168,9 @@ msgstr ""
 
 msgid "There are unsaved changes"
 msgstr "Ci sono modifiche non salvate"
+
+msgid "Up"
+msgstr "Su"
 
 msgid "Update the project"
 msgstr ""
