@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.6.0\n"
 "POT-Creation-Date: 2025-08-24 16:10:38\n"
-"PO-Revision-Date: 2026-05-09 20:14:12\n"
+"PO-Revision-Date: 2026-05-10 15:27:04\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -25,17 +25,20 @@ msgstr "Azione annullata dall'utente"
 msgid "Bio"
 msgstr "Biografia"
 
-msgid "lowercase"
-msgstr "tutto minuscolo"
+msgid "Can not process file"
+msgstr "Impossibile elaborare il file"
 
-msgid "new"
-msgstr "nuovo"
+msgid "Cannot overwrite file"
+msgstr "Impossibile sovrascrivere il file"
 
-msgid "tOGGLE cASE"
-msgstr "iNVERTI mAIUSCOLE/mINUSCOLE"
+msgid "Cannot write file"
+msgstr "Impossibile scrivere il file"
 
-msgid "words"
-msgstr "parole"
+msgid "Characterization"
+msgstr "Caratterizzazione"
+
+msgid "Create from yw7..."
+msgstr ""
 
 msgid "Done"
 msgstr "Fatto"
@@ -51,6 +54,9 @@ msgstr "File"
 
 msgid "File exported"
 msgstr "File esportato"
+
+msgid "File imported"
+msgstr ""
 
 msgid "File type is not supported"
 msgstr "Tipo di file non supportato"

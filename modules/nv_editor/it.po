@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.6.1\n"
 "POT-Creation-Date: 2025-08-16 15:11:37\n"
-"PO-Revision-Date: 2026-05-09 20:14:12\n"
+"PO-Revision-Date: 2026-05-10 15:27:04\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,9 @@ msgstr "Applica modifiche"
 
 msgid "Apply section changes?"
 msgstr "Applicare le modifiche alla sezione?"
+
+msgid "Bio"
+msgstr "Biografia"
 
 msgid "Blue mode"
 msgstr "Modalità blu"
@@ -108,31 +111,6 @@ msgstr "Personaggio secondario"
 
 msgid "Move the text from the cursor position to the end into a new section?"
 msgstr "Spostare il testo dalla posizione del cursore alla fine in una nuova sezione?"
-
-msgid "PgDn"
-msgstr "PgGiù"
-
-msgid "PgUp"
-msgstr "PgSu"
-
-msgid "Plain"
-msgstr "Testo semplice"
-
-msgid "Section Editor"
-msgstr "Editor di sezione"
-
-msgid "Split"
-msgstr "Dividi"
-
-msgid "Strong emphasis"
-msgstr "Enfasi marcata"
-
-msgid "The result would not be well-formed XML"
-msgstr "Il risultato non sarebbe un XML ben formato"
-
-msgid "Unlock and apply changes?"
-msgstr "Sbloccare e applicare le modifiche?"
-Usa il codice con cautela.
 
 msgid "New"
 msgstr "Nuovo"

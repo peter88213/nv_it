@@ -5,6 +5,15 @@
 ## Changelog
 
 
+### Version 5.55.3
+
+- Included translations for the plugins as provided by @albanobattistella.
+
+To do: 
+- Complete nv_zim translations (2 missing).
+- Complete nv_yw7 translations (6 missing).
+
+
 ### Version 5.55.2
 
 - Set the novelibre API version to 5.55.

@@ -8,12 +8,12 @@
 
 This page refers to the latest
 [nv_templates](https://github.com/peter88213/nv_templates/) release. You
-can open it with **Aiuto > ${Templates plugin Online help}**.
+can open it with **Aiuto > Guida online del plugin Modelli**.
 
 With *novelibre*, you can define a narrative structure with stages. 
 *nv_templates* faciliates the reuse of narrative structures.
 
-The plugin adds a **${Story Templates}** entry to the *novelibre* **Strumenti**
+The plugin adds a **Modelli di storia** entry to the *novelibre* **Strumenti**
 menu, a **${${Create from Template\...}** entry to the **File} > Nuovo**
 submenu, and a **${Template plugin Online Help}** entry to the **Aiuto**
 menu.
@@ -40,7 +40,7 @@ template file.
     name later when saving the project.
 -   Then a second file select dialog asks for the template file to apply.
 
-### Strumenti > ${Story Templates}
+### Strumenti > Modelli di storia
 
 #### ${Load\...}
 
@@ -54,7 +54,7 @@ This saves the narrative structure to a Markdown template file.
 
 -   A file select dialog asks for the new template's file name.
 
-#### ${Open folder}
+#### Apri cartella
 
 This opens the templates folder with the OS file manager, so you can
 manage and edit the templates.

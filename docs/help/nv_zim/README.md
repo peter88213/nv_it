@@ -8,13 +8,13 @@
 
 This page refers to the latest
 [nv_zim](https://github.com/peter88213/nv_zim/) release. You can open it
-with **Aiuto > ${Zim connection Online help}**.
+with **Aiuto > Guida online della connessione Zim**.
 
 *nv_zim* is a plugin that connects *novelibre* projects with a *Zim
 Desktop Wiki*. This is mainly intended for world building documentation.
 
-The plugin adds an **${Zim Desktop Wiki}** entry to the *novelibre*
-**Strumenti** menu, and a **${Zim connection Online help}** entry to the
+The plugin adds an **Zim Desktop Wiki** entry to the *novelibre*
+**Strumenti** menu, and a **Guida online della connessione Zim** entry to the
 **Aiuto** menu. The property views of characters, locations, items, and
 book get a ![Zim](images/zim.png) button. The Toolbar gets a ![Zim](images/zim.png) button.
 
@@ -110,11 +110,11 @@ the status bar.
 > the *Zim* application.
 
 
-## ${Zim Desktop Wiki} menu
+## Zim Desktop Wiki menu
 
-### ${Open project wiki}
+### Apri wiki del progetto
 
-With **Strumenti > ${Zim Desktop Wiki} > ${Open project wiki}**, or clicking on
+With **Strumenti > Zim Desktop Wiki > Apri wiki del progetto**, or clicking on
 the ![Zim](images/zim.png) button on the toolbar, you can open the Zim
 notebook linked with the project.
 
@@ -122,7 +122,7 @@ If there is no link yet, or if the saved link address is not valid, you
 will be asked whether you want to open an existing wiki or create a new
 one:
 
-#### ${Browse}
+#### Sfoglia
 
 this opens a file picker dialog to search for a Zim wiki file with
 the extension `.zim`. Zim is launched with the selected project wiki
@@ -138,7 +138,7 @@ open.
 > have to re-select it in the next session.
 
 
-#### ${Create}
+#### Crea
 
 this auto-creates a new blank Zim notebook in a subdirectory of the
 project directory, and opens it with Zim.
@@ -166,9 +166,9 @@ Aborts the operation without launching Zim.
 > case, the "Zim" window is not automatically lifted to the foreground.
 
 
-### ${Create project wiki}
+### Crea wiki del progetto
 
-With **Strumenti > ${Zim Desktop Wiki} > ${Create project wiki}** you can create
+With **Strumenti > Zim Desktop Wiki > Crea wiki del progetto** you can create
 a new Zim notebook in a subdirectory of the project directory and open
 it with Zim. The generated project wiki contains pages for the book and
 for all characters, locations, and items. If there is already a Zim
@@ -187,7 +187,7 @@ renamed and kept as a backup.
 
 ### ${Remove wiki links}
 
-With **Strumenti > ${Zim Desktop Wiki} > ${Remove wiki links}** you can remove
+With **Strumenti > Zim Desktop Wiki > ${Remove wiki links}** you can remove
 saved wiki links from the project file. This takes effect when saving
 the next time.
 
@@ -224,7 +224,7 @@ project wiki and gives you the option of selecting or creating it (see
 above). You will then be asked whether you want to open an existing wiki
 page or create a new one:
 
-##### ${Browse}
+##### Sfoglia
 
 this opens a file picker dialog to search for a Zim page file with
 the extension *.txt*. Zim is launched with the selected wiki page
@@ -239,7 +239,7 @@ open.
 > the current session, but you may have to re-select it in the next session.
 
 
-##### ${Create}
+##### Crea
 
 this auto-creates a new wiki page as a part of the project wiki, and
 opens it with Zim.

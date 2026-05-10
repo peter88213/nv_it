@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.4.3\n"
 "POT-Creation-Date: 2025-11-13 12:51:42\n"
-"PO-Revision-Date: 2026-05-09 20:14:12\n"
+"PO-Revision-Date: 2026-05-10 15:27:04\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -15,6 +15,12 @@ msgstr ""
 
 msgid "!No {} file available for this project."
 msgstr "!Nessun file {} disponibile per questo progetto."
+
+msgid "1st Edit"
+msgstr "1ª Revisione"
+
+msgid "2nd Edit"
+msgstr "2ª Revisione"
 
 msgid "Add or update moon phase data"
 msgstr "Aggiungi o aggiorna i dati sulle fasi lunari"
@@ -55,20 +61,71 @@ msgstr "Linea narrativa novelibre ambigua \"{}\"."
 msgid "Ambiguous novelibre section title \"{}\"."
 msgstr "Titolo sezione novelibre ambiguo \"{}\"."
 
+msgid "Bio"
+msgstr "Biografia"
+
 msgid "Cannot determine file date."
 msgstr "Impossibile determinare la data del file."
+
+msgid "Cannot overwrite file"
+msgstr "Impossibile sovrascrivere il file"
 
 msgid "Cannot read timeline data"
 msgstr "Impossibile leggere i dati della timeline"
 
+msgid "Cannot write file"
+msgstr "Impossibile scrivere il file"
+
+msgid "Characterization"
+msgstr "Caratterizzazione"
+
 msgid "Create from Aeon Timeline 2..."
 msgstr "Crea da Aeon Timeline 2..."
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Del"
+msgstr "Canc"
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "Down"
+msgstr "Giù"
+
+msgid "Draft"
+msgstr "Bozza"
+
+msgid "Ending"
+msgstr "Finale"
+
+msgid "File"
+msgstr "File"
+
+msgid "File already exists"
+msgstr "Il file esiste già"
+
+msgid "File written"
+msgstr "File scritto"
+
+msgid "Goals"
+msgstr "Obiettivi"
 
 msgid "Information"
 msgstr "Informazioni"
 
 msgid "Invalid JSON data in timeline"
 msgstr "Dati JSON non validi nella timeline"
+
+msgid "Left"
+msgstr "Sinistra"
+
+msgid "Major Character"
+msgstr "Personaggio principale"
+
+msgid "Minor Character"
+msgstr "Personaggio secondario"
 
 msgid "New sections"
 msgstr "Nuove sezioni"
@@ -82,14 +139,38 @@ msgstr "Nessun file {} disponibile per questo progetto."
 msgid "Open Aeon Timeline 2"
 msgstr "Apri Aeon Timeline 2"
 
+msgid "Opening"
+msgstr "Apertura"
+
+msgid "Outline"
+msgstr "Struttura"
+
+msgid "Peak emotional moment"
+msgstr "Momento emotivo clou"
+
+msgid "Plot progress"
+msgstr "Progressi trama"
+
+msgid "Right"
+msgstr "Destra"
+
 msgid "Save the project and update it?"
 msgstr "Salvare il progetto e aggiornarlo?"
 
 msgid "Save the project and update the timeline?"
 msgstr "Salvare il progetto e aggiornare la timeline?"
 
+msgid "Shift"
+msgstr "Maiusc"
+
 msgid "The selected project has no narrative arc"
 msgstr "Il progetto selezionato non ha archi narrativi"
+
+msgid "There are unsaved changes"
+msgstr "Ci sono modifiche non salvate"
+
+msgid "Up"
+msgstr "Su"
 
 msgid "Update the project"
 msgstr "Aggiorna il progetto"
@@ -100,11 +181,14 @@ msgstr "Aggiorna la timeline"
 msgid "Update the timeline?"
 msgstr "Aggiornare la timeline?"
 
+msgid "World building"
+msgstr "Costruzione del mondo"
+
 msgid "\"AD\" era is missing in the calendar."
 msgstr "L'era \"DC\" manca nel calendario."
 
-msgid "https://github.io"
-msgstr "https://github.io"
+msgid "https://peter88213.github.io/nv_aeon2/help/"
+msgstr "https://peter88213.github.io/nv_aeon2/help/"
 
 msgid "newer"
 msgstr "più recente"

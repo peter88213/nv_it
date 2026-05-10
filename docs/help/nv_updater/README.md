@@ -8,16 +8,16 @@
 
 This page refers to the latest
 [nv_updater](https://github.com/peter88213/nv_updater/) release. You can
-open it with **Aiuto > ${Update checker Online help}**.
+open it with **Aiuto > Guida online del controllo aggiornamenti**.
 
-The plugin adds a **${Check for updates}** entry to the *novelibre*
-**Strumenti** menu, and an **${Update checker Online help}** entry to the
+The plugin adds a **Controlla aggiornamenti** entry to the *novelibre*
+**Strumenti** menu, and an **Guida online del controllo aggiornamenti** entry to the
 **Aiuto** menu.
 
 ## Start the update checker
 
 Open the update checker from the main menu: 
-**Strumenti > ${Check for updates}**.
+**Strumenti > Controlla aggiornamenti**.
 
 A list pops up, showing installed software components and their version
 information. Outdated list entries are colored red.
@@ -32,7 +32,7 @@ information. Outdated list entries are colored red.
 
 ### Buttons below the component list
 
-### ${Update} (or double-click on a list entry)
+### Aggiorna (or double-click on a list entry)
 
 starts your web browser with the download URL of the selected
 software component, if the installed version doesn't match the

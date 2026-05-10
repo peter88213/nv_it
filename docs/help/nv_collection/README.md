@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_collection](https://github.com/peter88213/nv_collection/) release.
-You can open it with **Aiuto > ${Collection plugin Online help}**.
+You can open it with **Aiuto > Guida online del plugin Collezione**.
 
 If you have several *novelibre* projects, you can manage them as books
 in a collection, also organized by series. A collection gives you quick
@@ -16,7 +16,7 @@ access to your projects.
 
 ## Start the collection manager
 
-Open the collection manager from the main menu: **File > ${Collection}**.
+Open the collection manager from the main menu: **File > Collezione**.
 
 ## Open a collection
 
@@ -32,13 +32,13 @@ file path, a blank collection appears.
 
 ## Create a new series
 
-With **${Series} > Aggiungi**, you can add a new series. Edit the series' title
+With **Serie > Aggiungi**, you can add a new series. Edit the series' title
 and description in the right window.
 
 ## Add books to the collection
 
 To add the current novelibre project as a book to the collection, use
-**Libro > ${Add current project to the collection}**. If a series is
+**Libro > Aggiungi il progetto corrente alla collezione**. If a series is
 selected, the book is added as a part of this series.
 
 ## Update book description
@@ -72,7 +72,7 @@ Drag and drop while pressing the `Alt` key.
 ## Remove books
 
 To remove a book from the collection, either select the book and hit the
-`Del` key, or use **Libro > ${Remove selected book from the collection}**.
+`Del` key, or use **Libro > Rimuovi il libro selezionato dalla collezione**.
 
 
 > **Note**
@@ -84,7 +84,7 @@ To remove a book from the collection, either select the book and hit the
 ## Delete a series
 
 To delete a series, either select the series and hit the `Del` key, or
-use **${Series} > ${Remove selected series but keep the books}**.
+use **Serie > Rimuovi la serie selezionata ma mantieni i libri**.
 
 
 > **Note**
@@ -93,7 +93,7 @@ use **${Series} > ${Remove selected series but keep the books}**.
 
 
 To delete the selected series and remove all its books from the
-collection, use **${Series} > ${Remove selected series}**.
+collection, use **Serie > ${Remove selected series}**.
 
 ## Quit/Exit
 

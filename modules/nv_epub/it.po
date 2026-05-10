@@ -102,4 +102,4 @@ msgid "e-book"
 msgstr "e-book"
 
 msgid "https://peter88213.github.io/nvhelp-en/nv_epub/"
-msgstr ""
+msgstr "https://peter88213.github.io/nv_it/help/nv_epub/"

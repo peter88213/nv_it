@@ -21,9 +21,9 @@ file. *nv_snapshots* creates such snapshots on demand and stores them in
 a subdirectory of the project folder. This subdirectory is named
 *"Snapshots"* and is created automatically if required. Saving a
 snapshot is manually triggered via `Ctrl`-`Alt`-`S` or the 
-**File > ${Snapshot}** menu command.
+**File > Snapshot** menu command.
 
-Use the **Strumenti > ${Snapshots}** menu command to start the 
+Use the **Strumenti > Snapshot** menu command to start the 
 **snapshot manager**. The snapshot manager displays the snapshots of the currently
 open project in list form. You can select individual snapshots and
 export documents from them. OpenOffice/LibreOffice has a document
@@ -42,9 +42,9 @@ OpenOffice/LibreOffice.
     document that you want to compare (e.g. the manuscript).
 2.  Export a document of the same kind from the current project and open
     it.
-3.  Select **${Edit} > ${Compare Document}** (OpenOffice), or
+3.  Select **Modifica > ${Compare Document}** (OpenOffice), or
     *File > ${Compare Document}** (newer versions of LibreOffice), or 
-    **${Edit} - Track Changes - Compare Document\...**
+    **Modifica - Track Changes - Compare Document\...**
     (older versions of LibreOffice).
 4.  A file selection dialog opens. Select the "snapshot document" and
     click **Insert**.
@@ -65,7 +65,7 @@ transfer the revised state to the project.
 
 ### *novelibre* main menu entries
 
-#### File > ${Snapshot}
+#### File > Snapshot
 
 Creates a snapshot as a zip file in the *"Snapshots"* subdirectory of
 the current project folder. A dialog for entering a title and a
@@ -95,7 +95,7 @@ Close the dialog without creating a snapshot.
 -   If there is already an up-to-date snapshot, no further snapshot will
     be created.
 
-#### Strumenti > ${Snapshots}
+#### Strumenti > Snapshot
 
 Opens the snapshot manager window. It contains the list of snapshots and
 a display field for the title and description of the selected snapshot.
@@ -110,15 +110,15 @@ Starts the system web browser with this page.
 
 ### The snapshot manager menu
 
-#### File > ${Open Snapshot folder}
+#### File > Apri cartella Snapshot
 
 Opens the current project's snapshot folder with the file manager.
 
-#### File > ${Clean up Snapshot folder}
+#### File > Pulisci cartella Snapshot
 
 Deletes ODF documents, XML data files, and document backups in the snapshot folder.
 
-#### File > ${Snapshot}
+#### File > Snapshot
 
 Creates a snapshot (see above).
 
@@ -126,7 +126,7 @@ Creates a snapshot (see above).
 
 Deletes the selected snapshot.
 
-#### File > ${Revert}
+#### File > Ripristina
 
 Overwrites the current project file with the version of the selected
 snapshot and reloads the project in *novelibre*. A snapshot of the
@@ -163,7 +163,7 @@ File name suffix is `_sections_tmp`.
 This allows you to create a text document that contains all stages, each with description. 
 File name suffix is `_structure_tmp`.
 
-#### Esporta > ${Plot line descriptions}
+#### Esporta > Descrizioni linee della trama
 
 This allows you to create a text document that contains stages, plot lines, and plot points, each with description. 
 File name suffix is

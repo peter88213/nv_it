@@ -17,7 +17,7 @@ from settings import *
 
 sys.path.insert(0, f'{os.getcwd()}/../../novelibre/tools')
 
-VERSION = '5.55.2'
+VERSION = '5.55.3'
 LANGUAGE_CODE = 'it'
 
 

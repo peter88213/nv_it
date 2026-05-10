@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_editor](https://github.com/peter88213/nv_editor/) release. You can
-open it with **Aiuto > ${Editor plugin Online help}**.
+open it with **Aiuto > Guida online del plugin Editor**.
 
 You can use the section editor to quickly edit and split individual
 sections. The editor provides access to the internal markup, which is
@@ -17,7 +17,7 @@ similar to HTML.
 ## Launch the section editor
 
 Open a section editor window by double-clicking on a section, or via the
-**Sezione > ${Edit}** menu entry when a section is selected, or by hitting
+**Sezione > Modifica** menu entry when a section is selected, or by hitting
 the `Enter` key.
 
 
@@ -95,10 +95,10 @@ With **File > ${Create section}** or `Ctrl`-`Alt`-`N`, you can create a section.
 -   The section word count is displayed at the status bar at the bottom
     of the window.
 -   By default, word count is updated manually, either by pressing the
-    `F5` key, or via the **${Word count} > ${Update}** menu entry.
+    `F5` key, or via the **Conteggio parole > Aggiorna** menu entry.
 -   The word count can be updated "live", i.e. just while entering
     text. This is enabled or disabled via the 
-    **${Word count} > ${Live update}** menu checkbox.
+    **Conteggio parole > Aggiornamento in tempo reale** menu checkbox.
 
 
 > **Note**

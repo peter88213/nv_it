@@ -8,13 +8,13 @@
 
 This page refers to the latest
 [nv_tlview](https://github.com/peter88213/nv_tlview/) release. You can
-open it with **Aiuto > ${Timeline view Online help}** or with `F1`.
+open it with **Aiuto > Guida online della vista cronologia** or with `F1`.
 
 *nv_tlview* is a plugin providing a timeline view with sections that are
 given a narrative date/day and time.
 
-The plugin adds a **${Timeline view}** entry to the *novelibre* **Strumenti**
-menu, and a **${Timeline view Online help}** entry to the **Aiuto** menu.
+The plugin adds a **Vista cronologia** entry to the *novelibre* **Strumenti**
+menu, and a **Guida online della vista cronologia** entry to the **Aiuto** menu.
 The Toolbar gets a ![Timeline](images/tlview.png) button.
 
 ![novelibre Screenshot](images/screen01.png)
@@ -24,7 +24,7 @@ The Toolbar gets a ![Timeline](images/tlview.png) button.
 ### Start the Timeline view
 
 -   Open the Timeline view either from the main menu: 
-    **Strumenti > ${Timeline view}**,
+    **Strumenti > Vista cronologia**,
 -   or via the ![Timeline](images/tlview.png) button in the toolbar.
 
 ### Mouse scrolling
@@ -67,22 +67,22 @@ The Toolbar gets a ![Timeline](images/tlview.png) button.
 
 ### "Vai a menu
 
-#### ${First section}
+#### Prima sezione
 
 Shift the timeline so that the earliest section is positioned near
 the left edge of the window.
 
-#### ${Last section}
+#### Ultima sezione
 
 Shift the timeline so that the latest section is positioned near the
 right edge of the window.
 
-#### ${Selected section}
+#### Sezione selezionata
 
 Shift the timeline so that the section selected in the *novelibre*
 project tree is positioned in the center of the window.
 
-### "${Scale} menu
+### "Scala menu
 
 #### Ore
 
@@ -92,30 +92,30 @@ This sets the scale to one hour per line.
 
 This sets the scale to one day per line.
 
-#### ${Years}
+#### Anni
 
 This sets the scale to one year per line.
 
-#### ${Fit to window}
+#### Adatta alla finestra
 
 This sets the scale and moves the timeline, so that all sections
 with valid or substituted date/time information fit into the window.
 
-### "${Cascading} menu
+### "A cascata menu
 
 The section marks are stacked on the timeline canvas, so that they would
 not overlap or cover the title of previous sections. If the stacking
 algorithm does not seem good enough to you, you can adjust its limits.
 
-#### ${Tight}
+#### Compatto
 
 Arrange consecutive sections behind each other, even if they are close together.
 
-#### ${Relaxed}
+#### Rilassato
 
 Arrange consecutive sections in a stack, even if they are some distance apart.
 
-#### ${Standard}
+#### Standard
 
 Reset the cascading to default.
 
@@ -127,7 +127,7 @@ Reset the cascading to default.
 
 ### "Opzioni menu
 
-#### ${Use 00:00 for missing times}
+#### Usa 00:00 per gli orari mancanti
 
 -   If ticked, "00:00" is used as display time for sections without time information. This does not affect the section properties.
 -   If unticked, sections without time information are not displayed.

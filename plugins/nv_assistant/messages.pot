@@ -1,0 +1,81 @@
+# nv_assistant Dictionary
+# Copyright (C) 2023 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1.0\n"
+"POT-Creation-Date: 2025-09-17 21:31:51\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novxlib pgettext.py 0.3\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "New project assistant"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Step"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "nv_assistant Online help"
+msgstr ""

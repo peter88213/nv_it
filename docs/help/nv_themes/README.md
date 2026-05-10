@@ -9,7 +9,7 @@
 This page refers to the latest
 [nv_themes](https://github.com/peter88213/nv_themes/) release.
 
-The plugin adds a **${Change theme}** entry to the *novelibre* **Visualizza** menu.
+The plugin adds a **Cambia tema** entry to the *novelibre* **Visualizza** menu.
 
 
 > **Important**
@@ -46,7 +46,7 @@ Here is an example with *Synaptic* on Linux Mint:
 
 ## Start the dialog
 
-Start the theme changer from the main menu: **Visualizza > ${Change theme}**.
+Start the theme changer from the main menu: **Visualizza > Cambia tema**.
 You can select the new theme from a drop-down list.
 
 ![Windows screenshot](images/nv_themes02.png)

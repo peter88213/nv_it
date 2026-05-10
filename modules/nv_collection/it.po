@@ -202,4 +202,4 @@ msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "novelibre collection"
-msgstr "collezione novelibre
+msgstr "collezione novelibre"
