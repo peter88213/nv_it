@@ -18,12 +18,11 @@ msgstr "1ª Revisione"
 
 msgid "2nd Edit"
 msgstr "2ª Revisione"
-
 msgid "Add"
 msgstr "Aggiungi"
 
 msgid "Add current project to the collection"
-msgstr ""
+msgstr "Aggiungi il progetto corrente alla collezione"
 
 msgid "Bio"
 msgstr "Biografia"
@@ -32,13 +31,13 @@ msgid "Book"
 msgstr "Libro"
 
 msgid "Book added to the collection"
-msgstr ""
+msgstr "Libro aggiunto alla collezione"
 
 msgid "Book already exists"
-msgstr ""
+msgstr "Il libro esiste già"
 
 msgid "Book removed from the collection"
-msgstr ""
+msgstr "Libro rimosso dalla collezione"
 
 msgid "Cannot overwrite file"
 msgstr "Impossibile sovrascrivere il file"
@@ -47,13 +46,13 @@ msgid "Cannot process file"
 msgstr "Impossibile elaborare il file"
 
 msgid "Cannot remove book"
-msgstr ""
+msgstr "Impossibile rimuovere il libro"
 
 msgid "Cannot remove series"
-msgstr ""
+msgstr "Impossibile rimuovere la serie"
 
 msgid "Cannot save the collection"
-msgstr ""
+msgstr "Impossibile salvare la collezione"
 
 msgid "Cannot write file"
 msgstr "Impossibile scrivere il file"
@@ -65,13 +64,13 @@ msgid "Close"
 msgstr "Chiudi"
 
 msgid "Collection"
-msgstr ""
+msgstr "Collezione"
 
 msgid "Collection plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin Collezione"
 
 msgid "Collection saved"
-msgstr ""
+msgstr "Collezione salvata"
 
 msgid "Ctrl"
 msgstr "Ctrl"
@@ -107,10 +106,10 @@ msgid "New"
 msgstr "Nuovo"
 
 msgid "New Series"
-msgstr ""
+msgstr "Nuova serie"
 
 msgid "No changes to save"
-msgstr ""
+msgstr "Nessuna modifica da salvare"
 
 msgid "No valid version found in file"
 msgstr "Versione non valida nel file"
@@ -140,22 +139,22 @@ msgid "Quit"
 msgstr "Esci"
 
 msgid "Remove selected book from the collection"
-msgstr ""
+msgstr "Rimuovi il libro selezionato dalla collezione"
 
 msgid "Remove selected book from the collection?"
-msgstr ""
+msgstr "Rimuovere il libro selezionato dalla collezione?"
 
 msgid "Remove selected series and books"
-msgstr ""
+msgstr "Rimuovi la serie e i libri selezionati"
 
 msgid "Remove selected series and books?"
-msgstr ""
+msgstr "Rimuovere la serie e i libri selezionati?"
 
 msgid "Remove selected series but keep the books"
-msgstr ""
+msgstr "Rimuovi la serie selezionata ma mantieni i libri"
 
 msgid "Remove selected series but keep the books?"
-msgstr ""
+msgstr "Rimuovere la serie selezionata ma mantenere i libri?"
 
 msgid "Save"
 msgstr "Salva"
@@ -164,37 +163,37 @@ msgid "Save changes?"
 msgstr "Salvare le modifiche?"
 
 msgid "Series"
-msgstr ""
+msgstr "Serie"
 
 msgid "Series removed from the collection"
-msgstr ""
+msgstr "Serie rimossa dalla collezione"
 
 msgid "The collection \"{}\" was created with a newer plugin version."
-msgstr ""
+msgstr "La collezione \"{}\" è stata creata con una versione del plugin più recente."
 
 msgid "The collection \"{}\" was created with an outdated plugin version."
-msgstr ""
+msgstr "La collezione \"{}\" è stata creata con una versione del plugin datata."
 
 msgid "There are unsaved changes"
 msgstr "Ci sono modifiche non salvate"
 
 msgid "There is no file for the current project. Please save first."
-msgstr ""
+msgstr "Non esiste un file per il progetto corrente. Salvalo prima di procedere."
 
 msgid "This project has no title"
-msgstr ""
+msgstr "Questo progetto non ha un titolo"
 
 msgid "Untitled"
-msgstr ""
+msgstr "Senza titolo"
 
 msgid "Untitled collection"
-msgstr ""
+msgstr "Collezione senza titolo"
 
 msgid "Update book data from the current project"
-msgstr ""
+msgstr "Aggiorna i dati del libro dal progetto corrente"
 
 msgid "Update project data from the selected book"
-msgstr ""
+msgstr "Aggiorna i dati del progetto dal libro selezionato"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
@@ -203,4 +202,4 @@ msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "novelibre collection"
-msgstr ""
+msgstr "collezione novelibre

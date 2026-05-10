@@ -56,13 +56,13 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Major characters only"
-msgstr ""
+msgstr "Solo personaggi principali"
 
 msgid "Matrix"
-msgstr ""
+msgstr "Matrice"
 
 msgid "Matrix plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin Matrice"
 
 msgid "Minor Character"
 msgstr "Personaggio secondario"

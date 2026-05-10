@@ -14,7 +14,7 @@ msgstr ""
 
 
 msgid "!No {} file available for this project."
-msgstr ""
+msgstr "!Nessun file {} disponibile per questo progetto."
 
 msgid "1st Edit"
 msgstr "1ª Revisione"
@@ -26,10 +26,10 @@ msgid "Bio"
 msgstr "Biografia"
 
 msgid "Can not process file"
-msgstr ""
+msgstr "Impossibile elaborare il file"
 
 msgid "Cannot determine file date."
-msgstr ""
+msgstr "Impossibile determinare la data del file."
 
 msgid "Cannot overwrite file"
 msgstr "Impossibile sovrascrivere il file"
@@ -44,10 +44,10 @@ msgid "Characterization"
 msgstr "Caratterizzazione"
 
 msgid "Create from Timeline..."
-msgstr ""
+msgstr "Crea da Cronologia..."
 
 msgid "Create or update the timeline"
-msgstr ""
+msgstr "Crea o aggiorna la cronologia"
 
 msgid "Ctrl"
 msgstr "Ctrl"
@@ -80,7 +80,7 @@ msgid "Goals"
 msgstr "Obiettivi"
 
 msgid "Information"
-msgstr ""
+msgstr "Informazioni"
 
 msgid "Left"
 msgstr "Sinistra"
@@ -92,10 +92,10 @@ msgid "Minor Character"
 msgstr "Personaggio secondario"
 
 msgid "No {} file available for this project."
-msgstr ""
+msgstr "Nessun file {} disponibile per questo progetto."
 
 msgid "Open Timeline"
-msgstr ""
+msgstr "Apri cronologia"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -113,10 +113,10 @@ msgid "Right"
 msgstr "Destra"
 
 msgid "Save the project and update it?"
-msgstr ""
+msgstr "Salvare il progetto e aggiornarlo?"
 
 msgid "Save the project and {} the timeline?"
-msgstr ""
+msgstr "Salvare il progetto e {} la cronologia?"
 
 msgid "Shift"
 msgstr "Maiusc"
@@ -125,34 +125,34 @@ msgid "There are unsaved changes"
 msgstr "Ci sono modifiche non salvate"
 
 msgid "Timeline plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin Cronologia"
 
 msgid "Up"
 msgstr "Su"
 
 msgid "Update the project"
-msgstr ""
+msgstr "Aggiorna il progetto"
 
 msgid "Update the timeline?"
-msgstr ""
+msgstr "Aggiornare la cronologia?"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
 
 msgid "create"
-msgstr ""
+msgstr "crea"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "newer"
-msgstr ""
+msgstr "più recente"
 
 msgid "older"
-msgstr ""
+msgstr "più vecchio"
 
 msgid "update"
-msgstr ""
+msgstr "aggiorna"
 
 msgid "{0} file is {1} than the novelibre project.\n (last saved on {2})"
-msgstr ""
+msgstr "Il file {0} è {1} rispetto al progetto novelibre.\n (ultimo salvataggio il {2})"

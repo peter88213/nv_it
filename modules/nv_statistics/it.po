@@ -35,7 +35,7 @@ msgid "Ctrl"
 msgstr "Ctrl"
 
 msgid "Dark mode"
-msgstr ""
+msgstr "Modalità scura"
 
 msgid "Done"
 msgstr "Fatto"
@@ -74,25 +74,25 @@ msgid "Plot progress"
 msgstr "Progressi trama"
 
 msgid "Plot structure"
-msgstr ""
+msgstr "Struttura della trama"
 
 msgid "Project statistics Online help"
-msgstr ""
+msgstr "Guida online delle statistiche del progetto"
 
 msgid "Project statistics view"
-msgstr ""
+msgstr "Visualizzazione statistiche progetto"
 
 msgid "Sections"
 msgstr "Sezioni"
 
 msgid "Stages (first level)"
-msgstr ""
+msgstr "Fasi (primo livello)"
 
 msgid "Stages (second level)"
-msgstr ""
+msgstr "Fasi (secondo livello)"
 
 msgid "Viewpoints"
-msgstr ""
+msgstr "Punti di vista"
 
 msgid "World building"
 msgstr "Costruzione del mondo"

@@ -20,34 +20,31 @@ msgid "2nd Edit"
 msgstr "2ª Revisione"
 
 msgid "Apply changes"
-msgstr ""
+msgstr "Applica modifiche"
 
 msgid "Apply section changes?"
-msgstr ""
-
-msgid "Bio"
-msgstr "Biografia"
+msgstr "Applicare le modifiche alla sezione?"
 
 msgid "Blue mode"
-msgstr ""
+msgstr "Modalità blu"
 
 msgid "Bright mode"
-msgstr ""
+msgstr "Modalità chiara"
 
 msgid "Cannot apply section changes as long as the project is locked."
-msgstr ""
+msgstr "Impossibile applicare le modifiche alla sezione finché il progetto è bloccato."
 
 msgid "Cannot create section"
-msgstr ""
+msgstr "Impossibile creare la sezione"
 
 msgid "Cannot edit sections"
-msgstr ""
+msgstr "Impossibile modificare le sezioni"
 
 msgid "Cannot split the section"
-msgstr ""
+msgstr "Impossibile dividere la sezione"
 
 msgid "Cannot split the section at the cursor position"
-msgstr ""
+msgstr "Impossibile dividere la sezione alla posizione del cursore"
 
 msgid "Characterization"
 msgstr "Caratterizzazione"
@@ -65,7 +62,7 @@ msgid "Cut"
 msgstr "Taglia"
 
 msgid "Dark mode"
-msgstr ""
+msgstr "Modalità scura"
 
 msgid "Done"
 msgstr "Fatto"
@@ -74,13 +71,13 @@ msgid "Draft"
 msgstr "Bozza"
 
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 msgid "Editor plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin Editor"
 
 msgid "Emphasis"
-msgstr ""
+msgstr "Enfasi"
 
 msgid "Ending"
 msgstr "Finale"
@@ -89,7 +86,7 @@ msgid "Exit"
 msgstr "Esci"
 
 msgid "Format"
-msgstr ""
+msgstr "Formato"
 
 msgid "Goals"
 msgstr "Obiettivi"
@@ -98,10 +95,10 @@ msgid "Help"
 msgstr "Aiuto"
 
 msgid "Invalid changes"
-msgstr ""
+msgstr "Modifiche non valide"
 
 msgid "Light mode"
-msgstr ""
+msgstr "Modalità chiara"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
@@ -110,7 +107,32 @@ msgid "Minor Character"
 msgstr "Personaggio secondario"
 
 msgid "Move the text from the cursor position to the end into a new section?"
-msgstr ""
+msgstr "Spostare il testo dalla posizione del cursore alla fine in una nuova sezione?"
+
+msgid "PgDn"
+msgstr "PgGiù"
+
+msgid "PgUp"
+msgstr "PgSu"
+
+msgid "Plain"
+msgstr "Testo semplice"
+
+msgid "Section Editor"
+msgstr "Editor di sezione"
+
+msgid "Split"
+msgstr "Dividi"
+
+msgid "Strong emphasis"
+msgstr "Enfasi marcata"
+
+msgid "The result would not be well-formed XML"
+msgstr "Il risultato non sarebbe un XML ben formato"
+
+msgid "Unlock and apply changes?"
+msgstr "Sbloccare e applicare le modifiche?"
+Usa il codice con cautela.
 
 msgid "New"
 msgstr "Nuovo"
@@ -134,13 +156,13 @@ msgid "Peak emotional moment"
 msgstr "Momento emotivo clou"
 
 msgid "PgDn"
-msgstr ""
+msgstr "PgGiù"
 
 msgid "PgUp"
-msgstr ""
+msgstr "PgSu"
 
 msgid "Plain"
-msgstr ""
+msgstr "Testo semplice"
 
 msgid "Plot progress"
 msgstr "Progressi trama"
@@ -155,22 +177,22 @@ msgid "Section"
 msgstr "Sezione"
 
 msgid "Section Editor"
-msgstr ""
+msgstr "Editor di sezione"
 
 msgid "Split"
-msgstr ""
+msgstr "Dividi"
 
 msgid "Strong emphasis"
-msgstr ""
+msgstr "Enfasi marcata"
 
 msgid "The project is locked"
 msgstr "Il progetto è bloccato"
 
 msgid "The result would not be well-formed XML"
-msgstr ""
+msgstr "Il risultato non sarebbe un XML ben formato"
 
 msgid "Unlock and apply changes?"
-msgstr ""
+msgstr "Sbloccare e applicare le modifiche?"
 
 msgid "View"
 msgstr "Visualizza"

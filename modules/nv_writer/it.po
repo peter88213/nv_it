@@ -21,25 +21,25 @@ msgid "2nd Edit"
 msgstr "2ª Revisione"
 
 msgid "Amber"
-msgstr ""
+msgstr "Ambra"
 
 msgid "Apply changes"
-msgstr ""
+msgstr "Applica modifiche"
 
 msgid "Apply section changes?"
-msgstr ""
+msgstr "Applicare le modifiche alla sezione?"
 
 msgid "Ask for confirmation"
-msgstr ""
+msgstr "Chiedi conferma"
 
 msgid "Bio"
 msgstr "Biografia"
 
 msgid "Capitalize Every Word"
-msgstr ""
+msgstr "Inizia ogni parola con la maiuscola"
 
 msgid "Change case"
-msgstr ""
+msgstr "Cambia maiuscole/minuscole"
 
 msgid "Characterization"
 msgstr "Caratterizzazione"
@@ -51,49 +51,49 @@ msgid "Close"
 msgstr "Chiudi"
 
 msgid "Color sets"
-msgstr ""
+msgstr "Set di colori"
 
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 msgid "Comment"
-msgstr ""
+msgstr "Commento"
 
 msgid "Contrast"
-msgstr ""
+msgstr "Contrasto"
 
 msgid "Copy"
 msgstr "Copia"
 
 msgid "Count words"
-msgstr ""
+msgstr "Conta parole"
 
 msgid "Ctrl"
 msgstr "Ctrl"
 
 msgid "Current setting"
-msgstr ""
+msgstr "Impostazione attuale"
 
 msgid "Cut"
 msgstr "Taglia"
 
 msgid "Delete character left"
-msgstr ""
+msgstr "Elimina carattere a sinistra"
 
 msgid "Delete character right"
-msgstr ""
+msgstr "Elimina carattere a destra"
 
 msgid "Delete to end of line"
-msgstr ""
+msgstr "Elimina fino a fine riga"
 
 msgid "Distraction-free writing plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin scrittura senza distrazioni"
 
 msgid "Distraction-free writing plugin Options"
-msgstr ""
+msgstr "Opzioni del plugin scrittura senza distrazioni"
 
 msgid "Documents found that might be edited"
-msgstr ""
+msgstr "Documenti trovati che potrebbero essere modificati"
 
 msgid "Done"
 msgstr "Fatto"
@@ -102,55 +102,55 @@ msgid "Draft"
 msgstr "Bozza"
 
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 msgid "Editable manuscript"
 msgstr "Manoscritto modificabile"
 
 msgid "Editing not possible"
-msgstr ""
+msgstr "Modifica non possibile"
 
 msgid "Emphasis"
-msgstr ""
+msgstr "Enfasi"
 
 msgid "Ending"
 msgstr "Finale"
 
 msgid "Enlarge"
-msgstr ""
+msgstr "Ingrandisci"
 
 msgid "Format"
-msgstr ""
+msgstr "Formato"
 
 msgid "Goals"
 msgstr "Obiettivi"
 
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgid "Help on/off"
-msgstr ""
+msgstr "Aiuto sì/no"
 
 msgid "Key shortcut"
-msgstr ""
+msgstr "Scorciatoia da tastiera"
 
 msgid "Live update"
-msgstr ""
+msgstr "Aggiornamento in tempo reale"
 
 msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Menu on/off"
-msgstr ""
+msgstr "Mostra/Nascondi menu"
 
 msgid "Minor Character"
 msgstr "Personaggio secondario"
 
 msgid "Modified"
-msgstr ""
+msgstr "Modificato"
 
 msgid "Move the text from the cursor position to the end into a new section?"
-msgstr ""
+msgstr "Spostare il testo dalla posizione del cursore alla fine in una nuova sezione?"
 
 msgid "New"
 msgstr "Nuovo"
@@ -162,7 +162,7 @@ msgid "Online help"
 msgstr "Aiuto online"
 
 msgid "Open new line"
-msgstr ""
+msgstr "Inserisci nuova riga"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -171,7 +171,7 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Paper"
-msgstr ""
+msgstr "Carta"
 
 msgid "Paste"
 msgstr "Incolla"
@@ -180,13 +180,13 @@ msgid "Peak emotional moment"
 msgstr "Momento emotivo clou"
 
 msgid "PgDn"
-msgstr ""
+msgstr "PgGiù"
 
 msgid "PgUp"
-msgstr ""
+msgstr "PgSu"
 
 msgid "Plain"
-msgstr ""
+msgstr "Testo semplice"
 
 msgid "Plot progress"
 msgstr "Progressi trama"
@@ -195,16 +195,16 @@ msgid "Previous"
 msgstr "Precedente"
 
 msgid "Redo"
-msgstr ""
+msgstr "Ripristina"
 
 msgid "Regular text"
-msgstr ""
+msgstr "Testo normale"
 
 msgid "Save"
 msgstr "Salva"
 
 msgid "Saved"
-msgstr ""
+msgstr "Salvato"
 
 msgid "Section"
 msgstr "Sezione"
@@ -213,58 +213,58 @@ msgid "Shift"
 msgstr "Maiusc"
 
 msgid "Shrink"
-msgstr ""
+msgstr "Riduci"
 
 msgid "Split"
-msgstr ""
+msgstr "Dividi"
 
 msgid "Status"
 msgstr "Stato"
 
 msgid "Strong emphasis"
-msgstr ""
+msgstr "Enfasi marcata"
 
 msgid "Swap characters"
-msgstr ""
+msgstr "Inverti caratteri"
 
 msgid "Tagged manuscript for proofing"
 msgstr "Manoscritto etichettato per correzione bozze"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "MAIUSCOLO"
 
 msgid "Undo"
-msgstr ""
+msgstr "Annulla"
 
 msgid "Untitled"
-msgstr ""
+msgstr "Senza titolo"
 
 msgid "View"
 msgstr "Visualizza"
 
 msgid "White"
-msgstr ""
+msgstr "Bianco"
 
 msgid "Word count"
-msgstr ""
+msgstr "Conteggio parole"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
 
 msgid "Write in distraction free mode"
-msgstr ""
+msgstr "Scrivi in modalità senza distrazioni"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "lowercase"
-msgstr ""
+msgstr "tutto minuscolo"
 
 msgid "new"
-msgstr ""
+msgstr "nuovo"
 
 msgid "tOGGLE cASE"
-msgstr ""
+msgstr "iNVERTI mAIUSCOLE/mINUSCOLE"
 
 msgid "words"
-msgstr ""
+msgstr "parole"

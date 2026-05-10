@@ -23,7 +23,7 @@ msgid "All"
 msgstr "Tutti"
 
 msgid "Back up the existing wiki and create a new one containing all pages?"
-msgstr ""
+msgstr "Eseguire il backup della wiki esistente e crearne una nuova contenente tutte le pagine?"
 
 msgid "Bio"
 msgstr "Biografia"
@@ -32,13 +32,13 @@ msgid "Broken link fixed"
 msgstr "Collegamento interrotto ripristinato"
 
 msgid "Browse"
-msgstr ""
+msgstr "Sfoglia"
 
 msgid "Cancel"
 msgstr "Annulla"
 
 msgid "Cannot define a project wiki without project path"
-msgstr ""
+msgstr "Impossibile definire una wiki di progetto senza il percorso del progetto"
 
 msgid "Characterization"
 msgstr "Caratterizzazione"
@@ -47,10 +47,10 @@ msgid "Characters"
 msgstr "Personaggi"
 
 msgid "Create"
-msgstr ""
+msgstr "Crea"
 
 msgid "Create project wiki"
-msgstr ""
+msgstr "Crea wiki del progetto"
 
 msgid "Done"
 msgstr "Fatto"
@@ -80,13 +80,13 @@ msgid "Major Character"
 msgstr "Personaggio principale"
 
 msgid "Matching page found"
-msgstr ""
+msgstr "Pagina corrispondente trovata"
 
 msgid "Minor Character"
 msgstr "Personaggio secondario"
 
 msgid "No Wiki link found"
-msgstr ""
+msgstr "Nessun collegamento Wiki trovato"
 
 msgid "Not a floating point value."
 msgstr "Non è un valore a virgola mobile."
@@ -98,16 +98,16 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Open an existing page, or create a new one?"
-msgstr ""
+msgstr "Aprire una pagina esistente o crearne una nuova?"
 
 msgid "Open an existing wiki, or create a new one?"
-msgstr ""
+msgstr "Aprire una wiki esistente o crearne una nuova?"
 
 msgid "Open project wiki"
-msgstr ""
+msgstr "Apri wiki del progetto"
 
 msgid "Open this page and create a link?"
-msgstr ""
+msgstr "Aprire questa pagina e creare un collegamento?"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -124,23 +124,17 @@ msgstr "Riprovare"
 msgid "Plot progress"
 msgstr "Progressi trama"
 
-msgid "Project wiki not found"
-msgstr ""
+msgid "Open an existing page, or create a new one?"
+msgstr "Aprire una pagina esistente o crearne una nuova?"
 
-msgid "Remove all Zim wiki links?"
-msgstr ""
+msgid "Open an existing wiki, or create a new one?"
+msgstr "Aprire una wiki esistente o crearne una nuova?"
 
-msgid "Remove the Zim wiki links of the selected elements?"
-msgstr ""
+msgid "Open project wiki"
+msgstr "Apri wiki del progetto"
 
-msgid "Remove wiki link?"
-msgstr ""
-
-msgid "Remove wiki links"
-msgstr ""
-
-msgid "Selected pages"
-msgstr ""
+msgid "Open this page and create a link?"
+msgstr "Aprire questa pagina e creare un collegamento?"
 
 msgid "The allowed maximum value is"
 msgstr "Il valore massimo consentito è"
@@ -155,49 +149,49 @@ msgid "Too small"
 msgstr "Troppo piccolo"
 
 msgid "Untitled"
-msgstr ""
+msgstr "Senza titolo"
 
 msgid "Wiki created"
-msgstr ""
+msgstr "Wiki creata"
 
 msgid "Wiki link created"
-msgstr ""
+msgstr "Collegamento Wiki creato"
 
 msgid "Wiki link removed"
-msgstr ""
+msgstr "Collegamento Wiki rimosso"
 
 msgid "Wiki link(s) removed"
-msgstr ""
+msgstr "Collegamenti Wiki rimossi"
 
 msgid "Wiki page"
-msgstr ""
+msgstr "Pagina Wiki"
 
 msgid "Wiki page created"
-msgstr ""
+msgstr "Pagina Wiki creata"
 
 msgid "Wiki page not found"
-msgstr ""
+msgstr "Pagina Wiki non trovata"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
 
 msgid "Zim Desktop Wiki"
-msgstr ""
+msgstr "Zim Desktop Wiki"
 
 msgid "Zim connection Online help"
-msgstr ""
+msgstr "Guida online della connessione Zim"
 
 msgid "Zim installation not found"
-msgstr ""
+msgstr "Installazione di Zim non trovata"
 
 msgid "Zim installation not found. Select now?"
-msgstr ""
+msgstr "Installazione di Zim non trovata. Selezionarla ora?"
 
 msgid "Zim notebook"
-msgstr ""
+msgstr "Blocco appunti Zim"
 
 msgid "Zim page"
-msgstr ""
+msgstr "Pagina Zim"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"

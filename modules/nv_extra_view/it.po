@@ -23,7 +23,7 @@ msgid "Ctrl"
 msgstr "Ctrl"
 
 msgid "Detach text viewer"
-msgstr ""
+msgstr "Scollega visualizzatore di testo"
 
 msgid "Detach/Dock Properties"
 msgstr "Stacca/Aggancia proprietà"
@@ -53,7 +53,7 @@ msgid "Unnamed"
 msgstr "Senza nome"
 
 msgid "by"
-msgstr "da"
+msgstr "di"
 
 msgid "https://peter88213.github.io/nvhelp-en"
 msgstr "https://peter88213.github.io/nv_it/help/"

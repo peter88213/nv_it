@@ -48,13 +48,13 @@ msgid "Draft"
 msgstr "Bozza"
 
 msgid "EPUB export plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin di esportazione EPUB"
 
 msgid "Ending"
 msgstr "Finale"
 
 msgid "File exported"
-msgstr ""
+msgstr "File esportato"
 
 msgid "File written"
 msgstr "File scritto"
@@ -78,7 +78,7 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Overwrite existing e-book?"
-msgstr ""
+msgstr "Sovrascrivere l'e-book esistente?"
 
 msgid "Peak emotional moment"
 msgstr "Momento emotivo clou"
@@ -93,13 +93,13 @@ msgid "There are unsaved changes"
 msgstr "Ci sono modifiche non salvate"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Sconosciuto"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
 
 msgid "e-book"
-msgstr ""
+msgstr "e-book"
 
 msgid "https://peter88213.github.io/nvhelp-en/nv_epub/"
 msgstr ""

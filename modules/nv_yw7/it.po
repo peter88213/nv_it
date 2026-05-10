@@ -25,20 +25,17 @@ msgstr "Azione annullata dall'utente"
 msgid "Bio"
 msgstr "Biografia"
 
-msgid "Can not process file"
-msgstr ""
+msgid "lowercase"
+msgstr "tutto minuscolo"
 
-msgid "Cannot overwrite file"
-msgstr "Impossibile sovrascrivere il file"
+msgid "new"
+msgstr "nuovo"
 
-msgid "Cannot write file"
-msgstr "Impossibile scrivere il file"
+msgid "tOGGLE cASE"
+msgstr "iNVERTI mAIUSCOLE/mINUSCOLE"
 
-msgid "Characterization"
-msgstr "Caratterizzazione"
-
-msgid "Create from yw7..."
-msgstr ""
+msgid "words"
+msgstr "parole"
 
 msgid "Done"
 msgstr "Fatto"
@@ -53,10 +50,7 @@ msgid "File"
 msgstr "File"
 
 msgid "File exported"
-msgstr ""
-
-msgid "File imported"
-msgstr ""
+msgstr "File esportato"
 
 msgid "File type is not supported"
 msgstr "Tipo di file non supportato"
@@ -80,10 +74,10 @@ msgid "Outline"
 msgstr "Struttura"
 
 msgid "Overwrite existing novelibre file?"
-msgstr ""
+msgstr "Sovrascrivere il file novelibre esistente?"
 
 msgid "Overwrite existing yWriter file?"
-msgstr ""
+msgstr "Sovrascrivere il file yWriter esistente?"
 
 msgid "Peak emotional moment"
 msgstr "Momento emotivo clou"
@@ -98,19 +92,19 @@ msgid "World building"
 msgstr "Costruzione del mondo"
 
 msgid "https://peter88213.github.io/nv_yw7/help/"
-msgstr ""
+msgstr "https://peter88213.github.io/nv_yw7/help/"
 
 msgid "unknown"
 msgstr "sconosciuto"
 
 msgid "yWriter 7 project"
-msgstr ""
+msgstr "Progetto yWriter 7"
 
 msgid "yWriter seems to be open. Please close first"
-msgstr ""
+msgstr "yWriter sembra essere aperto. Chiudilo prima di procedere"
 
 msgid "yw7 plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin yw7"
 
 msgid "yw7 project"
-msgstr ""
+msgstr "Progetto yw7"

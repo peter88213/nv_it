@@ -23,19 +23,19 @@ msgid "Action canceled by user"
 msgstr "Azione annullata dall'utente"
 
 msgid "Auto-generated snapshot"
-msgstr ""
+msgstr "Snapshot generato automaticamente"
 
 msgid "Before reverting to {} \n\"{}\""
-msgstr ""
+msgstr "Prima di ripristinare {} \n\"{}\""
 
 msgid "Bio"
 msgstr "Biografia"
 
 msgid "Can not remove snapshot"
-msgstr ""
+msgstr "Impossibile rimuovere lo snapshot"
 
 msgid "Can not restore snapshot"
-msgstr ""
+msgstr "Impossibile ripristinare lo snapshot"
 
 msgid "Cancel"
 msgstr "Annulla"
@@ -50,7 +50,7 @@ msgid "Characterization"
 msgstr "Caratterizzazione"
 
 msgid "Clean up Snapshot folder"
-msgstr ""
+msgstr "Pulisci cartella Snapshot"
 
 msgid "Close"
 msgstr "Chiudi"
@@ -65,7 +65,7 @@ msgid "Del"
 msgstr "Canc"
 
 msgid "Delete the selected snapshot?"
-msgstr ""
+msgstr "Eliminare lo snapshot selezionato?"
 
 msgid "Done"
 msgstr "Fatto"
@@ -110,13 +110,13 @@ msgid "Minor Character"
 msgstr "Personaggio secondario"
 
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "Online help"
 msgstr "Aiuto online"
 
 msgid "Open Snapshot folder"
-msgstr ""
+msgstr "Apri cartella Snapshot"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -134,7 +134,7 @@ msgid "Plot grid"
 msgstr "Griglia narrativa"
 
 msgid "Plot line descriptions"
-msgstr ""
+msgstr "Descrizioni linee della trama"
 
 msgid "Plot progress"
 msgstr "Progressi trama"
@@ -143,7 +143,7 @@ msgid "Remove"
 msgstr "Rimuovi"
 
 msgid "Revert"
-msgstr ""
+msgstr "Ripristina"
 
 msgid "Save"
 msgstr "Salva"
@@ -155,28 +155,28 @@ msgid "Section descriptions"
 msgstr "Descrizioni sezione"
 
 msgid "Snapshot"
-msgstr ""
+msgstr "Snapshot"
 
 msgid "Snapshot already exists"
-msgstr ""
+msgstr "Lo snapshot esiste già"
 
 msgid "Snapshot description"
-msgstr ""
+msgstr "Descrizione snapshot"
 
 msgid "Snapshot failed"
-msgstr ""
+msgstr "Creazione snapshot fallita"
 
 msgid "Snapshot generated"
-msgstr ""
+msgstr "Snapshot generato"
 
 msgid "Snapshot restored"
-msgstr ""
+msgstr "Snapshot ripristinato"
 
 msgid "Snapshots"
-msgstr ""
+msgstr "Snapshot"
 
 msgid "Snapshots plugin Online help"
-msgstr ""
+msgstr "Guida online del plugin Snapshot"
 
 msgid "Story structure"
 msgstr "Struttura della storia"
@@ -188,7 +188,7 @@ msgid "Undefined"
 msgstr "Non definito"
 
 msgid "With unused"
-msgstr ""
+msgstr "Con inutilizzati"
 
 msgid "Words"
 msgstr "Parole"
