@@ -5,6 +5,11 @@
 ## Changelog
 
 
+### Version 5.55.2
+
+- Set the novelibre API version to 5.55.
+
+
 ### Version 5.55.1
 
 Updated the plugin translations and the "Last-Translator" entry.

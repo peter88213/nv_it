@@ -26,7 +26,7 @@ TRANSLATIONS_DIR = f'{os.path.dirname(sys.argv[0])}/locale/{LANGUAGE_CODE}'
 class Plugin:
     """Language package plugin class."""
     VERSION = '@release'
-    API_VERSION = '5.43'
+    API_VERSION = '5.55'
     DESCRIPTION = 'Italian language package'
     URL = 'https://github.com/peter88213/nv_it'
 
