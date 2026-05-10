@@ -4,7 +4,7 @@
 
 # ![N](img/nLogo32.png) ![Italiano](img/italy.png) novelibre
 
-[novelibre](https://github.com/peter88213/novelibre/)  aiuta i romanzieri a 
+*novelibre* aiuta i romanzieri a 
 pianificare romanzi di ampio respiro e a tenerne traccia durante la creazione e la revisione.  
 *novelibre* è progettato per scrittori che hanno familiarità con LibreOffice o OpenOffice.  
 *novelibre* è un componente aggiuntivo per OpenOffice o LibreOffice che aiuta a suddividere 

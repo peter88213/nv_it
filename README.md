@@ -9,8 +9,8 @@ Italian language package for [novelibre](https://github.com/peter88213/novelibre
 
 This repository includes
 - Italian translations of the *novelibre* user interface to be installed as a plugin.
-- Italian online help pages linked to the application. 
-- A *novelibre* home page in Italian. 
+- [Italian online help pages](https://peter88213.github.io/nv_it/help/) linked to the application. 
+- A *novelibre* [home page in Italian](https://peter88213.github.io/nv_it/). 
 
 > [!IMPORTANT]
 > This repository needs maintenance by Italian-speaking persons. 
