@@ -69,7 +69,7 @@ the `Enter` key.
 
 ## Split a section
 
-With **File > ${Split at cursor position}** or `Ctrl`-`Alt`-`S`, you can
+With **File > Dividi** or `Ctrl`-`Alt`-`S`, you can
 split the section at the cursor position.
 
 -   All the text from the cursor position is cut and pasted into a newly
@@ -84,27 +84,11 @@ split the section at the cursor position.
 
 ## Create a section
 
-With **File > ${Create section}** or `Ctrl`-`Alt`-`N`, you can create a section.
+With **File > Nuovo** or `Ctrl`-`Alt`-`N`, you can create a section.
 
 -   The new section is placed after the currently edited section.
 -   The new section is of the same type as the currently edited section.
 -   The editor loads the newly created section.
-
-## Word count
-
--   The section word count is displayed at the status bar at the bottom
-    of the window.
--   By default, word count is updated manually, either by pressing the
-    `F5` key, or via the **Conteggio parole > Aggiorna** menu entry.
--   The word count can be updated "live", i.e. just while entering
-    text. This is enabled or disabled via the 
-    **Conteggio parole > Aggiornamento in tempo reale** menu checkbox.
-
-
-> **Note**
-> 
-> Live updating the word count is resource intensive and may slow down the
-> program when editing big sections. This is why it's disabled by default.
 
 
 ## Apply changes

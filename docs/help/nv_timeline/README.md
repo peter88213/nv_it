@@ -10,9 +10,9 @@ This page refers to the latest
 [nv_timeline](https://github.com/peter88213/nv_timeline/) release. You
 can open it with **Aiuto > Guida online del plugin Cronologia**.
 
-The plugin adds a **${Timeline}** entry to the *novelibre* **Strumenti** menu,
-a **${Create from Timeline\...}** to the **File > Nuovo** submenu, and a
-**${Timeline plugin Online Help}** entry to the **Aiuto** menu. The Toolbar
+The plugin adds a **Timeline** entry to the *novelibre* **Strumenti** menu,
+a **Crea da Cronologia...** to the **File > Nuovo** submenu, and a
+**Guida online del plugin Cronologia** entry to the **Aiuto** menu. The Toolbar
 gets a ![Timeline](images/tl.png) button.
 
 ## Command reference

@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_snapshots](https://github.com/peter88213/nv_snapshots/) release. You
-can open it with **Aiuto > ${Snapshots Online help}** or `F1`.
+can open it with **Aiuto > Guida online del plugin Snapshot** or `F1`.
 
 The plugin adds a **Snapshots** entry to the *novelibre* **Strumenti** menu,
 a **Snapshot** entry to the **File** menu, and a 
@@ -42,8 +42,8 @@ OpenOffice/LibreOffice.
     document that you want to compare (e.g. the manuscript).
 2.  Export a document of the same kind from the current project and open
     it.
-3.  Select **Modifica > ${Compare Document}** (OpenOffice), or
-    *File > ${Compare Document}** (newer versions of LibreOffice), or 
+3.  Select **Modifica > Compare Document** (OpenOffice), or
+    *File > Compare Document** (newer versions of LibreOffice), or 
     **Modifica - Track Changes - Compare Document\...**
     (older versions of LibreOffice).
 4.  A file selection dialog opens. Select the "snapshot document" and
@@ -102,7 +102,7 @@ a display field for the title and description of the selected snapshot.
 The functions of the snapshot manager are accessed via the menu
 described below.
 
-#### Aiuto > ${Snapshots Online help}
+#### Aiuto > Guida online del plugin Snapshot
 
 Starts the system web browser with this page.
 

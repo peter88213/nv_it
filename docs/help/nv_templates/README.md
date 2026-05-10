@@ -14,8 +14,8 @@ With *novelibre*, you can define a narrative structure with stages.
 *nv_templates* faciliates the reuse of narrative structures.
 
 The plugin adds a **Modelli di storia** entry to the *novelibre* **Strumenti**
-menu, a **${${Create from Template\...}** entry to the **File} > Nuovo**
-submenu, and a **${Template plugin Online Help}** entry to the **Aiuto**
+menu, a **Crea da modello......}** entry to the **File} > Nuovo**
+submenu, and a **Guida online del plugin Modelli** entry to the **Aiuto**
 menu.
 
 
@@ -30,7 +30,7 @@ menu.
 
 ### File > Nuovo
 
-#### ${Create from template\...}
+#### Crea da modello...
 
 This creates a new project with the narrative structure from a Markdown
 template file.
@@ -42,13 +42,13 @@ template file.
 
 ### Strumenti > Modelli di storia
 
-#### ${Load\...}
+#### Carica...
 
 This loads the narrative structure from a Markdown template file.
 
 -   A file select dialog asks for the template file to apply.
 
-#### ${Save\...}
+#### Salva...
 
 This saves the narrative structure to a Markdown template file.
 

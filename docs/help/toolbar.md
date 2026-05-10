@@ -108,7 +108,7 @@ Same as **Visualizza > Evidenzia elementi etichettati**.
 ![Seleziona elementi evidenziati](images/select.png) 
 Select all highlighted elements in the project tree for further action.
 
-![${Reset highlighting}](images/reset_highlight.png) Reset the highlighting of tree elements.
+![Annulla evidenziazione](images/reset_highlight.png) Reset the highlighting of tree elements.
 Same as **Visualizza > Annulla evidenziazione**.
 
 While tree elements are highlighted, the criterion is displayed on the right of the reset button.

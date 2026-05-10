@@ -93,7 +93,7 @@ use **Serie > Rimuovi la serie selezionata ma mantieni i libri**.
 
 
 To delete the selected series and remove all its books from the
-collection, use **Serie > ${Remove selected series}**.
+collection, use **Serie > Rimuovi la serie e i libri selezionati**.
 
 ## Quit/Exit
 
