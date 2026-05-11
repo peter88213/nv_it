@@ -37,7 +37,7 @@ utente sono tradotti in italiano.
 
 - [Pagina di **download dell'applicazione** (inglese)](https://github.com/peter88213/novelibre) 
 - [Pagina di **download dei pacchetti lingua** (inglese)](https://github.com/peter88213/nv_it)
-- [Aiuto in linea](help) 
+- [Aiuto online](help) 
 - [Wiki in italiano](https://github.com/peter88213/nv_it/wiki)
 - [Invia un feedback o fai una domanda (inglese)](https://github.com/peter88213/novelibre/discussions)
 - [Discussioni in italiano](https://github.com/peter88213/nv_it/discussions)
