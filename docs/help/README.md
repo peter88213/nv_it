@@ -24,8 +24,8 @@ where users can publish further instructions, tips, and tutorials in Italian.
 > This online manual is to be translated. 
 > For the time being, most of the content is in English, but the terms of the
 > user interface are consistently referred to in their translated form.
->
 > Volunteers who would like to translate and update these pages are welcome. 
+>
 > The help pages are based on **novelibre version 5.49**.
 > For newer features, please refer to the English online help. 
 
