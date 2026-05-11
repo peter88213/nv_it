@@ -185,15 +185,15 @@ renamed and kept as a backup.
 > re-select it in the next session.
 
 
-### ${Remove wiki links}
+### Rimuovi i link wiki
 
-With **Strumenti > Zim Desktop Wiki > ${Remove wiki links}** you can remove
+With **Strumenti > Zim Desktop Wiki > Rimuovi i link wiki** you can remove
 saved wiki links from the project file. This takes effect when saving
 the next time.
 
 A submenu offers two options:
 
-#### ${Selected pages}
+#### Pagine selezionate
 
 This will remove the Zim wiki links of the selected elements. This
 command only refers to linked pages, but not to the project wiki.

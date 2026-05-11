@@ -6,10 +6,10 @@ languageName = 'Italian'
 languageCode = 'it'
 # the language code according to ISO 639-1
 
-provider = "Sandro Mattei <sandro.mattei@proton.me>"
+provider = "Peter Triesberger"
 # the name of the translation's provider
 
-lastTranslator = "Sandro Mattei <sandro.mattei@proton.me>"
+lastTranslator = "Albano Battistella <albanobattistella@gmail.com>"
 # the name of the last translator
 
 __all__ = ['languageName', 'languageCode', 'provider', 'lastTranslator']

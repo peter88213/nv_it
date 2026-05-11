@@ -5,6 +5,11 @@
 ## Changelog
 
 
+### Version 5.55.4
+
+- Completed UI translations.
+
+
 ### Version 5.55.3
 
 - Included translations for the plugins as provided by @albanobattistella.

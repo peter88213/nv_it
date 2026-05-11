@@ -1,5 +1,5 @@
 # nv_aeon2 Dictionary (English-Italian)
-# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+# Copyright (C) Peter Triesberger
 #
 msgid ""
 msgstr ""

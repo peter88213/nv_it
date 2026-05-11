@@ -1,5 +1,5 @@
 # nv_writer Dictionary
-# Copyright (C) 2026 Peter Triesberger
+# Copyright (C) Peter Triesberger
 #
 msgid ""
 msgstr ""

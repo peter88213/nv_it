@@ -1,5 +1,5 @@
 # nv_matrix Dictionary (English-Italian)
-# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+# Copyright (C) Peter Triesberger
 #
 msgid ""
 msgstr ""

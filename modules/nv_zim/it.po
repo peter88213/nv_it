@@ -1,11 +1,11 @@
 # nv_zim Dictionary (English-Italian)
-# Copyright (C) 2023 Sandro Mattei <sandro.mattei@proton.me>
+# Copyright Peter Triesberger
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 5.8.0\n"
 "POT-Creation-Date: 2025-09-04 13:00:53\n"
-"PO-Revision-Date: 2026-05-10 15:27:04\n"
+"PO-Revision-Date: 2026-05-11 10:49:45\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -125,22 +125,22 @@ msgid "Plot progress"
 msgstr "Progressi trama"
 
 msgid "Project wiki not found"
-msgstr ""
+msgstr "Wiki del progetto non trovato"
 
 msgid "Remove all Zim wiki links?"
-msgstr ""
+msgstr "Rimuovere tutti i link wiki Zim?"
 
 msgid "Remove the Zim wiki links of the selected elements?"
-msgstr ""
+msgstr "Rimuovere i link wiki Zim dagli elementi selezionati?"
 
 msgid "Remove wiki link?"
-msgstr ""
+msgstr "Rimuovere il link al wiki?"
 
 msgid "Remove wiki links"
-msgstr ""
+msgstr "Rimuovi i link wiki"
 
 msgid "Selected pages"
-msgstr ""
+msgstr "Pagine selezionate"
 
 msgid "The allowed maximum value is"
 msgstr "Il valore massimo consentito è"
