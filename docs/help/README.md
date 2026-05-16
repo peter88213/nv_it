@@ -15,9 +15,6 @@ on the user concept, and "How To" guides can be found in the
 The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
 provides further detailed instructions in English.
 
-There is also a [wiki](https://github.com/peter88213/nv_it/wiki) 
-where users can publish further instructions, tips, and tutorials in Italian.
-
 
 > **Note**
 > 
