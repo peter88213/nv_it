@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.55.16\n"
 "POT-Creation-Date: 2026-04-20 09:16:34\n"
-"PO-Revision-Date: 2026-05-09 14:10+0200\n"
+"PO-Revision-Date: 2026-05-17 13:32:27\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -13,12 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: novelibre pgettext.py 1.0\n"
 
-
-msgid "\"Export\" options"
-msgstr "Opzioni di \"Esportazione\""
-
-msgid "\"View\" options"
-msgstr "Opzioni di \"Visualizzazione\""
 
 msgid "1st Edit"
 msgstr "1ª Revisione"
@@ -1214,6 +1208,12 @@ msgstr "Rimuovi questo capitolo, mantieni le sezioni"
 msgid "Remove this chapter?"
 msgstr "Rimuovere questo capitolo?"
 
+msgid "Replace the plot point description with this"
+msgstr ""
+
+msgid "Replace this with the plot point description"
+msgstr ""
+
 msgid "Required"
 msgstr "Richiesto"
 
@@ -1415,6 +1415,9 @@ msgstr "Il valore massimo consentito è"
 msgid "The allowed minimum value is"
 msgstr "Il valore minimo consentito è"
 
+msgid "The assigned section's plot line notes"
+msgstr ""
+
 msgid "The change takes effect after next startup"
 msgstr "La modifica diventerà effettiva al prossimo riavvio"
 
@@ -1612,6 +1615,12 @@ msgstr "AAAA-MM-GG"
 
 msgid "Zipped novelibre project"
 msgstr "Progetto novelibre compresso (ZIP)"
+
+msgid "\"Export\" options"
+msgstr "Opzioni di \"Esportazione\""
+
+msgid "\"View\" options"
+msgstr "Opzioni di \"Visualizzazione\""
 
 msgid "and"
 msgstr "e"
