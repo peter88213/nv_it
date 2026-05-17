@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.5.1\n"
-"POT-Creation-Date: 2025-09-11 22:56:58\n"
-"PO-Revision-Date: 2026-05-09 18:47:10\n"
+"Project-Id-Version: 5.6.1\n"
+"POT-Creation-Date: 2026-03-19 21:10:30\n"
+"PO-Revision-Date: 2026-05-17 22:01:09\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -18,6 +18,7 @@ msgstr "1ª Revisione"
 
 msgid "2nd Edit"
 msgstr "2ª Revisione"
+
 msgid "Add"
 msgstr "Aggiungi"
 

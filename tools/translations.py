@@ -3,7 +3,7 @@
 Requires Python 3.9+
 
 Copyright (c) Peter Triesberger
-For further information see https://github.com/peter88213/novelibre
+For further information see https://github.com/peter88213/nv_xx
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 from datetime import datetime
@@ -54,7 +54,7 @@ class PoFile:
                     self.messages[self._msgid] = msgstr
         output(f'{len(self.messages)} entries read.')
 
-    def write(self, potMsgList, jsonMessages, version):
+    def write(self, potMsgList, jsonMessages, version, potDate):
         """Write translations to the '.po' file, if there are changes.
 
         Create a backup file, if necessary.
@@ -74,6 +74,9 @@ class PoFile:
         self.messages = messages
         if version and self.data.get('Project-Id-Version', '') != version:
             self.data['Project-Id-Version'] = version
+            changesCount += 1
+        if potDate and self.data.get('POT-Creation-Date', '') != potDate:
+            self.data['POT-Creation-Date'] = potDate
             changesCount += 1
 
         if changesCount == 0:
@@ -178,19 +181,21 @@ class JsonDict:
         )
 
 
-def main(potFilePath, poFilePath, jsonDictPath, version=None):
+def main(potFilePath, poFilePath, jsonDictPath):
     potFile = PoFile(potFilePath)
     potFile.read()
     poFile = PoFile(poFilePath)
     poFile.read()
-    latestVersion = potFile.data.get('Project-Id-Version', version)
+    potDate = potFile.data.get('POT-Creation-Date', None)
+    latestVersion = potFile.data.get('Project-Id-Version', None)
     jsonDict = JsonDict(jsonDictPath)
     jsonDict.read()
     jsonDict.write(poFile.messages)
     poFile.write(
         sorted(list(potFile.messages)),
         jsonDict.messages,
-        version,
+        latestVersion,
+        potDate,
     )
     return poFile.data['Project-Id-Version']
 
