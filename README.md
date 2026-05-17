@@ -27,7 +27,7 @@ This repository includes
 
 ### Default: Executable Python zip archive
 
-Download the latest release [nv_it_v5.55.4.pyz](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.55.4.pyz) (284 KB)
+Download the latest release [nv_it_v5.55.4.pyz](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.55.4.pyz) (285 KB)
 
 - Launch *nv_it_v5.55.4.pyz* by double-clicking (Windows desktop),
 - or execute `python nv_it_v5.55.4.pyz` (Windows), resp. `python3 nv_it_v5.55.4.pyz` (Linux) on the command line.
@@ -45,7 +45,7 @@ Download the latest release [nv_it_v5.55.4.pyz](https://github.com/peter88213/nv
 
 ### Alternative: Zip file
 
-The package is also available in zip format: [nv_it_v5.55.4.zip](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.55.4.zip) (284 KB)
+The package is also available in zip format: [nv_it_v5.55.4.zip](https://github.com/peter88213/nv_it/raw/main/dist/nv_it_v5.55.4.zip) (286 KB)
 
 - Extract the *nv_it_v5.55.4* folder from the downloaded zipfile "nv_it_v5.55.4.zip".
 - Move into this new folder and launch *setup.py* by double-clicking (Windows/Linux desktop), 

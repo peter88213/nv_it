@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### Version 5.56.0
+
+- Added new translations for novelibre 5.56.0: 
+  - "The assigned section's plot line notes"
+  - "Replace the plot point description with this"
+  - "Replace this with the plot point description"
+- Updated the it.po metadata for all moddules.
+
 
 ### Version 5.55.4
 

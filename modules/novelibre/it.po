@@ -1209,10 +1209,10 @@ msgid "Remove this chapter?"
 msgstr "Rimuovere questo capitolo?"
 
 msgid "Replace the plot point description with this"
-msgstr ""
+msgstr "Sostituisci la descrizione del punto di svolta con questa"
 
 msgid "Replace this with the plot point description"
-msgstr ""
+msgstr "Sostituiscilo con la descrizione del punto di svolta"
 
 msgid "Required"
 msgstr "Richiesto"
@@ -1416,7 +1416,7 @@ msgid "The allowed minimum value is"
 msgstr "Il valore minimo consentito è"
 
 msgid "The assigned section's plot line notes"
-msgstr ""
+msgstr "Note sulla linea narrativa della sezione assegnata"
 
 msgid "The change takes effect after next startup"
 msgstr "La modifica diventerà effettiva al prossimo riavvio"
