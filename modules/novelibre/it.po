@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.56.0\n"
-"POT-Creation-Date: 2026-05-17 13:14:13\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.56.3\n"
+"POT-Creation-Date: 2026-05-18 20:52:42\n"
+"PO-Revision-Date: 2026-05-18 20:59:16\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -244,6 +244,9 @@ msgstr "Prefisso numero capitolo"
 
 msgid "Chapter number suffix"
 msgstr "Suffisso numero capitolo"
+
+msgid "Chapter structure board"
+msgstr ""
 
 msgid "Chapter table"
 msgstr "Tabella capitoli"
@@ -650,8 +653,17 @@ msgstr "Obiettivo"
 msgid "Goals"
 msgstr "Obiettivi"
 
+msgid "HTML Chapter structure board"
+msgstr ""
+
+msgid "HTML Plot line board"
+msgstr ""
+
 msgid "HTML Plot table"
 msgstr "Tabella trama HTML"
+
+msgid "HTML Story structure board"
+msgstr ""
 
 msgid "HTML Time table"
 msgstr "Tabella temporale HTML"
@@ -881,6 +893,9 @@ msgstr "La sezione successiva inizia tra"
 msgid "No backup available"
 msgstr "Nessun backup disponibile"
 
+msgid "No chapters found"
+msgstr ""
+
 msgid "No character data found"
 msgstr "Dati personaggio non trovati"
 
@@ -925,6 +940,9 @@ msgstr "Nessuna nota di progetto trovata"
 
 msgid "No relationship found"
 msgstr "Nessuna relazione trovata"
+
+msgid "No stages found"
+msgstr ""
 
 msgid "No tags defined"
 msgstr "Nessuna etichetta definita"
@@ -1114,6 +1132,9 @@ msgstr "Griglia narrativa"
 
 msgid "Plot line"
 msgstr "Linea narrativa"
+
+msgid "Plot line board"
+msgstr ""
 
 msgid "Plot lines"
 msgstr "Linee narrative"
@@ -1340,6 +1361,9 @@ msgstr "Mostra oggetti"
 msgid "Show Locations"
 msgstr "Mostra luoghi"
 
+msgid "Show Plot line board in browser"
+msgstr ""
+
 msgid "Show Plot lines"
 msgstr "Mostra linee narrative"
 
@@ -1355,11 +1379,17 @@ msgstr "Mostra tabella temporale"
 msgid "Show ages"
 msgstr "Mostra età"
 
+msgid "Show chapter structure board in browser"
+msgstr ""
+
 msgid "Show markup"
 msgstr "Mostra markup"
 
 msgid "Show notes"
 msgstr "Mostra note"
+
+msgid "Show story structure board in browser"
+msgstr ""
 
 msgid "Show table in Browser"
 msgstr "Mostra tabella nel browser"
@@ -1387,6 +1417,9 @@ msgstr "Stato"
 
 msgid "Story structure"
 msgstr "Struttura della storia"
+
+msgid "Story structure board"
+msgstr ""
 
 msgid "Story time"
 msgstr "Tempo della storia"
