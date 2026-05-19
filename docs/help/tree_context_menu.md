@@ -54,6 +54,20 @@ Paste the element stored in the clipboard to the tree.
 Same as `Ctrl`-`V`.
 
 
+## Common context menu entries for Color assignments
+
+
+### ${Assign color...}
+
+Assign a color to the selected element.
+A color picker dialog opens.
+If you cancel the color choosing process, the color of the selected element remains unchanged.
+
+### Annulla colore
+
+Reset the color of the selected element.
+
+---
 
 ## Libro context menu entries
 
@@ -104,12 +118,64 @@ selection.
     right pane.
 -   The new stage is on the second level by default.
 
+### Inserisci capitolo
+
+Creates a chapter after the selected section's chapter
+and moves the sections after the selected section into the new chapter.
+
+You will be asked for confirmation before.
+Be aware, there is no "Undo" feature.
+
+
+### Clona
+
+Creates a copy of the selected section.
+
+- The clone is inserted behind the selected section in the project tree.
+- The type of the cloned section is `"unused" <basic_concepts.html#part-chapter-section-types>`__.
+- The cloned section has all the properties and assignments of the original,
+  except for plot point assignments.
+
+### Unisci al precedente
+
+Joins two sections, if within the same chapter, of the same type, and
+with the same viewpoint.
+
+-   New title = title of the prevoius section & title of the selected
+    section
+-   The section contents are concatenated, separated by a paragraph
+    separator.
+-   Descriptions are concatenated, separated by a paragraph separator.
+-   Goals are concatenated, separated by a paragraph separator.
+-   Conflicts are concatenated, separated by a paragraph separator.
+-   Outcomes are concatenated, separated by a paragraph separator.
+-   Notes are concatenated, separated by a paragraph separator.
+-   Character lists are merged.
+-   Location lists are merged.
+-   Item lists are merged.
+-   Plot line assignments are merged.
+-   Plot point associations are moved to the joined section, if any.
+-   Section durations are added.
+
+You will be asked for confirmation before.
+Be aware, there is no "Undo" feature.
+
+
+### ${Remove this chapter, keep sections}
+
+Moves the selected chapter's sections to the previous chapter,
+then deletes the selected chapter.
+
+You will be asked for confirmation before.
+Be aware, there is no "Undo" feature.
+
 ### Cambia livello
 
 Changes the level of a chapter or a stage.
 
 -   **1º Livello** converts a selected chapter into a part.
 -   **2º Livello** converts a selected part into a chapter.
+
 
 ### Esporta questo capitolo
 
@@ -165,31 +231,6 @@ of the list, this will clear the viewpoint association.
 > 
 > Select a parent node to set the viewpoint for multiple sections.
 
-
-### Unisci al precedente
-
-Joins two sections, if within the same chapter, of the same type, and
-with the same viewpoint.
-
--   New title = title of the prevoius section & title of the selected
-    section
--   The section contents are concatenated, separated by a paragraph
-    separator.
--   Descriptions are concatenated, separated by a paragraph separator.
--   Goals are concatenated, separated by a paragraph separator.
--   Conflicts are concatenated, separated by a paragraph separator.
--   Outcomes are concatenated, separated by a paragraph separator.
--   Notes are concatenated, separated by a paragraph separator.
--   Character lists are merged.
--   Location lists are merged.
--   Item lists are merged.
--   Plot line assignments are merged.
--   Plot point associations are moved to the joined section, if any.
--   Section durations are added.
-
-> **Caution**
-> 
-> Be aware, there is no "Undo" feature.
 
 ## Personaggi/Luoghi/Oggetti context menu entries
 

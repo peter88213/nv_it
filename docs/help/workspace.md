@@ -28,9 +28,9 @@ The project tree in the left pane shows the organization of the project.
 
 -   The **Libro** branch contains the parts, chapters, and sections that
     belong to the novel manuscript.
+-   The **Linee narrative** branch contains the plot lines and plot points.
 -   The **Personaggi/Luoghi/Oggetti** branches contain descriptions of
     the story world's elements that can be associated with the book's sections.
--   The **Linee narrative** branch contains the plot lines and plot points.
 -   The **Note di progetto** branch contains project notes.
 
 ### Project tree operation

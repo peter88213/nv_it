@@ -1,16 +1,16 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../) > [Aiuto online](./) > Trama menu
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../) > [Aiuto online](./) > Linee narrative menu
 
 ---
 
-# Trama menu
+# Linee narrative menu
 
-**Plot elements operation**
+**Plot line elements operation**
 
 ## Aggiungi linea narrativa
 
 **Add a new plot line to the story**
 
-With **Trama > Aggiungi linea narrativa**, you can add a plot line to the tree.
+With **Linee narrative > Aggiungi linea narrativa**, you can add a plot line to the tree.
 
 -   If a plot line is selected, the new plot line is placed after the
     selected one.
@@ -22,7 +22,7 @@ With **Trama > Aggiungi linea narrativa**, you can add a plot line to the tree.
 
 **Add a new Plot point to the selected plot line**
 
-With **Trama > Aggiungi punto di svolta**, you can add a plot point to a plot line.
+With **Linee narrative > Aggiungi punto di svolta**, you can add a plot point to a plot line.
 
 -   If a plot point is selected, the new plot point is placed after the
     selected one.
@@ -34,32 +34,22 @@ With **Trama > Aggiungi punto di svolta**, you can add a plot point to a plot li
 
 ---
 
-## Inserisci fase
+## ${Assign color...}
 
-**Insert a stage between the sections**
+**Assign a color to all selected plot lines**
 
-With **Trama > Inserisci fase**, you can insert a stage after the selected
-chapter or section.
+With **Linee narrative > ${Assign color...}**
+you can assign a color to all plot lines in a single or multiple selection.
+A color picker dialog opens.
+If you cancel the color choosing process, the color of the selected plot lines remain unchanged.
 
-> **Hint**
-> 
-> By default, the new stage is on the second level. You can change the
-> level to first (see below).
 
-## Cambia livello
+## Annulla colore
 
-**Change the level of the selected stages**
+**Reset the colors of all selected plot lines**
 
-With **Trama > Cambia livello**, you can change the level of the selected
-stages.
-
--   **1º Livello** is displayed in bold face.
--   **2º Livello** is displayed in regular font.
-
-> **Note**
-> 
-> The stage level is only for visual distinction. It has no influence on
-> the program functions.
+With **Linee narrative > Annulla colore**
+you can clear the color assignments for all plot lines in a single or multiple selection.
 
 ---
 
@@ -67,7 +57,7 @@ stages.
 
 **Import plot lines with plot points from another project**
 
-With **Trama > Importa linee narrative**, you can import a selection of plot
+With **Linee narrative > Importa linee narrative**, you can import a selection of plot
 lines from another project. First you select an XML file containing the
 plot lines. Then you select the plot lines you want to add to the
 current project.
@@ -83,7 +73,7 @@ current project.
 
 **Export an ODS document that can be imported again after editing**
 
-With **Trama > Esporta griglia narrativa per la modifica**, you can create a
+With **Linee narrative > Esporta griglia narrativa per la modifica**, you can create a
 spreadsheet with a row per section, containing the following data:
 
 -   The sequential section number as a hyperlink to the section in the
@@ -127,36 +117,12 @@ is `_grid_tmp`.
 > default, must not be changed as they contain the structural information
 > for the import.
 
-## Esporta descrizione struttura storia per la modifica
-
-**Export an ODT document that can be imported again after editing**
-
-With **Trama > Esporta descrizione struttura storia per la modifica**, you can
-create a text document that contains all stages, each with description.
-File name suffix is `_structure_tmp`.
-
-> **Hint**
-> 
-> This is also a full synopsis, with the emphasis on the dramaturgical
-> structure.
-
--  Stages can neither be rearranged nor deleted.
--  With *Writer*, you can create stages by inserting headings
-   within the description area:
-
-   -  *Heading 1* → New first-level stage.
-   -  *Heading 2* → New second-level stage.
-
-   > **Important** 
-   > Documents with new stages are automatically
-   > discarded after the *novelibre* project is updated.
-
 
 ## Esporta descrizioni linea narrativa per la modifica
 
 **Export an ODT document that can be imported again after editing**
 
-With **Trama > Esporta descrizioni linea narrativa per la modifica**,
+With **Linee narrative > Esporta descrizioni linea narrativa per la modifica**,
 you can create a text document that contains stages, plot lines, and
 plot points, each with description. The plot points are linked to the
 manuscript and to the section descriptions. File name suffix is
@@ -168,7 +134,7 @@ manuscript and to the section descriptions. File name suffix is
 
 **Export an ODS document**
 
-With **Trama > Tabella trama (solo esportazione)**, you can create a spreadsheet
+With **Linee narrative > Tabella trama (solo esportazione)**, you can create a spreadsheet
 with a row per section and a column per plot line. Associations between
 plot lines and sections are color-highlighted. Plot point titles are
 displayed. File name suffix is `_plotlist`.
@@ -195,12 +161,29 @@ the plot description (right).
 
 **Show an HTML report with plot elements**
 
-With **Trama > Mostra tabella trama nel browser**, You can create a HTML file
+With **Linee narrative > Mostra tabella trama nel browser**, You can create a HTML file
 that contains a plot table similar to the ODS plot table (see above),
 but without any hyperlinks, and launch your system's web browser for
 displaying it.
 
 ![Edge browser screenshot](images/plot_menu03.jpg)
+
+> **Note**
+> 
+> The report is a temporary file, auto-deleted on program exit. If needed,
+> you can have your web browser save or print it.
+
+
+## ${Show Plot line board in browser}
+
+**Show an HTML report with plot point cards arranged by plot lines**
+
+With **Linee narrative > ${Show Plot line board in browser}**, You can create a HTML file
+that contains a board with "index cards" for all plot lines and plot points.
+The index cards contain the title and the description of the corresponding element.
+The plot line cards are arranged in the first column. 
+Each plot line card opens a row containing the cards of the assigned plot points.
+
 
 > **Note**
 > 

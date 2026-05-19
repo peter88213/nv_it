@@ -78,6 +78,26 @@ vice versa.
 -   **1º Livello** converts the selected chapters into parts.
 -   **2º Livello** converts the selected parts into chapters.
 
+
+## ${Assign color...}
+
+**Assign a color to all selected chapters and parts**
+
+With **Capitolo > ${Assign color...}**
+you can assign a color to all chapters and parts in a single or multiple selection.
+A color picker dialog opens.
+If you cancel the color choosing process, the color of the selected chapters and parts remain unchanged.
+
+
+## Annulla colore
+
+**Reset the colors of all selected chapters and parts**
+
+With **Capitolo > Annulla colore**
+you can clear the color assignments for all chapters and parts in a single or multiple selection.
+
+---
+
 ## Sposta i capitoli selezionati in un nuovo progetto
 
 **Split one book in two**
@@ -159,6 +179,24 @@ contains a row per part. File name suffix is `_partlist_tmp`.
 > reimport. Only the first column and the first row, which are hidden by
 > default, must not be changed as they contain the structural information
 > for the import.
+
+---
+
+## ${Show chapter structure board in browser}
+
+**Show an HTML report with section cards arranged by chapters**
+
+With **Capitolo > ${Show chapter structure board in browser}**, You can create a HTML file
+that contains a board with "index cards" for the chapters and all used sections.
+The index cards contain the title and the description of the corresponding element.
+The chapter cards are arranged in the first column.
+Each chapter card opens a row containing the cards of the assigned sections.
+
+> **Note**
+> 
+> The report is a temporary file, auto-deleted on program exit. If needed,
+> you can have your web browser save or print it.
+
 
 ---
 

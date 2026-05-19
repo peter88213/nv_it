@@ -20,6 +20,9 @@ Same as `Alt`-`Right`.
 ![Mostra libro](images/viewBook.png) Go to the "Libro" branch and expand
 it. Same as **Visualizza > Mostra libro**.
 
+![Mostra linee narrative](images/viewArcs.png) Go to the "Linee narrative" branch
+and expand it. Same as **Visualizza > Mostra linee narrative**.
+
 ![Mostra personaggi](images/viewCharacters.png) Go to the "Personaggi"
 branch and expand it. Same as **Visualizza > Mostra personaggi**.
 
@@ -28,9 +31,6 @@ branch and expand it. Same as **Visualizza > Mostra luoghi**.
 
 ![Mostra oggetti](images/viewItems.png) Go to the "Oggetti" branch and
 expand it. Same as **Visualizza > Mostra oggetti**.
-
-![Mostra linee narrative](images/viewArcs.png) Go to the "Linee narrative" branch
-and expand it. Same as **Visualizza > Mostra linee narrative**.
 
 ![Mostra note di progetto](images/viewProjectnotes.png) Go to the "Note di progetto" 
 branch and expand it. Same as **Visualizza > Mostra note di progetto**.

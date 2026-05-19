@@ -2,7 +2,7 @@
 
 ---
 
-# ![N](../img/nLogo32.png) ![Italiano](../img/italy.png) novelibre Aiuto online
+# ![N](../img/nLogo32.png) novelibre Aiuto online
 
 This page refers to the
 [novelibre](https://github.com/peter88213/novelibre/) application. 
@@ -15,17 +15,20 @@ on the user concept, and "How To" guides can be found in the
 The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
 provides further detailed instructions in English.
 
+There is also a [wiki](https://github.com/peter88213/nv_xx/wiki) 
+where users can publish further instructions, tips, and tutorials in xxx.
+
 
 > **Note**
 > 
 > This online manual needs to be translated. 
 > For the time being, most of the content is in English, but the terms of the
 > user interface are consistently referred to in their translated form.
+> Terms for which no translations are currently available are represented by placeholders. 
 > Volunteers who would like to translate and update these pages are welcome. 
 >
-> The help pages are based on **novelibre version 5.49**.
+> The help pages are based on **novelibre version 5.56**.
 > For newer features, please refer to the English online help. 
-
 
 ## General
 
@@ -39,10 +42,11 @@ provides further detailed instructions in English.
 - [Visualizza menu](view_menu.md)
 - [Capitolo menu](chapter_menu.md)
 - [Sezione menu](section_menu.md)
+- [Struttura della storia menu](story_structure_menu.md)
+- [Linee narrative menu](plot_lines_menu.md)
 - [Personaggi menu](characters_menu.md)
 - [Luoghi menu](locations_menu.md)
 - [Oggetti menu](items_menu.md)
-- [Trama menu](plot_menu.md)
 - [Note di progetto menu](project_notes_menu.md)
 - [Importa menu](import_menu.md)
 - [Esporta menu](export_menu.md)

@@ -42,8 +42,8 @@ OpenOffice/LibreOffice.
     document that you want to compare (e.g. the manuscript).
 2.  Export a document of the same kind from the current project and open
     it.
-3.  Select **Modifica > Compare Document** (OpenOffice), or
-    *File > Compare Document** (newer versions of LibreOffice), or 
+3.  Select **Modifica > ${Compare Document}** (OpenOffice), or
+    *File > ${Compare Document}** (newer versions of LibreOffice), or 
     **Modifica - Track Changes - Compare Document\...**
     (older versions of LibreOffice).
 4.  A file selection dialog opens. Select the "snapshot document" and

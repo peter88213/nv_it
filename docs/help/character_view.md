@@ -13,6 +13,15 @@ character in the tree.
 
 Title and description are displayed in an editable "index card".
 
+To the right of the title, in the upper-right corner of the "index card,"
+you'll find the color field that displays the color
+assigned to the chracter.
+If no color has been assigned, a placeholder is displayed there: `◈`.
+
+-  Clicking on the color field opens a color picker dialog.
+   If you cancel the color selection, the color remains unchanged.
+-  Clicking while holding down the ``Alt`` key resets the color assignment.
+
 The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.

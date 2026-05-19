@@ -24,6 +24,13 @@ you can reset the highlighting of tree elements.
 
 With **Visualizza > Mostra libro**, you can select and open the "Libro" branch.
 
+## Mostra linee narrative
+
+**Go to the "Linee narrative" branch and expand it**
+
+With **Visualizza > Mostra linee narrative**, you can select and open the 
+"Linee narrative" branch.
+
 ## Mostra personaggi
 
 **Go to the "Personaggi" branch and expand it**
@@ -44,13 +51,6 @@ With **Visualizza > Mostra luoghi**, you can select and open the
 
 With **Visualizza > Mostra oggetti**, you can select and open the "Oggetti"
 branch.
-
-## Mostra linee narrative
-
-**Go to the "Linee narrative" branch and expand it**
-
-With **Visualizza > Mostra linee narrative**, you can select and open the 
-"Linee narrative" branch.
 
 ## Mostra note di progetto
 

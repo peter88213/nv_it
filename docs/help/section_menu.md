@@ -39,6 +39,18 @@ sections to the tree.
     selection, if possible.
 -   Otherwise, no new section is generated.
 
+
+## Clona
+
+With **Sezione > Clona**,
+you can create a copy of the selected section.
+
+- The clone is inserted behind the selected section in the project tree.
+- The type of the cloned section is "unused".
+- The cloned section has all the properties and assignments of the original,
+  except for plot point assignments.
+
+
 ---
 
 ## Imposta tipo
@@ -83,6 +95,25 @@ the viewpoint association.
 > **Hint**
 > 
 > Select a parent node to set the viewpoint for all subordinate sections.
+
+
+## ${Assign color...}
+
+**Assign a color to all selected sections**
+
+With **Sezione > ${Assign color...}**
+you can assign a color to all sections in a single or multiple selection.
+A color picker dialog opens.
+If you cancel the color choosing process, the color of the selected sections remain unchanged.
+
+
+## Annulla colore
+
+**Reset the colors of all selected sections**
+
+With **Sezione > Annulla colore**
+you can clear the color assignments for all sections in a single or multiple selection.
+
 
 ---
 

@@ -20,6 +20,25 @@ With **Luoghi > Aggiungi**, you can add a location to the tree.
 
 ---
 
+## ${Assign color...}
+
+**Assign a color to all selected locations**
+
+With **Luoghi > ${Assign color...}**
+you can assign a color to all locations in a single or multiple selection.
+A color picker dialog opens.
+If you cancel the color choosing process, the color of the selected locations remain unchanged.
+
+
+## Annulla colore
+
+**Reset the colors of all selected locations**
+
+With **Luoghi > Annulla colore**
+you can clear the color assignments for all locations in a single or multiple selection.
+
+---
+
 ## Importa
 
 **Import locations from another project**
