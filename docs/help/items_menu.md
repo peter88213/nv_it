@@ -20,11 +20,11 @@ With **Oggetti > Aggiungi**, you can add an item to the tree.
 
 ---
 
-## ${Assign color...}
+## Assegna colore...
 
 **Assign a color to all selected items**
 
-With **Oggetti > ${Assign color...}**
+With **Oggetti > Assegna colore...**
 you can assign a color to all items in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected items remain unchanged.

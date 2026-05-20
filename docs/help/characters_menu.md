@@ -35,11 +35,11 @@ With **Personaggi > Imposta stato**, you can make the selected character
 > characters or characters with their own arcs.
 
 
-## ${Assign color...}
+## Assegna colore...
 
 **Assign a color to all selected characters**
 
-With **Personaggi > ${Assign color...}**
+With **Personaggi > Assegna colore...**
 you can assign a color to all characters in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected characters remain unchanged.

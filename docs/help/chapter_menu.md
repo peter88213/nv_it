@@ -79,11 +79,11 @@ vice versa.
 -   **2º Livello** converts the selected parts into chapters.
 
 
-## ${Assign color...}
+## Assegna colore...
 
 **Assign a color to all selected chapters and parts**
 
-With **Capitolo > ${Assign color...}**
+With **Capitolo > Assegna colore...**
 you can assign a color to all chapters and parts in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected chapters and parts remain unchanged.

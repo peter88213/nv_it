@@ -34,11 +34,11 @@ With **Linee narrative > Aggiungi punto di svolta**, you can add a plot point to
 
 ---
 
-## ${Assign color...}
+## Assegna colore...
 
 **Assign a color to all selected plot lines**
 
-With **Linee narrative > ${Assign color...}**
+With **Linee narrative > Assegna colore...**
 you can assign a color to all plot lines in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected plot lines remain unchanged.

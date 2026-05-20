@@ -97,11 +97,11 @@ the viewpoint association.
 > Select a parent node to set the viewpoint for all subordinate sections.
 
 
-## ${Assign color...}
+## Assegna colore...
 
 **Assign a color to all selected sections**
 
-With **Sezione > ${Assign color...}**
+With **Sezione > Assegna colore...**
 you can assign a color to all sections in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected sections remain unchanged.
