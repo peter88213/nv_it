@@ -59,6 +59,26 @@ is opened and its properties are displayed.
 > You can go back to the initially selected plot point with 
 > ![Indietro](images/goBack.png).
 
+
+## The assigned section's plot line notes
+
+If a section containing notes about the respective plot line is
+assigned to the plot point, those notes will be displayed here.
+You cannot edit them directly, but you can replace them with
+the current plot point description.
+
+
+### Sostituiscilo con la descrizione del punto di svolta
+   When clicking on the **Sostituiscilo con la descrizione del punto di svolta** button,
+   the associated section's plot line notes are replaced with
+   the current plot point's description.
+
+### Sostituisci la descrizione del punto di svolta con questa
+   When clicking on the **Sostituisci la descrizione del punto di svolta con questa** button,
+   the current plot point's description is replaced with
+   the associated section's plot line notes.
+
+
 ## Collegamenti
 
 Expand or collapse this frame by clicking on the label.
