@@ -28,23 +28,30 @@ Copyright (c) by Peter Triesberger. All rights reserved.
 '''
 
 
+def translate_page(page_path, dictionary):
+    if not page_path.endswith('md'):
+        return
+
+    print(f'Translating "{page_path}"...')
+    with open(page_path, 'r', encoding='utf-8') as f:
+        text = f.read()
+    text = MyTemplate(text).safe_substitute(dictionary)
+    text = text.replace('xxx pages', LANGUAGE_PAGES)
+    with open(page_path, 'w', encoding='utf-8') as f:
+        f.write(text)
+
+
 def translate_special_terms():
     with open(json_dict, 'r', encoding='utf-8') as f:
         dictionary = json.load(f)
     for page_name in os.listdir(help_dir):
         page_path = f'{help_dir}/{page_name}'
-        if not page_path.endswith('.md'):
-            page_path = f'{page_path}/README.md'
-            if not os.path.isfile(page_path):
-                continue
-
-        print(f'Translating "{page_path}"...')
-        with open(page_path, 'r', encoding='utf-8') as f:
-            text = f.read()
-        text = MyTemplate(text).safe_substitute(dictionary)
-        text = text.replace('xxx pages', LANGUAGE_PAGES)
-        with open(page_path, 'w', encoding='utf-8') as f:
-            f.write(text)
+        if os.path.isdir(page_path):
+            for subpage_name in os.listdir(page_path):
+                subpage_path = f'{page_path}/{subpage_name}'
+                translate_page(subpage_path, dictionary)
+        else:
+            translate_page(page_path, dictionary)
 
 
 def create_missing_pages(skip=True):

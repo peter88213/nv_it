@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > [nv_writer](./) > Options
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto online](../) > [nv_writer](./) > Options
 
 ---
 
@@ -15,7 +15,7 @@ When switching between sections, or when leaving the distraction free
 writing mode, changes of the section content will be applied to the
 *novelibre* project.
 
-If the **${Ask for confirmation}** checkbox is checked, you will be asked
+If the **Chiedi conferma** checkbox is checked, you will be asked
 for confirmation.
 
 > **Note**
@@ -23,7 +23,7 @@ for confirmation.
 > *Applying changes* does not save your current project on disk, but
 > update it in memory, and set the change notification in the *novelibre*
 > footer bar. To save changes while in distraction-free writing mode,
-> press `${Ctrl}`-`S`.
+> press `Ctrl`-`S`.
 
 ---
 
@@ -31,7 +31,7 @@ for confirmation.
 
 By default, word count is updated manually by pressing the `F5` key.
 
-If the **${Live update}** checkbox is checked, the word count can be
+If the **Aggiornamento in tempo reale** checkbox is checked, the word count can be
 updated "live", i.e. just while entering text.
 
 > **Note**
