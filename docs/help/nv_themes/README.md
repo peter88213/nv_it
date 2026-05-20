@@ -42,14 +42,14 @@ the distribution's package manager.
 
 Here is an example with *Synaptic* on Linux Mint:
 
-![Linux Mint screenshot](images/nv_themes01.png)
+
 
 ## Start the dialog
 
 Start the theme changer from the main menu: **Visualizza > Cambia tema**.
 You can select the new theme from a drop-down list.
 
-![Windows screenshot](images/nv_themes02.png)
+
 
 
 > **Important**

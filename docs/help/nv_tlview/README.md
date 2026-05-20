@@ -17,7 +17,7 @@ The plugin adds a **Vista cronologia** entry to the *novelibre* **Strumenti**
 menu, and a **Guida online della vista cronologia** entry to the **Aiuto** menu.
 The Toolbar gets a ![Timeline](images/tlview.png) button.
 
-![novelibre Screenshot](images/screen01.png)
+
 
 ## Operation
 

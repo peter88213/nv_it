@@ -14,7 +14,7 @@ selected chapter or part.
 > **Cambia livello** entry in the context menu, 
 > the **Parte** menu, or the **Capitolo** menu.
 
-![Screenshot](images/chapter_view01.png)
+
 
 ## Title and description
 
@@ -59,7 +59,7 @@ an epigraph, if it is of the *Normale* type.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -92,7 +92,7 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### Rimuovi Link
 

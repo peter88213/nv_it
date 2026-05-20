@@ -124,7 +124,7 @@ The final moment of the story's conflict.
 
 This file generates the following structure in an empty project:
 
-![Screenshot](images/structure01.png)
+
 
 ---
 

@@ -7,7 +7,7 @@
 The Section properties view opens in the right pane when you select a
 section in the tree.
 
-![Screenshot](images/section_view01.png)
+
 
 ## Title and description
 
@@ -60,7 +60,7 @@ paragraph.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/section_view04.png)
+
 
 ### Linee narrative
 
@@ -127,11 +127,11 @@ Expand or collapse this frame by clicking on the label.
 
 Here is an example of an "action scene":
 
-![Screenshot](images/section_view03.png)
+
 
 Here is an example of a "reaction scene" or "sequel":
 
-![Screenshot](images/section_view08.png)
+
 
 There is a popular theory for "selling writers" that suggests novels
 are best divided into scenes, alternating between "action scenes" and
@@ -144,7 +144,7 @@ set up a dramaturgical scene micro-structure, you can set the section to
 
 Here is an example of a non-standard scene category:
 
-![Screenshot](images/section_view06.png)
+
 
 On the other hand, not every section is a scene to which the categories
 mentioned above apply. Sections can be characterized by mode of
@@ -154,13 +154,13 @@ Exposition). So if a section is not staged, you can set the section to
 
 Here is an example of a non-staged section category:
 
-![Screenshot](images/section_view07.png)
+
 
 ## Relazioni
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/section_view02.png)
+
 
 If you want to associate characters, locations, and items with the
 section, you can do it here by adding the element to a list of
@@ -218,7 +218,7 @@ Editing can be completed by pressing the `Enter` key.
 > [Timeline plugin](https://github.com/peter88213/nv_timeline/), or the 
 > [Aeon Timeline 2 plugin](https://github.com/peter88213/nv_aeon2/).
 
-![Screenshot](images/section_view05.png)
+
 
 ### Inizio
 
@@ -246,7 +246,7 @@ reference date, if set.
 If the required date information is set, you can call up the
 corresponding moon phase.
 
-![Screenshot](images/section_view09.png)
+
 
 The moon phase information consists of:
 
@@ -308,7 +308,7 @@ section, so the next section follows directly the current one.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -341,7 +341,7 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### Rimuovi Link
 

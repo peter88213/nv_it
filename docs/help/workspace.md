@@ -8,7 +8,10 @@
 
 The *novelibre* workspace is divided into three panes:
 
-![Workspace](images/workspace01.png)
+- The left pane displaying the project tree.
+- The middle pane displaying the text viewer.
+- The right pane displaying the properties.
+
 
 ## Project tree
 

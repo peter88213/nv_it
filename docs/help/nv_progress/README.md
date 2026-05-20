@@ -1,7 +1,6 @@
-![external-link](../images/external-link.png)
-[Deutsch](https://peter88213.github.io/nvhelp-de/nv_progress/)
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto online](../) > nv_progress
 
-------------------------------------------------------------------------
+---
 
 # nv_progress
 
@@ -31,3 +30,11 @@ The plugin adds a **Registro progressi giornalieri** entry to the *novelibre*
 ## Exit
 
 -   Close the window.
+
+---
+
+[English manual](https://peter88213.github.io/nvhelp-en/)
+
+
+Copyright (c) by Peter Triesberger. All rights reserved.
+

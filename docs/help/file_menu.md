@@ -140,8 +140,6 @@ With **File > Copia foglio di stile**, you can copy the style sheet
 The following picture shows an Edge browser screenshot: *novelibre*
 project, displayed using the style sheet.
 
-![Edge browser screenshot](images/file_menu01.jpg)
-
 > **Hint**
 > 
 > Depending on your web browser and your operating system, the *content

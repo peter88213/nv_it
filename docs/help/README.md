@@ -73,6 +73,7 @@ where users can publish further instructions, tips, and tutorials in xxx.
 
 - [nv_collection](nv_collection/)
 - [nv_editor](nv_editor/)
+- [nv_epub](nv_epub/)
 - [nv_matrix](nv_matrix/)
 - [nv_progress](nv_progress/)
 - [nv_snapshots](nv_snapshots/)
@@ -82,6 +83,7 @@ where users can publish further instructions, tips, and tutorials in xxx.
 - [nv_timeline](nv_timeline/)
 - [nv_tlview](nv_tlview/)
 - [nv_updater](nv_updater/)
+- [nv_writer](nv_writer/)
 - [nv_zim](nv_zim/)
 
 

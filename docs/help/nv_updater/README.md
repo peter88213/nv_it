@@ -22,7 +22,7 @@ Open the update checker from the main menu:
 A list pops up, showing installed software components and their version
 information. Outdated list entries are colored red.
 
-![novelibre Screenshot](images/screen02.png)
+
 
 
 > **Hint**

@@ -140,7 +140,7 @@ detach or dock the element properties window .
 With **Visualizza > Opzioni**, you can open a dialog for settings concerning
 the display.
 
-![novelibre screenshot](images/view_menu02.png)
+
 
 ### Modalità colorazione
 

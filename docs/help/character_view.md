@@ -7,7 +7,7 @@
 The Character properties view opens in the right pane when you select a
 character in the tree.
 
-![Screenshot](images/character_view01.png)
+
 
 ## Title and description
 
@@ -77,7 +77,7 @@ the `Enter` key.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/character_view02.png)
+
 
 Changes are applied when the mouse is clicked anywhere outside the text
 input field.
@@ -89,7 +89,7 @@ you can change it in the book settings.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/character_view03.png)
+
 
 Changes are applied when the mouse is clicked anywhere outside the text
 input field.
@@ -101,7 +101,7 @@ you, you can change it in the book settings.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/character_view04.png)
+
 
 This is a list for image and research document links.
 
@@ -134,7 +134,7 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### Rimuovi Link
 

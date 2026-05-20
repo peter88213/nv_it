@@ -28,7 +28,7 @@ Some fields display hovertips when you move the mouse cursor over them.
 -   Plot line node: The section's Plot line notes, if any.
 -   Character heading: Full name and aka, if any.
 
-![nv_matrix screenshot](images/nv_matrix01.png)
+
 
 ## Add/remove relationships
 

@@ -8,8 +8,6 @@ The Libro properties view opens in the right pane when you select
 "Libro" in the tree, or when you click on the ![Mostra libro](images/viewBook.png) 
 toolbar icon. It is the initial view after opening a *novelibre* project.
 
-![novelibre screenshot](images/book_view01.png)
-
 ## Title, description, and author
 
 Title and description are displayed in an editable "index card".
@@ -21,25 +19,18 @@ clicked anywhere outside the text input field.
 After exporting the book to an *ODT* document, title and description
 appear in the document properties.
 
-![Screenshot](images/book_view08.png)
-
 These properties are visible, for example, when the mouse pointer is
 over the document in the Windows Explorer.
 
-![Screenshot](images/book_view09.png)
 
 ## Lingua del documento
 
 Expand or collapse this frame by clicking on the label.
 
-![novelibre screenshot](images/book_view02.png)
-
 -   Language code acc. to ISO 639-1
 -   Country code acc. to ISO 3166-2
 
 This information controls the spelling checker for export documents.
-
-![LibreOffice Writer screenshot](images/book_view10.png)
 
 If not set, the System locale setting will be used as default.
 
@@ -48,14 +39,12 @@ If not set, the System locale setting will be used as default.
 > You can also set or change the document language with *Writer*, then it
 > will be applied on import.
 >
-> ![LibreOffice Writer screenshot](images/book_view11.png)
 
 
 ## Numerazione automatica
 
 Expand or collapse this frame by clicking on the label.
 
-![novelibre screenshot](images/book_view03.png)
 
 ### Numera capitoli automaticamente all'aggiornamento dell'albero, Numera parti automaticamente all'aggiornamento dell'albero
 
@@ -91,8 +80,6 @@ If this checkbox is ticked, the chapter numbering starts again with
 
 Expand or collapse this frame by clicking on the label.
 
-![novelibre screenshot](images/book_view04.png)
-
 *novelibre* provides some ready-made fields for sections and characters
 to store information that should be at hand when writing. You can name
 these fields to fit into your individual story planning concept. Editing
@@ -125,8 +112,6 @@ you can open in the character properties view.
 ## Tempo della storia
 
 Expand or collapse this frame by clicking on the label.
-
-![novelibre screenshot](images/book_view05.png)
 
 To get an overview of the course of the story time, you can enter
 date/time information for each section.
@@ -173,8 +158,6 @@ the reference date.
 ## Progressi di scrittura
 
 Expand or collapse this frame by clicking on the label.
-
-![novelibre screenshot](images/book_view06.png)
 
 With *novelibre*, you can set a word count target and track your writing
 progress.
@@ -230,7 +213,7 @@ This setting is for the tree viewer "Fase di lavoro" coloring mode.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -263,7 +246,7 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### Rimuovi Link
 
@@ -304,9 +287,6 @@ A cover thumbnail is displayed with the book properties if you provide a
 PNG image file with the project name along with the *.novx* file. The
 recommended image width is 100 to 200 pixels.
 
-![Windows Explorer Screenshot](images/book_view12.png)
-
-![novelibre screenshot](images/book_view07.jpg)
 
 ---
 

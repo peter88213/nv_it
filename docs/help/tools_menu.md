@@ -19,7 +19,7 @@
 With **Strumenti > Opzioni di backup**, you can open a dialog for settings
 concerning the backup.
 
-![novelibre Screenshot](images/tools_menu02.png)
+
 
 The path to the backup directory is displayed at the top of the window,
 if one is set.
@@ -69,7 +69,7 @@ plugins.
 With **Strumenti > Gestore plugin**, you can open the 
 *Plugin installati* dialog.
 
-![novelibre screenshot](images/tools_menu01.png)
+
 
 -   Successfully installed plugins are displayed black on white by
     default.

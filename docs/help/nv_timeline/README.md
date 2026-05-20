@@ -58,7 +58,7 @@ the timeline's file name exists, create a new one from the timeline.
 > 
 > To become sections in *novelibre*, *Timeline* Events need a "Section" label.
 > 
-> ![Timeline Screenshot](images/event01.png)
+> 
 > 
 > The idea behind this is that only selected events should be included as
 > sections in the *novelibre* project. There may also be background

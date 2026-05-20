@@ -9,7 +9,7 @@ a project note in the tree.
 
 ## Title and content
 
-![Screenshot](images/project_note_view01.png)
+
 
 Title and content are displayed in an editable "index card".
 
@@ -30,7 +30,7 @@ outside the text input field.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -63,7 +63,7 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### Rimuovi Link
 

@@ -10,7 +10,7 @@ With the **Importa** main menu entry, you can open a pop-up window with a
 list containing previously exported ODF documents that can be
 reimported, thus updating the current project.
 
-![novelibre screenshot](images/import_menu01.png)
+
 
 -   The document types and dates are shown.
 

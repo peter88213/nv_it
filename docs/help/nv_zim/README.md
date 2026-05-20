@@ -205,7 +205,7 @@ linked pages and to the project wiki.
 
 ## Book/Characters/Locations/Items properties
 
-![novelibre Screenshot](images/wiki_button01.png)
+
 
 ### ![Zim](images/zim.png) Wiki page button
 
