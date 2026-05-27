@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.56.3\n"
-"POT-Creation-Date: 2026-05-18 20:52:42\n"
-"PO-Revision-Date: 2026-05-18 20:59:16\n"
+"Project-Id-Version: 5.56.9\n"
+"POT-Creation-Date: 2026-05-26 22:40:41\n"
+"PO-Revision-Date: 2026-05-26 23:00:47\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -233,6 +233,9 @@ msgstr "Capitolo"
 msgid "Chapter beginning"
 msgstr "Inizio capitolo"
 
+msgid "Chapter board"
+msgstr ""
+
 msgid "Chapter descriptions"
 msgstr "Descrizioni capitolo"
 
@@ -244,9 +247,6 @@ msgstr "Prefisso numero capitolo"
 
 msgid "Chapter number suffix"
 msgstr "Suffisso numero capitolo"
-
-msgid "Chapter structure board"
-msgstr ""
 
 msgid "Chapter table"
 msgstr "Tabella capitoli"
@@ -653,7 +653,7 @@ msgstr "Obiettivo"
 msgid "Goals"
 msgstr "Obiettivi"
 
-msgid "HTML Chapter structure board"
+msgid "HTML Chapter board"
 msgstr ""
 
 msgid "HTML Plot line board"
@@ -667,6 +667,9 @@ msgstr ""
 
 msgid "HTML Time table"
 msgstr "Tabella temporale HTML"
+
+msgid "HTML Viewpoint board"
+msgstr ""
 
 msgid "Heading 3 invisible"
 msgstr "Intestazione 3 invisibile"
@@ -955,6 +958,12 @@ msgstr "Versione non valida nel file"
 
 msgid "No valid xml root element found in file"
 msgstr "Elemento root XML non valido nel file"
+
+msgid "No viewpoint"
+msgstr ""
+
+msgid "No viewpoint defined"
+msgstr ""
 
 msgid "None"
 msgstr "Nessuno"
@@ -1379,7 +1388,7 @@ msgstr "Mostra tabella temporale"
 msgid "Show ages"
 msgstr "Mostra età"
 
-msgid "Show chapter structure board in browser"
+msgid "Show chapter board in browser"
 msgstr ""
 
 msgid "Show markup"
@@ -1393,6 +1402,9 @@ msgstr ""
 
 msgid "Show table in Browser"
 msgstr "Mostra tabella nel browser"
+
+msgid "Show viewpoint board in browser"
+msgstr ""
 
 msgid "Skip"
 msgstr "Salta"
@@ -1591,6 +1603,9 @@ msgstr "Visualizza"
 
 msgid "Viewpoint"
 msgstr "Punto di vista"
+
+msgid "Viewpoint board"
+msgstr ""
 
 msgid "Words"
 msgstr "Parole"

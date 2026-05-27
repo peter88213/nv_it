@@ -15,10 +15,6 @@ on the user concept, and "How To" guides can be found in the
 The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
 provides further detailed instructions in English.
 
-
-
-
-
 > **Note**
 > 
 > This online manual needs to be translated. 
@@ -27,7 +23,7 @@ provides further detailed instructions in English.
 > Terms for which no translations are currently available are represented by placeholders. 
 > Volunteers who would like to translate and update these pages are welcome. 
 >
-> The help pages are based on **novelibre version 5.56**.
+> The help pages are based on **novelibre version 5.57**.
 > For newer features, please refer to the English online help. 
 
 ## General

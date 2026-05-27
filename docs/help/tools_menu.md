@@ -16,7 +16,7 @@
 
 **Project independent program settings**
 
-With **Strumenti > Opzioni di backup**, you can open a dialog for settings
+With **Strumenti > Opzioni di backup** you can open a dialog for settings
 concerning the backup.
 
 
@@ -55,7 +55,7 @@ project file in the set backup directory each time it is saves.
 
 **Launch the file manager**
 
-With **Strumenti > Apri cartella di installazione**, you can launch the file
+With **Strumenti > Apri cartella di installazione** you can launch the file
 manager with the *novelibre* installation folder. This might come in
 handy if you wish to edit configuration files, or install your own
 plugins.
@@ -66,7 +66,7 @@ plugins.
 
 **Display and manage installed plugins**
 
-With **Strumenti > Gestore plugin**, you can open the 
+With **Strumenti > Gestore plugin** you can open the 
 *Plugin installati* dialog.
 
 
@@ -126,7 +126,7 @@ Select the plugin, and click on the **Disinstalla** button.
 
 **Show an HTML report with all the "sticky notes"**
 
-With **Strumenti > Mostra note**, you can create a HTML file that contains
+With **Strumenti > Mostra note** you can create a HTML file that contains
 all "sticky notes" along with the titles of the tree elements they are
 associated with, and launch your system's web browser for displaying it.
 

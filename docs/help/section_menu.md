@@ -10,7 +10,7 @@
 
 **Add a new section**
 
-With **Sezione > Aggiungi**, you can add a section to the tree.
+With **Sezione > Aggiungi** you can add a section to the tree.
 
 -   The new section is placed at the next free position after the
     selection, if possible.
@@ -30,7 +30,7 @@ With **Sezione > Aggiungi**, you can add a section to the tree.
 
 **Add new sections in bulk**
 
-With **Sezione > Aggiungi sezioni multiple...**, you can add up to 20
+With **Sezione > Aggiungi sezioni multiple...** you can add up to 20
 sections to the tree.
 
 -   You will be prompted to enter the number of new sections.
@@ -57,7 +57,7 @@ you can create a copy of the selected section.
 
 **Set the type of the selected section**
 
-With **Sezione > Imposta tipo**, you can set the type of the selected
+With **Sezione > Imposta tipo** you can set the type of the selected
 section to *Normale* or *Non usato* .
 
 > **Hint**
@@ -71,7 +71,7 @@ section to *Normale* or *Non usato* .
 
 **Set the section completion status**
 
-With **Sezione > Imposta stato**, you can set the completion status 
+With **Sezione > Imposta stato** you can set the completion status 
 of the selected section to 
 *Struttura*, *Bozza*, *1ª Revisione*, *2ª Revisione*, or *Fatto*.
 
@@ -86,7 +86,7 @@ of the selected section to
 
 **Assign a viewpoint character to the section**
 
-With **Sezione > Imposta punto di vista...**, you open a pop-up window with a
+With **Sezione > Imposta punto di vista...** you open a pop-up window with a
 dropdown list containing all characters in the tree view's sort order.
 Click on the character you want to assign as viewpoint character. If you
 click on the topmost entry (the blank one) of the list, this will clear
@@ -121,7 +121,7 @@ you can clear the color assignments for all sections in a single or multiple sel
 
 **Export an ODT document that can be imported again after editing**
 
-With **Sezione > Esporta descrizioni sezione per la modifica**, you can
+With **Sezione > Esporta descrizioni sezione per la modifica** you can
 create a text document with a **full synopsis** containing part/chapter
 headings and section descriptions that can be edited and reimported.
 File name suffix is `_sections_tmp`.
@@ -148,7 +148,7 @@ File name suffix is `_sections_tmp`.
 
 **Export an ODS document**
 
-With **Sezione > Tabella sezioni (solo esportazione)**, you can create a
+With **Sezione > Tabella sezioni (solo esportazione)** you can create a
 spreadsheet with a row per section, containing the following data:
 
 -   Section ID (hidden)
@@ -191,7 +191,7 @@ writing project, for example, in the case of abandoning *novelibre*.
 
 **Show an HTML report with a time table**
 
-With **Sezione > Mostra tabella temporale**, you can create a HTML file that
+With **Sezione > Mostra tabella temporale** you can create a HTML file that
 contains a time table, and launch your system's web browser for
 displaying it.
 

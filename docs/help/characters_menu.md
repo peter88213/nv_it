@@ -25,7 +25,7 @@ With **Personaggi > Aggiungi** you can add a character to the tree.
 
 **Set the character status**
 
-With **Personaggi > Imposta stato**, you can make the selected character
+With **Personaggi > Imposta stato** you can make the selected character
 *major* or *minor*. Major characters are highlighted in the tree view.
 
 > **Note**
@@ -58,7 +58,7 @@ you can clear the color assignments for all characters in a single or multiple s
 
 **Import characters from another project**
 
-With **Personaggi > Importa**, you can import a selection of characters
+With **Personaggi > Importa** you can import a selection of characters
 from another project. First you select an XML file containing the
 character data. Then you select the characters you want to add to the
 current project.
@@ -74,7 +74,7 @@ current project.
 
 **Export an ODT document that can be imported again after editing**
 
-With **Personaggi > Esporta descrizioni personaggio per la modifica**, you
+With **Personaggi > Esporta descrizioni personaggio per la modifica** you
 can create a text document that contains character descriptions, bio,
 goals, and notes that can be edited in Office Writer and reimported.
 File name suffix is `_characters_tmp`.
@@ -83,7 +83,7 @@ File name suffix is `_characters_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **Personaggi > Esporta tabella personaggi**, you can create a
+With **Personaggi > Esporta tabella personaggi** you can create a
 spreadsheet that contains a row per character. The document can be
 edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
@@ -100,9 +100,29 @@ edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
 **Show an HTML report with characters data**
 
-With **Personaggi > Mostra tabella nel browser**, you can create a HTML file
+With **Personaggi > Mostra tabella nel browser** you can create a HTML file
 that contains a character table, and launch your system's web browser
 for displaying it.
+
+> **Note**
+> 
+> The report is a temporary file, auto-deleted on program exit. If needed,
+> you can have your web browser save or print it.
+
+
+## ${Show viewpoint board in browser}
+
+**Show an HTML report with section cards arranged by viewpoint**
+
+With **Personaggi > ${Show viewpoint board in browser}** you can create a HTML file
+that contains a board with viewpoint character names and "index cards" 
+for all used sections.
+The index cards contain the title and the description of the sections.
+The viewpoint character names are arranged in the first column.
+Each viewpoint character name opens a row containing the cards 
+of the assigned sections.
+
+
 
 > **Note**
 > 

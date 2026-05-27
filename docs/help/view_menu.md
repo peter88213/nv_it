@@ -22,41 +22,41 @@ you can reset the highlighting of tree elements.
 
 **Go to the "Libro" branch and expand it**
 
-With **Visualizza > Mostra libro**, you can select and open the "Libro" branch.
+With **Visualizza > Mostra libro** you can select and open the "Libro" branch.
 
 ## Mostra linee narrative
 
 **Go to the "Linee narrative" branch and expand it**
 
-With **Visualizza > Mostra linee narrative**, you can select and open the 
+With **Visualizza > Mostra linee narrative** you can select and open the 
 "Linee narrative" branch.
 
 ## Mostra personaggi
 
 **Go to the "Personaggi" branch and expand it**
 
-With **Visualizza > Mostra personaggi**, you can select and open the
+With **Visualizza > Mostra personaggi** you can select and open the
 "Personaggi" branch.
 
 ## Mostra luoghi
 
 **Go to the "Locations" branch and expand it**
 
-With **Visualizza > Mostra luoghi**, you can select and open the
+With **Visualizza > Mostra luoghi** you can select and open the
 "Luoghi" branch.
 
 ## Mostra oggetti
 
 **Go to the "Oggetti" branch and expand it**
 
-With **Visualizza > Mostra oggetti**, you can select and open the "Oggetti"
+With **Visualizza > Mostra oggetti** you can select and open the "Oggetti"
 branch.
 
 ## Mostra note di progetto
 
 **Go to the "Note di progetto" branch and expand it**
 
-With **Visualizza > Mostra note di progetto**, you can select and open the 
+With **Visualizza > Mostra note di progetto** you can select and open the 
 "Note di progetto" branch.
 
 ---
@@ -72,27 +72,27 @@ tree, so that only parts and chapters are visible.
 
 **Show the whole tree**
 
-With **Visualizza > Espandi tutto**, you can expand the whole tree.
+With **Visualizza > Espandi tutto** you can expand the whole tree.
 
 ## Comprimi tutto
 
 **Hide child elements**
 
-With **Visualizza > Comprimi tutto**, you can hide all tree elements except the
+With **Visualizza > Comprimi tutto** you can hide all tree elements except the
 main categories.
 
 ## Espandi selezionati
 
 **Show a whole branch**
 
-With **Visualizza > Espandi selezionati**, you can expand a selected tree
+With **Visualizza > Espandi selezionati** you can expand a selected tree
 element.
 
 ## Comprimi selezionati
 
 **Hide child elements**
 
-With **Visualizza > Comprimi selezionati**, you can collapse a selected branch.
+With **Visualizza > Comprimi selezionati** you can collapse a selected branch.
 
 ---
 
@@ -137,7 +137,7 @@ detach or dock the element properties window .
 
 **Project independent program settings**
 
-With **Visualizza > Opzioni**, you can open a dialog for settings concerning
+With **Visualizza > Opzioni** you can open a dialog for settings concerning
 the display.
 
 

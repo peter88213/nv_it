@@ -10,7 +10,7 @@
 
 **Add a new plot line to the story**
 
-With **Linee narrative > Aggiungi linea narrativa**, you can add a plot line to the tree.
+With **Linee narrative > Aggiungi linea narrativa** you can add a plot line to the tree.
 
 -   If a plot line is selected, the new plot line is placed after the
     selected one.
@@ -22,7 +22,7 @@ With **Linee narrative > Aggiungi linea narrativa**, you can add a plot line to 
 
 **Add a new Plot point to the selected plot line**
 
-With **Linee narrative > Aggiungi punto di svolta**, you can add a plot point to a plot line.
+With **Linee narrative > Aggiungi punto di svolta** you can add a plot point to a plot line.
 
 -   If a plot point is selected, the new plot point is placed after the
     selected one.
@@ -57,7 +57,7 @@ you can clear the color assignments for all plot lines in a single or multiple s
 
 **Import plot lines with plot points from another project**
 
-With **Linee narrative > Importa linee narrative**, you can import a selection of plot
+With **Linee narrative > Importa linee narrative** you can import a selection of plot
 lines from another project. First you select an XML file containing the
 plot lines. Then you select the plot lines you want to add to the
 current project.
@@ -73,7 +73,7 @@ current project.
 
 **Export an ODS document that can be imported again after editing**
 
-With **Linee narrative > Esporta griglia narrativa per la modifica**, you can create a
+With **Linee narrative > Esporta griglia narrativa per la modifica** you can create a
 spreadsheet with a row per section, containing the following data:
 
 -   The sequential section number as a hyperlink to the section in the
@@ -134,7 +134,7 @@ manuscript and to the section descriptions. File name suffix is
 
 **Export an ODS document**
 
-With **Linee narrative > Tabella trama (solo esportazione)**, you can create a spreadsheet
+With **Linee narrative > Tabella trama (solo esportazione)** you can create a spreadsheet
 with a row per section and a column per plot line. Associations between
 plot lines and sections are color-highlighted. Plot point titles are
 displayed. File name suffix is `_plotlist`.
@@ -161,7 +161,7 @@ the plot description (right).
 
 **Show an HTML report with plot elements**
 
-With **Linee narrative > Mostra tabella trama nel browser**, You can create a HTML file
+With **Linee narrative > Mostra tabella trama nel browser** you can create a HTML file
 that contains a plot table similar to the ODS plot table (see above),
 but without any hyperlinks, and launch your system's web browser for
 displaying it.
@@ -177,7 +177,7 @@ displaying it.
 
 **Show an HTML report with plot point cards arranged by plot lines**
 
-With **Linee narrative > ${Show Plot line board in browser}**, You can create a HTML file
+With **Linee narrative > ${Show Plot line board in browser}** you can create a HTML file
 that contains a board with "index cards" for all plot lines and plot points.
 The index cards contain the title and the description of the corresponding element.
 The plot line cards are arranged in the first column. 

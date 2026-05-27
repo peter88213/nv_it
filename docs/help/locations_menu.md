@@ -10,7 +10,7 @@
 
 **Add a new location**
 
-With **Luoghi > Aggiungi**, you can add a location to the tree.
+With **Luoghi > Aggiungi** you can add a location to the tree.
 
 -   If a location is selected, the new location is placed after the
     selected one.
@@ -43,7 +43,7 @@ you can clear the color assignments for all locations in a single or multiple se
 
 **Import locations from another project**
 
-With **Luoghi > Importa**, you can import a selection of locations
+With **Luoghi > Importa** you can import a selection of locations
 from another project. First you select an XML file containing the
 location data. Then you select the locations you want to add to the
 current project.
@@ -59,7 +59,7 @@ current project.
 
 **Export an ODT document that can be imported again after editing**
 
-With **Oggetti > Esporta descrizioni luoghi per la modifica**, you can
+With **Oggetti > Esporta descrizioni luoghi per la modifica** you can
 create a text document that contains location descriptions that can be
 edited with *Writer* and reimported. File name suffix is
 `_locations_tmp`.
@@ -68,7 +68,7 @@ edited with *Writer* and reimported. File name suffix is
 
 **Export an ODS document that can be imported again after editing**
 
-With **Oggetti > Esporta tabella luoghi**, you can create a spreadsheet
+With **Oggetti > Esporta tabella luoghi** you can create a spreadsheet
 that contains a row per location. The document can be edited with *Calc*
 and reimported. File name suffix is `_loclist_tmp`.
 
@@ -85,7 +85,7 @@ and reimported. File name suffix is `_loclist_tmp`.
 
 **Show an HTML report with locations data**
 
-With **Luoghi > Mostra tabella nel browser**, you can create a HTML file
+With **Luoghi > Mostra tabella nel browser** you can create a HTML file
 that contains a location table, and launch your system's web browser for
 displaying it.
 

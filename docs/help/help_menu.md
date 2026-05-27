@@ -17,7 +17,7 @@
 
 ## Aiuto online
 
-With **Aiuto > Aiuto online**, you can launch your system web
+With **Aiuto > Aiuto online** you can launch your system web
 browser with the *novelibre* online help URL.
 
 ## Informazioni su novelibre

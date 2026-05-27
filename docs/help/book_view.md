@@ -95,7 +95,7 @@ scenes.
 ### Altra scena
 
 When you set the Scene frame to
-**Altro**, you see the three text boxes whose names you enter here.
+**Altro** you see the three text boxes whose names you enter here.
 These categories then apply to all sections that represent scenes
 other than "Action" and "Reaction".
 

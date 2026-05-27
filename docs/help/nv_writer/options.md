@@ -4,7 +4,7 @@
 
 # Options
 
-With **Tools > Distraction-free writing plugin Options**, you can open
+With **Tools > Distraction-free writing plugin Options** you can open
 the options dialog box.
 
 ---

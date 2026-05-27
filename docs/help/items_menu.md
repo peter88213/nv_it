@@ -10,7 +10,7 @@
 
 **Add a new item**
 
-With **Oggetti > Aggiungi**, you can add an item to the tree.
+With **Oggetti > Aggiungi** you can add an item to the tree.
 
 -   If an item is selected, the new item is placed after the selected
     one.
@@ -44,7 +44,7 @@ you can clear the color assignments for all items in a single or multiple select
 
 **Import items from another project**
 
-With **Oggetti > Importa**, you can import a selection of items from
+With **Oggetti > Importa** you can import a selection of items from
 another project. First you select an XML file containing the item data.
 Then you select the items you want to add to the current project.
 
@@ -59,7 +59,7 @@ Then you select the items you want to add to the current project.
 
 **Export an ODT document that can be imported again after editing**
 
-With **Oggetti > Esporta descrizioni oggetto per la modifica**, you can create a
+With **Oggetti > Esporta descrizioni oggetto per la modifica** you can create a
 text document that contains item descriptions that can be edited with
 *Writer* and reimported. File name suffix is `_items_tmp`.
 
@@ -67,7 +67,7 @@ text document that contains item descriptions that can be edited with
 
 **Export an ODS document that can be imported again after editing**
 
-With **Oggetti > Esporta tabella oggetti**, you can create a spreadsheet that
+With **Oggetti > Esporta tabella oggetti** you can create a spreadsheet that
 contains a row per item. The document can be edited with *Calc* and
 reimported. File name suffix is `_itemlist_tmp`.
 
@@ -84,7 +84,7 @@ reimported. File name suffix is `_itemlist_tmp`.
 
 **Show an HTML report with items data**
 
-With **Oggetti > Mostra tabella nel browser**, you can create a HTML file that
+With **Oggetti > Mostra tabella nel browser** you can create a HTML file that
 contains an item table, and launch your system's web browser for
 displaying it.
 

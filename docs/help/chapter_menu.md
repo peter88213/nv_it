@@ -10,7 +10,7 @@
 
 **Add a new chapter**
 
-With **Capitolo > Aggiungi capitolo**, you can add a chapter to the tree.
+With **Capitolo > Aggiungi capitolo** you can add a chapter to the tree.
 
 -   The new chapter is placed at the next free position after the
     selection, if possible.
@@ -28,7 +28,7 @@ With **Capitolo > Aggiungi capitolo**, you can add a chapter to the tree.
 
 **Add a new part**
 
-With **Capitolo > Aggiungi parte**, you can add a part to the tree.
+With **Capitolo > Aggiungi parte** you can add a part to the tree.
 
 -   The new part is placed at the next free position on the chapter
     level after the selection, if possible.
@@ -41,7 +41,7 @@ With **Capitolo > Aggiungi parte**, you can add a part to the tree.
 
 **Add new chapters in bulk**
 
-With **Capitolo > Aggiungi capitoli multipli...**, you can add up to 20
+With **Capitolo > Aggiungi capitoli multipli...** you can add up to 20
 chapters to the tree.
 
 -   You will be prompted to enter the number of new chapters.
@@ -60,7 +60,7 @@ chapters to the tree.
 
 **Set the type of the selected chapters**
 
-With **Capitolo > Imposta tipo**, you can set the
+With **Capitolo > Imposta tipo** you can set the
 type of the selected chapter to *Normale* or *Non usato* .
 
 > **Note**
@@ -72,7 +72,7 @@ type of the selected chapter to *Normale* or *Non usato* .
 
 **Change the level of the selected chapters**
 
-With **Capitolo > Cambia livello**, you can turn chapters into parts and
+With **Capitolo > Cambia livello** you can turn chapters into parts and
 vice versa.
 
 -   **1º Livello** converts the selected chapters into parts.
@@ -113,7 +113,7 @@ the moved sections are retained.
 
 **Export an ODT document that can be imported again after editing**
 
-With **Capitolo > Esporta descrizioni capitolo per la modifica**, you can
+With **Capitolo > Esporta descrizioni capitolo per la modifica** you can
 create a text document that contains a **brief synopsis** with
 part/chapter headings and chapter descriptions that can be edited and
 reimported. File name suffix is `_chapters_tmp`.
@@ -136,7 +136,7 @@ reimported. File name suffix is `_chapters_tmp`.
 
 **Export an ODT document that can be imported again after editing**
 
-With **Capitolo > Esporta descrizioni parte per la modifica**, you can create a
+With **Capitolo > Esporta descrizioni parte per la modifica** you can create a
 text document that contains a **very brief synopsis** with part headings
 and part descriptions. File name suffix is `_parts_tmp`.
 
@@ -155,7 +155,7 @@ and part descriptions. File name suffix is `_parts_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **Capitolo > Esporta tabella capitoli**, you can create a spreadsheet
+With **Capitolo > Esporta tabella capitoli** you can create a spreadsheet
 that contains a row per chapter. The document can be edited with *Calc*
 and reimported. File name suffix is `_chapterlist_tmp`.
 
@@ -170,7 +170,7 @@ and reimported. File name suffix is `_chapterlist_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **Capitolo > Esporta tabella parti**, you can create a spreadsheet that
+With **Capitolo > Esporta tabella parti** you can create a spreadsheet that
 contains a row per part. File name suffix is `_partlist_tmp`.
 
 > **Note**
@@ -182,11 +182,11 @@ contains a row per part. File name suffix is `_partlist_tmp`.
 
 ---
 
-## ${Show chapter structure board in browser}
+## ${Show chapter board in browser}
 
 **Show an HTML report with section cards arranged by chapters**
 
-With **Capitolo > ${Show chapter structure board in browser}**, You can create a HTML file
+With **Capitolo > ${Show chapter board in browser}** you can create a HTML file
 that contains a board with "index cards" for the chapters and all used sections.
 The index cards contain the title and the description of the corresponding element.
 The chapter cards are arranged in the first column.
