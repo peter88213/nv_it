@@ -196,9 +196,10 @@ contains a time table, and launch your system's web browser for
 displaying it.
 
 In the time table, the dated "Normale" sections are listed in
-chronological order. In addition to date/time and duration, the columns
-include the section title, description, locations and characters as well
-as plot lines with plot notes.
+chronological order. In addition to date/time and duration, the columns 
+include the section title,
+description, viewpoint character, characters, locations and items 
+as well as plot lines with plot notes.
 
 > **Note**
 > 
