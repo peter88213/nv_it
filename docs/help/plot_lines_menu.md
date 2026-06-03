@@ -190,6 +190,23 @@ Each plot line card opens a row containing the cards of the assigned plot points
 > you can have your web browser save or print it.
 
 
+## ${Show Plot grid in browser}
+
+**Show an HTML report with a plot grid**
+
+With **Linee narrative > ${Show Plot grid in browser}**,
+You can create a HTML page that contains
+a plot grid similar to the ODS plot grid (see above),
+but without any hyperlinks,
+and launch your system’s web browser for displaying it.
+
+> **Note**
+> 
+> The report is a temporary file, auto-deleted on program exit. If needed,
+> you can have your web browser save or print it.
+
+
+
 ---
 
 [English manual](https://peter88213.github.io/nvhelp-en/)

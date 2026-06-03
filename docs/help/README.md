@@ -23,7 +23,7 @@ provides further detailed instructions in English.
 > Terms for which no translations are currently available are represented by placeholders. 
 > Volunteers who would like to translate and update these pages are welcome. 
 >
-> The help pages are based on **novelibre version 5.57**.
+> The help pages are based on **novelibre version 5.58**.
 > For newer features, please refer to the English online help. 
 
 ## General

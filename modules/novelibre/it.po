@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.56.9\n"
-"POT-Creation-Date: 2026-05-26 22:40:41\n"
-"PO-Revision-Date: 2026-05-26 23:00:47\n"
+"Project-Id-Version: 5.58.0\n"
+"POT-Creation-Date: 2026-06-03 17:49:13\n"
+"PO-Revision-Date: 2026-06-03 17:58:56\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -1369,6 +1369,9 @@ msgstr "Mostra oggetti"
 
 msgid "Show Locations"
 msgstr "Mostra luoghi"
+
+msgid "Show Plot grid in browser"
+msgstr ""
 
 msgid "Show Plot line board in browser"
 msgstr ""

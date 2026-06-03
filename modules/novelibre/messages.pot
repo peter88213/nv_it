@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.56.9\n"
-"POT-Creation-Date: 2026-05-26 22:40:41\n"
+"Project-Id-Version: 5.58.0\n"
+"POT-Creation-Date: 2026-06-03 17:49:13\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -1374,6 +1374,9 @@ msgid "Show Items"
 msgstr ""
 
 msgid "Show Locations"
+msgstr ""
+
+msgid "Show Plot grid in browser"
 msgstr ""
 
 msgid "Show Plot line board in browser"
