@@ -116,6 +116,10 @@ is `_grid_tmp`.
 > reimport. Only the first column and the first row, which are hidden by
 > default, must not be changed as they contain the structural information
 > for the import.
+>  
+> You can add sections to the project by inserting rows
+> containing at least the new section's name. 
+> The hidden ID cell must be left empty.
 
 
 ## Esporta descrizioni linea narrativa per la modifica

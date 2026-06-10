@@ -78,6 +78,10 @@ and reimported. File name suffix is `_loclist_tmp`.
 > reimport. Only the first column and the first row, which are hidden by
 > default, must not be changed as they contain the structural information
 > for the import.
+> 
+> You can add locations to the project by inserting rows
+> containing at least the new location's name. 
+> The hidden ID cell must be left empty.
 
 ---
 

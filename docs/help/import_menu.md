@@ -43,7 +43,7 @@ reimport in order to avoid confusion about the changed section or
 chapter structure. Concerning reimported documents that do not require
 modifying the project structure, you have three choices:
 
-### Scarta i documenti solo quando le sezioni vengono divise
+### ${Discard documents only if the project structure is modified}
 
 This is the default behavior. The ODF documents are kept for future use.
 
@@ -59,8 +59,10 @@ documents open in *Writer* or *Calc* for editing.
 
 > **Important**
 >  
-> If you split sections in your ODT document, you cannot import it
-> while open in *Writer*. This is because *novelibre* cannot discard
+> If you split sections in your ODT document, 
+> or if you added elements to an ODS table, 
+> you cannot import it while open in *Writer*.
+> This is because *novelibre* cannot discard
 > it when locked by *Writer*.
 
 

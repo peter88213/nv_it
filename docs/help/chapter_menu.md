@@ -165,6 +165,10 @@ and reimported. File name suffix is `_chapterlist_tmp`.
 > reimport. Only the first column and the first row, which are hidden by
 > default, must not be changed as they contain the structural information
 > for the import.
+>   
+> You can add chapters to the project by inserting rows
+> containing at least the new chapter's name. 
+> The hidden ID cell must be left empty.
 
 ## Esporta tabella parti
 
@@ -179,6 +183,10 @@ contains a row per part. File name suffix is `_partlist_tmp`.
 > reimport. Only the first column and the first row, which are hidden by
 > default, must not be changed as they contain the structural information
 > for the import.
+>  
+> You can add parts to the project by inserting rows
+> containing at least the new part's name. 
+> The hidden ID cell must be left empty.
 
 ---
 

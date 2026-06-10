@@ -77,6 +77,10 @@ reimported. File name suffix is `_itemlist_tmp`.
 > reimport. Only the first column and the first row, which are hidden by
 > default, must not be changed as they contain the structural information
 > for the import.
+>  
+> You can add items to the project by inserting rows
+> containing at least the new item's name. 
+> The hidden ID cell must be left empty.
 
 ---
 
