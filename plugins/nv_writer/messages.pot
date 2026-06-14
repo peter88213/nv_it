@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.1.9\n"
-"POT-Creation-Date: 2026-05-12 15:43:33\n"
+"Project-Id-Version: 5.2.1\n"
+"POT-Creation-Date: 2026-06-14 15:13:17\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -60,6 +60,9 @@ msgid "Comment"
 msgstr ""
 
 msgid "Contrast"
+msgstr ""
+
+msgid "Convert into comment"
 msgstr ""
 
 msgid "Copy"
