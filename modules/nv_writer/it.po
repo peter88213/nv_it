@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.2.1\n"
-"POT-Creation-Date: 2026-06-14 15:13:17\n"
-"PO-Revision-Date: 2026-06-14 15:18:56\n"
+"Project-Id-Version: 5.4.1\n"
+"POT-Creation-Date: 2026-06-21 08:36:21\n"
+"PO-Revision-Date: 2026-06-21 09:20:47\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -43,6 +43,9 @@ msgstr "Cambia maiuscole/minuscole"
 
 msgid "Characterization"
 msgstr "Caratterizzazione"
+
+msgid "Characters per line"
+msgstr ""
 
 msgid "Clone"
 msgstr "Clona"

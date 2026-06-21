@@ -157,6 +157,18 @@
 > formatting (see below) cannot be undone using this mechanism. Also, text
 > formats are lost after redo operation.
 
+## Convert into comment
+
+-  `Ctrl`-`Alt`-`C` converts the selection into a comment.
+   If the selection already contains a comment,
+   it will be deleted and its content incorporated into the body text.
+
+> **Note**
+>
+> The author of the novel is listed as the comment creator, if known.
+> In contrast, comments created with *Writer* are always attributed 
+> to the name listed in the OpenOffice/LibreOffice user properties.      
+
 ## Format text
 
 -   `Ctrl`-`I` formats the selected text "Enfasi".

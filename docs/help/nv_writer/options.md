@@ -27,7 +27,7 @@ for confirmation.
 
 ---
 
-## Word count
+## Conteggio parole
 
 By default, word count is updated manually by pressing the `F5` key.
 
@@ -38,6 +38,23 @@ updated "live", i.e. just while entering text.
 > 
 > Live updating the word count is resource intensive and may slow down the
 > program when editing big sections. This is why it's disabled by default.
+
+---
+
+## ${Characters per line}
+
+The editor text area is 80 characters wide. 
+You can adjust the right margin by specifying a line length of less than 80 characters. 
+Only integer values are accepted, and the input will be automatically limited 
+to a value between 20 and 80 characters per line. 
+
+Press the `Enter` key to finish entering your input.
+
+> **Note**
+> 
+> The characters per line limit applies to fonts with a fixed character width. 
+> If you use a font with a variable character width, 
+> the actual line length limit may differ from the set value.  
 
 ---
 
