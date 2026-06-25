@@ -65,11 +65,6 @@ or character).
 
 Drag and drop.
 
-> **Hint**
-> 
-> With some Linux desktops, it may be necessary to first press the mouse
-> button, then the `Alt` key.
-
 > **Caution**
 > 
 > Be aware, there is no "Undo" feature.
