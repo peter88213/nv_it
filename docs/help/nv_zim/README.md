@@ -260,7 +260,7 @@ Aborts the operation without launching Zim.
 
 #### Removing a wiki page link
 
-Clicking on the Wiki page button while holding down the `Alt` key
+Clicking on the Wiki page button while holding down the `Shift` key
 removes the link after confirmation.
 
 ---

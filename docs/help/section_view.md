@@ -20,7 +20,7 @@ If no color has been assigned, a placeholder is displayed there: `◈`.
 
 -  Clicking on the color field opens a color picker dialog.
    If you cancel the color selection, the color remains unchanged.
--  Clicking while holding down the ``Alt`` key resets the color assignment.
+-  Clicking while holding down the `Shift` key resets the color assignment.
 
 The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked

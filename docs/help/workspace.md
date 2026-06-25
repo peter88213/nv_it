@@ -63,7 +63,7 @@ or character).
 
 #### Move tree elements
 
-Drag and drop while holding down the `Alt` key.
+Drag and drop.
 
 > **Hint**
 > 

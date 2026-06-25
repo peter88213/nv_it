@@ -61,7 +61,7 @@ selected book from the collection**.
 
 ## Move series and books
 
-Drag and drop while pressing the `Alt` key.
+Drag and drop.
 
 
 > **Caution**
