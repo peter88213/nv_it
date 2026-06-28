@@ -65,9 +65,9 @@ or character).
 
 Drag and drop.
 
-> **Caution**
+> **Hint**
 > 
-> Be aware, there is no "Undo" feature.
+> Press `Ctrl`-`Z` to revert moves.
 
 #### Delete tree elements
 
