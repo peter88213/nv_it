@@ -184,9 +184,17 @@ project with another file name/at another place. Then a file select
 dialog opens to specify the new path and file name.
 
 > **Note**
+>
+> Your current project remains as saved the last time. Changes since then
+> apply to the new project.
 
-Your current project remains as saved the last time. Changes since then
-apply to the new project.
+
+> **Hint**
+> 
+> If the file selection dialog on your Linux desktop does not allow you 
+> to create new directories, you can prefix your new filename 
+> with the name of a new directory, separated by a pipe symbol `|`.
+
 
 ## Chiudi
 
