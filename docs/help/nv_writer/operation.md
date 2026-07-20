@@ -7,7 +7,7 @@
 ## Access Help
 
 -   `F1` folds a help window above the editor window in or out.
--   `Alt`-`F1` opens this help page.
+-   `Ctrl`-`F1` opens this help page.
 
 ## Toggle the menu
 
