@@ -8,7 +8,10 @@
 
 This page refers to the latest
 [nv_editor](https://github.com/peter88213/nv_editor/) release. You can
-open it with **Aiuto > Guida online del plugin Editor**.
+open it with **Aiuto > ${Editor plugin help}**
+or `F1` when an editor window is active.
+
+---
 
 You can use the section editor to quickly edit and split individual
 sections. The editor provides access to the internal markup, which is

@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.10.0\n"
-"POT-Creation-Date: 2026-06-25 16:11:11\n"
+"Project-Id-Version: 5.11.2\n"
+"POT-Creation-Date: 2026-08-06 16:27:20\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -185,7 +185,7 @@ msgstr ""
 msgid "Zim Desktop Wiki"
 msgstr ""
 
-msgid "Zim connection Online help"
+msgid "Zim connection plugin help"
 msgstr ""
 
 msgid "Zim installation not found"
@@ -198,7 +198,4 @@ msgid "Zim notebook"
 msgstr ""
 
 msgid "Zim page"
-msgstr ""
-
-msgid "https://peter88213.github.io/nvhelp-en"
 msgstr ""

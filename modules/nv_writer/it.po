@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.4.1\n"
-"POT-Creation-Date: 2026-06-21 08:36:21\n"
-"PO-Revision-Date: 2026-06-21 09:20:47\n"
+"Project-Id-Version: 5.6.2\n"
+"POT-Creation-Date: 2026-08-06 12:58:46\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -92,11 +92,11 @@ msgstr "Elimina carattere a destra"
 msgid "Delete to end of line"
 msgstr "Elimina fino a fine riga"
 
-msgid "Distraction-free writing plugin Online help"
-msgstr "Guida online del plugin scrittura senza distrazioni"
-
 msgid "Distraction-free writing plugin Options"
 msgstr "Opzioni del plugin scrittura senza distrazioni"
+
+msgid "Distraction-free writing plugin help"
+msgstr ""
 
 msgid "Documents found that might be edited"
 msgstr "Documenti trovati che potrebbero essere modificati"
@@ -134,6 +134,9 @@ msgstr "Obiettivi"
 msgid "Green"
 msgstr "Verde"
 
+msgid "Help"
+msgstr "Aiuto"
+
 msgid "Help on/off"
 msgstr "Aiuto sì/no"
 
@@ -163,9 +166,6 @@ msgstr "Nuovo"
 
 msgid "Next"
 msgstr "Successivo"
-
-msgid "Online help"
-msgstr "Aiuto online"
 
 msgid "Open new line"
 msgstr "Inserisci nuova riga"
@@ -245,6 +245,9 @@ msgstr "Annulla"
 msgid "Untitled"
 msgstr "Senza titolo"
 
+msgid "User guide"
+msgstr ""
+
 msgid "View"
 msgstr "Visualizza"
 
@@ -259,9 +262,6 @@ msgstr "Costruzione del mondo"
 
 msgid "Write in distraction free mode"
 msgstr "Scrivi in modalità senza distrazioni"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "lowercase"
 msgstr "tutto minuscolo"

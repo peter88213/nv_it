@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.9.4\n"
-"POT-Creation-Date: 2026-03-19 21:16:52\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.11.2\n"
+"POT-Creation-Date: 2026-08-06 16:27:20\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -184,8 +184,8 @@ msgstr "Costruzione del mondo"
 msgid "Zim Desktop Wiki"
 msgstr "Zim Desktop Wiki"
 
-msgid "Zim connection Online help"
-msgstr "Guida online della connessione Zim"
+msgid "Zim connection plugin help"
+msgstr ""
 
 msgid "Zim installation not found"
 msgstr "Installazione di Zim non trovata"
@@ -198,6 +198,3 @@ msgstr "Blocco appunti Zim"
 
 msgid "Zim page"
 msgstr "Pagina Zim"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"

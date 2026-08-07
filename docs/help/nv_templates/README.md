@@ -8,16 +8,12 @@
 
 This page refers to the latest
 [nv_templates](https://github.com/peter88213/nv_templates/) release. You
-can open it with **Aiuto > Guida online del plugin Modelli**.
+can open it with **Aiuto > ${Templates plugin help}**.
+
+---
 
 With *novelibre*, you can define a narrative structure with stages. 
 *nv_templates* faciliates the reuse of narrative structures.
-
-The plugin adds a **Modelli di storia** entry to the *novelibre* **Strumenti**
-menu, a **Crea da modello......}** entry to the **File} > Nuovo**
-submenu, and a **Guida online del plugin Modelli** entry to the **Aiuto**
-menu.
-
 
 > **Important**
 > 

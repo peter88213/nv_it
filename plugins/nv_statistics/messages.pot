@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.4\n"
-"POT-Creation-Date: 2026-04-08 20:47:46\n"
+"Project-Id-Version: 5.9.2\n"
+"POT-Creation-Date: 2026-08-06 16:23:11\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -77,7 +77,7 @@ msgstr ""
 msgid "Plot structure"
 msgstr ""
 
-msgid "Project statistics Online help"
+msgid "Project statistics plugin help"
 msgstr ""
 
 msgid "Project statistics view"
@@ -96,7 +96,4 @@ msgid "Viewpoints"
 msgstr ""
 
 msgid "World building"
-msgstr ""
-
-msgid "https://peter88213.github.io/nvhelp-en"
 msgstr ""

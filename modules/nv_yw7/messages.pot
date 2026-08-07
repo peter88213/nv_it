@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.2\n"
-"POT-Creation-Date: 2026-03-30 14:23:09\n"
+"Project-Id-Version: 5.9.1\n"
+"POT-Creation-Date: 2026-08-06 16:28:08\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -98,9 +98,6 @@ msgstr ""
 msgid "World building"
 msgstr ""
 
-msgid "https://peter88213.github.io/nv_yw7/help/"
-msgstr ""
-
 msgid "unknown"
 msgstr ""
 
@@ -110,7 +107,7 @@ msgstr ""
 msgid "yWriter seems to be open. Please close first"
 msgstr ""
 
-msgid "yw7 plugin Online help"
+msgid "yw7 plugin help"
 msgstr ""
 
 msgid "yw7 project"

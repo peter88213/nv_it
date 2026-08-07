@@ -8,12 +8,8 @@
 
 This page refers to the latest
 [nv_statistics](https://github.com/peter88213/nv_statistics/) release.
-You can open it with **Aiuto > Guida online delle statistiche del progetto**.
+You can open it with **Aiuto > ${Project statistics plugin help}**.
 
-The plugin adds a **Visualizzazione statistiche progetto** entry to the *novelibre*
-**Strumenti** menu, and a **Guida online delle statistiche del progetto** entry to the
-**Aiuto** menu. The Toolbar gets a ![Statistics](images/statistics.png)
-button.
 
 ## Launch the program
 

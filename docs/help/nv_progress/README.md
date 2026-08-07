@@ -8,11 +8,9 @@
 
 This page refers to the latest
 [nv_progress](https://github.com/peter88213/nv_progress/) release. 
-You can open it with **Aiuto > Guida online del visualizzatore di progressi**.
+You can open it with **Aiuto > ${Progress viewer plugin help}**.
 
-The plugin adds a **Registro progressi giornalieri** entry to the *novelibre*
-**Strumenti** menu.
-
+---
 
 > **Important**
 > 

@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.59.0\n"
-"POT-Creation-Date: 2026-06-10 19:22:16\n"
-"PO-Revision-Date: 2026-06-10 19:28:36\n"
+"Project-Id-Version: 5.63.2\n"
+"POT-Creation-Date: 2026-08-06 12:32:12\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -1016,9 +1016,6 @@ msgstr "OK"
 msgid "Older than the project file"
 msgstr "Più vecchio del file di progetto"
 
-msgid "Online help"
-msgstr "Aiuto online"
-
 msgid "Open"
 msgstr "Apri"
 
@@ -1597,6 +1594,9 @@ msgstr "Usa numeri romani per le parti"
 
 msgid "Used"
 msgstr "Usato"
+
+msgid "User guide"
+msgstr ""
 
 msgid "Version"
 msgstr "Versione"

@@ -8,11 +8,9 @@
 
 This page refers to the latest
 [nv_matrix](https://github.com/peter88213/nv_matrix/) release. You can
-open it with **Aiuto > Guida online del plugin Matrice**.
+open it with **Aiuto > ${Matrix plugin help}**
+or `F1` when the matrix manager is active.
 
-The plugin adds a **Matrix** entry to the *novelibre* **Strumenti** menu,
-and a **Guida online del plugin Matrice** entry to the **Aiuto** menu. The
-Toolbar gets a ![Matrix](images/matrix.png) button.
 
 ## Start the matrix manager
 

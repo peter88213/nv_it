@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.0\n"
-"POT-Creation-Date: 2026-04-03 16:40:20\n"
+"Project-Id-Version: 5.9.2\n"
+"POT-Creation-Date: 2026-08-06 13:25:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -47,6 +47,9 @@ msgstr ""
 msgid "Goals"
 msgstr ""
 
+msgid "Help"
+msgstr ""
+
 msgid "Items"
 msgstr ""
 
@@ -62,7 +65,7 @@ msgstr ""
 msgid "Matrix"
 msgstr ""
 
-msgid "Matrix plugin Online help"
+msgid "Matrix plugin help"
 msgstr ""
 
 msgid "Minor Character"
@@ -87,7 +90,4 @@ msgid "Sections"
 msgstr ""
 
 msgid "World building"
-msgstr ""
-
-msgid "https://peter88213.github.io/nvhelp-en"
 msgstr ""

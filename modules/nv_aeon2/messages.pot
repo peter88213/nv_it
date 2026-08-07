@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.0\n"
-"POT-Creation-Date: 2026-03-31 21:03:53\n"
+"Project-Id-Version: 5.9.3\n"
+"POT-Creation-Date: 2026-08-06 13:06:10\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid "Add or update moon phase data"
 msgstr ""
 
-msgid "Aeon 2 plugin Online help"
+msgid "Aeon 2 plugin help"
 msgstr ""
 
 msgid "Aeon Timeline 2 project"
@@ -188,7 +188,7 @@ msgstr ""
 msgid "World building"
 msgstr ""
 
-msgid "https://peter88213.github.io/nv_aeon2/help/"
+msgid "help"
 msgstr ""
 
 msgid "newer"

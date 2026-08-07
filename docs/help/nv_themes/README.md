@@ -9,8 +9,8 @@
 This page refers to the latest
 [nv_themes](https://github.com/peter88213/nv_themes/) release.
 
-The plugin adds a **Cambia tema** entry to the *novelibre* **Visualizza** menu.
 
+---
 
 > **Important**
 > 

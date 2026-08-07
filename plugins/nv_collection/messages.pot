@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.7.0\n"
-"POT-Creation-Date: 2026-06-25 16:15:38\n"
+"Project-Id-Version: 5.8.3\n"
+"POT-Creation-Date: 2026-08-06 12:51:15\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -68,7 +68,7 @@ msgstr ""
 msgid "Collection"
 msgstr ""
 
-msgid "Collection plugin Online help"
+msgid "Collection plugin help"
 msgstr ""
 
 msgid "Collection saved"
@@ -117,9 +117,6 @@ msgid "No valid version found in file"
 msgstr ""
 
 msgid "No valid xml root element found in file"
-msgstr ""
-
-msgid "Online help"
 msgstr ""
 
 msgid "Open..."
@@ -198,9 +195,6 @@ msgid "Update project data from the selected book"
 msgstr ""
 
 msgid "World building"
-msgstr ""
-
-msgid "https://peter88213.github.io/nvhelp-en"
 msgstr ""
 
 msgid "novelibre collection"

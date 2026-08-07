@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.0.5\n"
-"POT-Creation-Date: 2026-05-07 17:42:47\n"
+"Project-Id-Version: 5.1.2\n"
+"POT-Creation-Date: 2026-08-06 13:02:24\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -47,7 +47,7 @@ msgstr ""
 msgid "Draft"
 msgstr ""
 
-msgid "EPUB export plugin Online help"
+msgid "EPUB export plugin help"
 msgstr ""
 
 msgid "Ending"
@@ -99,7 +99,4 @@ msgid "World building"
 msgstr ""
 
 msgid "e-book"
-msgstr ""
-
-msgid "https://peter88213.github.io/nvhelp-en/nv_epub/"
 msgstr ""

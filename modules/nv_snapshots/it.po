@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.3.1\n"
-"POT-Creation-Date: 2026-03-19 21:12:52\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.4.3\n"
+"POT-Creation-Date: 2026-08-06 12:44:53\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -112,9 +112,6 @@ msgstr "Personaggio secondario"
 msgid "Ok"
 msgstr "Ok"
 
-msgid "Online help"
-msgstr "Aiuto online"
-
 msgid "Open Snapshot folder"
 msgstr "Apri cartella Snapshot"
 
@@ -175,8 +172,8 @@ msgstr "Snapshot ripristinato"
 msgid "Snapshots"
 msgstr "Snapshot"
 
-msgid "Snapshots plugin Online help"
-msgstr "Guida online del plugin Snapshot"
+msgid "Snapshots plugin help"
+msgstr ""
 
 msgid "Story structure"
 msgstr "Struttura della storia"
@@ -201,6 +198,3 @@ msgstr "Costruzione del mondo"
 
 msgid "XML data files"
 msgstr "File dati XML"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"

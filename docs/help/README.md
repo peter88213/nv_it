@@ -6,7 +6,7 @@
 
 This page refers to the
 [novelibre](https://github.com/peter88213/novelibre/) application. 
-You can open it with **Aiuto > Aiuto online**.
+You can open it with **Aiuto > ${User guide}**.
 
 Here you will find the most important help pages from the novelibre user manual. 
 More information on installing and uninstalling novelibre, interesting details 
@@ -23,7 +23,7 @@ provides further detailed instructions in English.
 > Terms for which no translations are currently available are represented by placeholders. 
 > Volunteers who would like to translate and update these pages are welcome. 
 >
-> The help pages are based on **novelibre version 5.62**.
+> The help pages are based on **novelibre version 5.63**.
 > For newer features, please refer to the English online help. 
 
 ## General

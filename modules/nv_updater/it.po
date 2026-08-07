@@ -3,27 +3,15 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.3.2\n"
-"POT-Creation-Date: 2025-08-16 15:26:06\n"
-"PO-Revision-Date: 2026-05-09 18:47:11\n"
+"Project-Id-Version: 5.4.1\n"
+"POT-Creation-Date: 2026-08-06 12:48:20\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
-msgid "Alt-Down"
-msgstr "Alt-Giù"
-
-msgid "Alt-Left"
-msgstr "Alt-Sinistra"
-
-msgid "Alt-Right"
-msgstr "Alt-Destra"
-
-msgid "Alt-Up"
-msgstr "Alt-Su"
 
 msgid "Check for updates"
 msgstr "Controlla aggiornamenti"
@@ -37,8 +25,14 @@ msgstr "Ctrl"
 msgid "Del"
 msgstr "Canc"
 
+msgid "Down"
+msgstr "Giù"
+
 msgid "Finished"
 msgstr "Completato"
+
+msgid "Help"
+msgstr "Aiuto"
 
 msgid "Home page"
 msgstr "Pagina principale"
@@ -49,14 +43,14 @@ msgstr "Versione installata"
 msgid "Latest version"
 msgstr "Ultima versione"
 
+msgid "Left"
+msgstr "Sinistra"
+
 msgid "Looking for updates"
 msgstr "Ricerca aggiornamenti in corso"
 
 msgid "No updates available"
 msgstr "Nessun aggiornamento disponibile"
-
-msgid "Online help"
-msgstr "Aiuto online"
 
 msgid "Outdated components remain active until next start"
 msgstr "I componenti non aggiornati rimarranno attivi fino al prossimo avvio"
@@ -67,17 +61,20 @@ msgstr "Riavvia novelibre dopo aver installato gli aggiornamenti"
 msgid "Plugin"
 msgstr "Plugin"
 
+msgid "Right"
+msgstr "Destra"
+
 msgid "Shift"
 msgstr "Maiusc"
+
+msgid "Up"
+msgstr "Su"
 
 msgid "Update"
 msgstr "Aggiorna"
 
-msgid "Update checker Online help"
-msgstr "Guida online del controllo aggiornamenti"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"
+msgid "Update checker plugin help"
+msgstr ""
 
 msgid "unknown"
 msgstr "sconosciuto"

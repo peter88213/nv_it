@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.0.5\n"
-"POT-Creation-Date: 2026-05-07 17:42:47\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.1.2\n"
+"POT-Creation-Date: 2026-08-06 13:02:24\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -47,8 +47,8 @@ msgstr "Fatto"
 msgid "Draft"
 msgstr "Bozza"
 
-msgid "EPUB export plugin Online help"
-msgstr "Guida online del plugin di esportazione EPUB"
+msgid "EPUB export plugin help"
+msgstr ""
 
 msgid "Ending"
 msgstr "Finale"
@@ -100,6 +100,3 @@ msgstr "Costruzione del mondo"
 
 msgid "e-book"
 msgstr "e-book"
-
-msgid "https://peter88213.github.io/nvhelp-en/nv_epub/"
-msgstr "https://peter88213.github.io/nv_it/help/nv_epub/"

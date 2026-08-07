@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.0\n"
-"POT-Creation-Date: 2026-04-03 16:40:20\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.9.2\n"
+"POT-Creation-Date: 2026-08-06 13:25:25\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -46,6 +46,9 @@ msgstr "Finale"
 msgid "Goals"
 msgstr "Obiettivi"
 
+msgid "Help"
+msgstr "Aiuto"
+
 msgid "Items"
 msgstr "Oggetti"
 
@@ -61,8 +64,8 @@ msgstr "Solo personaggi principali"
 msgid "Matrix"
 msgstr "Matrice"
 
-msgid "Matrix plugin Online help"
-msgstr "Guida online del plugin Matrice"
+msgid "Matrix plugin help"
+msgstr ""
 
 msgid "Minor Character"
 msgstr "Personaggio secondario"
@@ -87,6 +90,3 @@ msgstr "Sezioni"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"

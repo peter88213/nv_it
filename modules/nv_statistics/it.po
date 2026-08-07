@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.4\n"
-"POT-Creation-Date: 2026-04-08 20:47:46\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.9.2\n"
+"POT-Creation-Date: 2026-08-06 16:23:11\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -76,8 +76,8 @@ msgstr "Progressi trama"
 msgid "Plot structure"
 msgstr "Struttura della trama"
 
-msgid "Project statistics Online help"
-msgstr "Guida online delle statistiche del progetto"
+msgid "Project statistics plugin help"
+msgstr ""
 
 msgid "Project statistics view"
 msgstr "Visualizzazione statistiche progetto"
@@ -96,6 +96,3 @@ msgstr "Punti di vista"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"

@@ -8,15 +8,12 @@
 
 This page refers to the latest
 [nv_zim](https://github.com/peter88213/nv_zim/) release. You can open it
-with **Aiuto > Guida online della connessione Zim**.
+with **Aiuto > ${Zim connection plugin help}**.
+
+---
 
 *nv_zim* is a plugin that connects *novelibre* projects with a *Zim
 Desktop Wiki*. This is mainly intended for world building documentation.
-
-The plugin adds an **Zim Desktop Wiki** entry to the *novelibre*
-**Strumenti** menu, and a **Guida online della connessione Zim** entry to the
-**Aiuto** menu. The property views of characters, locations, items, and
-book get a ![Zim](images/zim.png) button. The Toolbar gets a ![Zim](images/zim.png) button.
 
 ## Setting up Zim Desktop Wiki
 

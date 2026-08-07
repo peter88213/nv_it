@@ -8,11 +8,8 @@
 
 This page refers to the latest
 [nv_snapshots](https://github.com/peter88213/nv_snapshots/) release. You
-can open it with **Aiuto > Guida online del plugin Snapshot** or `F1`.
-
-The plugin adds a **Snapshots** entry to the *novelibre* **Strumenti** menu,
-a **Snapshot** entry to the **File** menu, and a 
-**Snapshots Online help** entry to the **Aiuto** menu.
+can open it with **Aiuto > ${Snapshots plugin help}**
+or `F1` when the snapshot dialog or the snapshot manager is active.
 
 ## General
 

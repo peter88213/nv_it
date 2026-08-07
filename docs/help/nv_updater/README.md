@@ -8,11 +8,8 @@
 
 This page refers to the latest
 [nv_updater](https://github.com/peter88213/nv_updater/) release. You can
-open it with **Aiuto > Guida online del controllo aggiornamenti**.
+open it with **Aiuto > ${Update checker plugin help}**.
 
-The plugin adds a **Controlla aggiornamenti** entry to the *novelibre*
-**Strumenti** menu, and an **Guida online del controllo aggiornamenti** entry to the
-**Aiuto** menu.
 
 ## Start the update checker
 

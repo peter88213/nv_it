@@ -15,10 +15,10 @@
 > 
 > With `F1` you can call up a help page corresponding to the context.
 
-## Aiuto online
+## ${User guide}
 
-With **Aiuto > Aiuto online** you can launch your system web
-browser with the *novelibre* online help URL.
+With **Aiuto > ${User guide}** you can launch your system web
+browser with the *novelibre* user guide URL.
 
 ## Informazioni su novelibre
 

@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.6.0\n"
-"POT-Creation-Date: 2026-01-12 17:27:50\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.7.2\n"
+"POT-Creation-Date: 2026-08-06 16:22:29\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -28,8 +28,8 @@ msgstr "Registro progressi giornalieri"
 msgid "Date"
 msgstr "Data"
 
-msgid "Progress viewer Online help"
-msgstr "Guida online del visualizzatore di progressi"
+msgid "Progress viewer plugin help"
+msgstr ""
 
 msgid "With unused"
 msgstr "Con inutilizzati"
@@ -39,6 +39,3 @@ msgstr "Il registro del conteggio parole è abilitato"
 
 msgid "Words total"
 msgstr "Parole totali"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"

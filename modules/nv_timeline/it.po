@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.9.0\n"
-"POT-Creation-Date: 2026-03-31 21:01:41\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.10.1\n"
+"POT-Creation-Date: 2026-08-06 16:26:04\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -124,8 +124,8 @@ msgstr "Maiusc"
 msgid "There are unsaved changes"
 msgstr "Ci sono modifiche non salvate"
 
-msgid "Timeline plugin Online help"
-msgstr "Guida online del plugin Cronologia"
+msgid "Timeline plugin help"
+msgstr ""
 
 msgid "Up"
 msgstr "Su"
@@ -141,9 +141,6 @@ msgstr "Costruzione del mondo"
 
 msgid "create"
 msgstr "crea"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"
 
 msgid "newer"
 msgstr "più recente"

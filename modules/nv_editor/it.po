@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.10.2\n"
-"POT-Creation-Date: 2026-03-29 13:38:54\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.11.3\n"
+"POT-Creation-Date: 2026-08-06 12:43:01\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -76,8 +76,8 @@ msgstr "Bozza"
 msgid "Edit"
 msgstr "Modifica"
 
-msgid "Editor plugin Online help"
-msgstr "Guida online del plugin Editor"
+msgid "Editor plugin help"
+msgstr ""
 
 msgid "Emphasis"
 msgstr "Enfasi"
@@ -117,9 +117,6 @@ msgstr "Nuovo"
 
 msgid "Next"
 msgstr "Successivo"
-
-msgid "Online help"
-msgstr "Aiuto online"
 
 msgid "Opening"
 msgstr "Apertura"
@@ -177,6 +174,3 @@ msgstr "Visualizza"
 
 msgid "World building"
 msgstr "Costruzione del mondo"
-
-msgid "https://peter88213.github.io/nvhelp-en"
-msgstr "https://peter88213.github.io/nv_it/help/"

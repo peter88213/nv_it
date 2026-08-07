@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.8.2\n"
-"POT-Creation-Date: 2026-03-30 14:23:09\n"
-"PO-Revision-Date: 2026-05-17 22:01:09\n"
+"Project-Id-Version: 5.9.1\n"
+"POT-Creation-Date: 2026-08-06 16:28:08\n"
+"PO-Revision-Date: 2026-08-07 15:37:57\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -97,9 +97,6 @@ msgstr "Progressi trama"
 msgid "World building"
 msgstr "Costruzione del mondo"
 
-msgid "https://peter88213.github.io/nv_yw7/help/"
-msgstr "https://peter88213.github.io/nv_yw7/help/"
-
 msgid "unknown"
 msgstr "sconosciuto"
 
@@ -109,8 +106,8 @@ msgstr "Progetto yWriter 7"
 msgid "yWriter seems to be open. Please close first"
 msgstr "yWriter sembra essere aperto. Chiudilo prima di procedere"
 
-msgid "yw7 plugin Online help"
-msgstr "Guida online del plugin yw7"
+msgid "yw7 plugin help"
+msgstr ""
 
 msgid "yw7 project"
 msgstr "Progetto yw7"
