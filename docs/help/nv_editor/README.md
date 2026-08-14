@@ -19,9 +19,11 @@ similar to HTML.
 
 ## Launch the section editor
 
-Open a section editor window by double-clicking on a section, or via the
-**Sezione > Modifica** menu entry when a section is selected, or by hitting
-the `Enter` key.
+First, select a section in the project tree. 
+Then open a section editor window 
+via the **Sezione > Modifica** menu entry,
+or `Ctrl`-`E`, 
+or via the **Modifica** entry in the section context menu.
 
 
 > **Note**
