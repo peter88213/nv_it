@@ -48,13 +48,27 @@ You can adjust the right margin by specifying a line length of less than 80 char
 Only integer values are accepted, and the input will be automatically limited 
 to a value between 20 and 80 characters per line. 
 
-Press the `Enter` key to finish entering your input.
-
 > **Note**
 > 
 > The characters per line limit applies to fonts with a fixed character width. 
 > If you use a font with a variable character width, 
 > the actual line length limit may differ from the set value.  
+
+---
+
+## ${Username}
+
+Here you can enter the name that will be assigned to new comments you create 
+in distraction-free writing mode.
+If you leave this entry blank, the novel author's name will be used for new comments.
+
+> **Note**
+> 
+> Comments created with *Writer* are always attributed 
+> to the name listed in the OpenOffice/LibreOffice user properties.
+> That's why you'll want to enter that name as your username here as well.    
+
+
 
 ---
 

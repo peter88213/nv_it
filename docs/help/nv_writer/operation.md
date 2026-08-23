@@ -165,9 +165,9 @@
 
 > **Note**
 >
-> The author of the novel is listed as the comment creator, if known.
-> In contrast, comments created with *Writer* are always attributed 
-> to the name listed in the OpenOffice/LibreOffice user properties.      
+> The username is listed as the author of the comment if specified 
+> in the *Options* dialog; 
+> otherwise, the author of the novel is listed.     
 
 ## Format text
 
