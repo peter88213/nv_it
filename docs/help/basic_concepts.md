@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../) > [Aiuto online](./) > Basic concepts
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../) > [Aiuto](./) > Basic concepts
 
 ---
 

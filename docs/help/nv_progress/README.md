@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto online](../) > nv_progress
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto](../) > nv_progress
 
 ---
 

@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto online](../) > nv_snapshots
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto](../) > nv_snapshots
 
 ---
 
@@ -72,7 +72,7 @@ description will pop up.
 
 Confirm the entry and create the snapshot.
 
-##### Aiuto online
+##### Aiuto
 
 Go to this help page.
 
@@ -196,6 +196,6 @@ individually or in groups from the snapshot to the current project.
 
 ------------------------------------------------------------------------
 
-#### Aiuto > Aiuto online
+#### Aiuto > Aiuto
 
 Starts the system web browser with this page.

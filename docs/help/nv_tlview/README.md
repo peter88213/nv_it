@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto online](../) > nv_tlview
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto](../) > nv_tlview
 
 ---
 
@@ -131,7 +131,7 @@ Reset the cascading to default.
 
 ### "Aiuto menu
 
-#### Aiuto online
+#### Aiuto
 
 Open this help page in a web browser.
 

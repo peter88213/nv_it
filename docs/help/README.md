@@ -1,8 +1,8 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../) > Aiuto online
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../) > Aiuto
 
 ---
 
-# ![N](../img/nLogo32.png) novelibre Aiuto online
+# ![N](../img/nLogo32.png) novelibre Aiuto
 
 This page refers to the
 [novelibre](https://github.com/peter88213/novelibre/) application. 

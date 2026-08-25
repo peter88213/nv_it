@@ -1,4 +1,4 @@
-[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto online](../) > nv_updater
+[novelibre Pagina principale](https://github.com/peter88213/novelibre) > [Pagine in italiano](../../) > [Aiuto](../) > nv_updater
 
 ---
 
@@ -49,7 +49,7 @@ blue.
 starts your web browser with the home page of the selected software
 component. There you can see e.g. the changelog.
 
-#### Aiuto online (or F1)
+#### Aiuto (or F1)
 
 starts your web browser with this page of the user guide.
 
