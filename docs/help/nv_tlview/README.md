@@ -198,4 +198,4 @@ Close the timeline viewer window. Same as `Ctrl`-`Q` (Linux) or `Alt`-`F4` (Wind
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) by Peter Triesberger. All rights reserved.
+Copyright (c) 2025 Peter Triesberger. All rights reserved.

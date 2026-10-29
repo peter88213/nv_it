@@ -108,4 +108,4 @@ collection, use **Serie > Rimuovi la serie e i libri selezionati**.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) by Peter Triesberger. All rights reserved.
+Copyright (c) 2025 Peter Triesberger. All rights reserved.

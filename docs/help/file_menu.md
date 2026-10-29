@@ -226,4 +226,4 @@ project, if it has changed.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) by Peter Triesberger. All rights reserved.
+Copyright (c) 2025 Peter Triesberger. All rights reserved.

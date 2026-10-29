@@ -39,4 +39,4 @@ By double-clicking on a label you can select the related element in the
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) by Peter Triesberger. All rights reserved.
+Copyright (c) 2025 Peter Triesberger. All rights reserved.
