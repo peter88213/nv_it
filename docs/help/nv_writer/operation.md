@@ -172,7 +172,9 @@
 ## Format text
 
 -   `Ctrl`-`I` formats the selected text "Enfasi".
+    If the selection is already emphasized, the command removes the formatting.
 -   `Ctrl`-`B` formats the selected text "`Enfasi marcata`".
+    If the selection is already strongly emphasized, the command removes the formatting.
 -   `Ctrl`-`M` removes "Enfasi" and "`Enfasi marcata`" formatting
     from the selection.
 
@@ -214,6 +216,6 @@
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 Peter Triesberger. All rights reserved.
+Copyright (c) 2024 Peter Triesberger. All rights reserved.
 
     
