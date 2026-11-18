@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.65.1\n"
-"POT-Creation-Date: 2026-08-21 23:09:51\n"
+"Project-Id-Version: 5.68.0\n"
+"POT-Creation-Date: 2026-11-18 08:42:30\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -150,9 +150,6 @@ msgid "Brief synopsis"
 msgstr ""
 
 msgid "Brief synopsis (export only)"
-msgstr ""
-
-msgid "Broken link fixed"
 msgstr ""
 
 msgid "Cancel"
@@ -777,6 +774,9 @@ msgid "Latest backup successfully restored."
 msgstr ""
 
 msgid "Left"
+msgstr ""
+
+msgid "Link fixed"
 msgstr ""
 
 msgid "Links"

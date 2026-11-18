@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.65.1\n"
-"POT-Creation-Date: 2026-08-21 23:09:51\n"
-"PO-Revision-Date: 2026-08-25 18:29:30\n"
+"Project-Id-Version: 5.68.0\n"
+"POT-Creation-Date: 2026-11-18 08:42:30\n"
+"PO-Revision-Date: 2026-11-18 17:51:15\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -145,9 +145,6 @@ msgstr "Sinossi breve"
 
 msgid "Brief synopsis (export only)"
 msgstr "Sinossi breve (solo esportazione)"
-
-msgid "Broken link fixed"
-msgstr "Collegamento interrotto ripristinato"
 
 msgid "Cancel"
 msgstr "Annulla"
@@ -772,6 +769,9 @@ msgstr "Ultimo backup ripristinato con successo."
 
 msgid "Left"
 msgstr "Sinistra"
+
+msgid "Link fixed"
+msgstr "Collegamento ripristinato"
 
 msgid "Links"
 msgstr "Collegamenti"

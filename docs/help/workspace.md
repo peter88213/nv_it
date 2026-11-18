@@ -63,15 +63,17 @@ or character).
 
 #### Move tree elements
 
-Drag and drop.
+Drag and drop while holding down the `Alt` key. Press `Ctrl`-`Z` to revert moves.
 
 > **Hint**
 > 
-> Press `Ctrl`-`Z` to revert moves.
+> With some Linux desktops, it may be necessary to first press the mouse
+> button, then the `${Alt}` key.
+
 
 #### Delete tree elements
 
-Select the element to delete and hit the `Del` key.
+Select the element to delete and hit the `Canc` key.
 
 -   Parts and chapters are deleted.
 -   Sections are marked "Non usato" and moved to the "Trash" chapter.
@@ -176,4 +178,4 @@ If the project is locked, the footer bar is displayed in reversed colors.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 Peter Triesberger. All rights reserved.
+Copyright (c) 2024 Peter Triesberger. All rights reserved.

@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.4.5\n"
-"POT-Creation-Date: 2026-08-22 19:41:20\n"
+"Project-Id-Version: 5.5.1\n"
+"POT-Creation-Date: 2026-08-25 17:55:51\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -13,6 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: novelibre pgettext.py 1.0\n"
 
+
+msgid "Cannot connect via the internet"
+msgstr ""
 
 msgid "Check for updates"
 msgstr ""

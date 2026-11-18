@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.7.0\n"
-"POT-Creation-Date: 2026-08-23 10:53:09\n"
+"Project-Id-Version: 5.10.0\n"
+"POT-Creation-Date: 2026-11-18 17:15:05\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -143,6 +143,9 @@ msgstr ""
 msgid "Key shortcut"
 msgstr ""
 
+msgid "Line height"
+msgstr ""
+
 msgid "Live update"
 msgstr ""
 
@@ -177,6 +180,9 @@ msgid "Outline"
 msgstr ""
 
 msgid "Paper"
+msgstr ""
+
+msgid "Paragraph spacing (lines)"
 msgstr ""
 
 msgid "Paste"
@@ -237,6 +243,9 @@ msgid "Tagged manuscript for proofing"
 msgstr ""
 
 msgid "UPPERCASE"
+msgstr ""
+
+msgid "Undefined"
 msgstr ""
 
 msgid "Undo"

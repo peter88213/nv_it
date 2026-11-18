@@ -45,36 +45,37 @@ selected, the book is added as a part of this series.
 
 ## Update book description
 
-To update the book description from the current project, use **Book >
-Update book data from the current project**.
+To update the book description from the current project, use **Libro >
+Aggiorna i dati del libro dal progetto corrente**.
 
 
 > **Caution**
 > 
 > Be sure not to change the book title, because it is used as identifier.
 
-To update the current project description from the book, use **Book >
-Update project data from the selected project**.
+To update the current project description from the book, use **Libro >
+${Update project data from the selected project}**.
 
 ## Remove books from the collection
 
-To remove the selected book from the collection, use **Book > Remove
-selected book from the collection**.
+To remove the selected book from the collection, use **Libro > ${Remove
+selected book from the collection}**.
 
 ## Move series and books
 
-Drag and drop.
+Drag and drop while pressing the `${Alt}` key.
+Be aware, there is no "Undo" feature.
 
-
-> **Caution**
+> **Hint**
 > 
-> Be aware, there is no "Undo" feature.
+> With some Linux desktops, it may be necessary to first press the mouse
+> button, then the `${Alt}` key.
 
 
 ## Remove books
 
 To remove a book from the collection, either select the book and hit the
-`Del` key, or use **Libro > Rimuovi il libro selezionato dalla collezione**.
+`Canc` key, or use **Libro > Rimuovi il libro selezionato dalla collezione**.
 
 
 > **Note**
@@ -108,4 +109,4 @@ collection, use **Serie > Rimuovi la serie e i libri selezionati**.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 Peter Triesberger. All rights reserved.
+Copyright (c) 2024-2026 Peter Triesberger. All rights reserved.

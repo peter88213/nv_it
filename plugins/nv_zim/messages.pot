@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.11.3\n"
-"POT-Creation-Date: 2026-08-22 18:59:29\n"
+"Project-Id-Version: 5.12.3\n"
+"POT-Creation-Date: 2026-11-05 10:31:55\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -27,9 +27,6 @@ msgid "Back up the existing wiki and create a new one containing all pages?"
 msgstr ""
 
 msgid "Bio"
-msgstr ""
-
-msgid "Broken link fixed"
 msgstr ""
 
 msgid "Browse"
@@ -72,6 +69,9 @@ msgid "Illegal value"
 msgstr ""
 
 msgid "Items"
+msgstr ""
+
+msgid "Link fixed"
 msgstr ""
 
 msgid "Locations"
@@ -153,6 +153,9 @@ msgid "Too large"
 msgstr ""
 
 msgid "Too small"
+msgstr ""
+
+msgid "Undefined"
 msgstr ""
 
 msgid "Untitled"
